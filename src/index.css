@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -9,7 +9,7 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
@@ -18,4 +18,58 @@ code {
   position: fixed;
   width: 100vw;
   height: 100vh;
+}
+
+.player-count {
+  background-image: url(https://picsum.photos/200/200);
+  display: flex;
+  background-size: auto;
+  width: 300px;
+  height: 300px;
+  border: 3px solid white;
+  border-radius: 2rem;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  filter: grayscale(100%) blur(1px);
+}
+
+.player-count:hover {
+  filter: none;
+}
+
+.player-count h3 {
+  font-size: 5rem;
+  font-weight: bold;
+  text-shadow: 3px 3px 2px #000, -3px 3px 2px #000, -3px -3px 0 #000,
+    3px -3px 0 #000;
+}
+
+#ones {
+  background-image: url(./img/ones.webp);
+  background-size: cover;
+}
+
+#twos {
+  background-image: url(./img/twos.jpg);
+  width: 400px;
+  background-size: cover;
+}
+
+#threes {
+  background-image: url(./img/threes.jpg);
+  width: 400px;
+  background-size: cover;
+}
+
+#fours {
+  background-image: url(./img/fours.avif);
+  width: 600px;
+  background-size: cover;
+}
+
+#fives {
+  background-image: url(./img/fives.webp);
+  width: 600px;
+  background-size: cover;
 }

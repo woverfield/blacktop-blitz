@@ -1,13 +1,13 @@
 import React from "react";
+import MainDisplay from "./MainDisplay";
 import Navigation from "./Navigation";
-import MainMenu from "./MainMenu";
 
 export default function HomeScreen() {
   return (
     <main>
       <div className="background">
         <Navigation />
-        <MainMenu />
+        <MainDisplay />
       </div>
     </main>
   );

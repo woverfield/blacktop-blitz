@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ['Montserrat']
-      }
+      },
     },
   },
   plugins: [],

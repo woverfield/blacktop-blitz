@@ -1,10 +1,15 @@
 import React from "react";
 import Logo from "../img/home-logo.svg";
+import { Link } from "react-router-dom";
 
 export default function Navigation() {
   return (
     <nav className="container mx-auto flex items-center justify-between mt-5">
-      <img src={Logo} alt="" />
+      <Link reloadDocument>
+        <button>
+          <img src={Logo} alt="" />
+        </button>
+      </Link>
       <ul className="flex gap-10 text-white text-3xl font-medium">
         {/*Nav Options*/}
         <li className="p-2">
