@@ -73,3 +73,27 @@ code {
   width: 600px;
   background-size: cover;
 }
+
+.section {
+  text-align: center;
+  h3 {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    color: black;
+  }
+}
+
+
+.query {
+  text-align: center;
+  li {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-bottom: 2rem;
+  }
+  input {
+    text-align: right;
+  }
+}

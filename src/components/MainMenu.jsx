@@ -7,12 +7,11 @@ export default function MainMenu({onStateChange}) {
 
   const handleChange = () => {
     setNextSection('SizeSelection');
-    onStateChange('SizeSelection')
-    console.log(nextSection);
+    onStateChange('SizeSelection');
   }
 
   return (
-    <main>
+    <main className="flex h-full flex-col justify-center">
       {/*Title*/}
       <div className="container mx-auto flex flex-col items-center gap-5">
         <img src={BlacktopText} alt="" className="max-w-xl" />
