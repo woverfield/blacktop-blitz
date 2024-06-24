@@ -24,7 +24,7 @@ code {
   background-image: url(https://picsum.photos/200/200);
   display: flex;
   background-size: auto;
-  width: 300px;
+  width: 100%;
   height: 300px;
   border: 1px solid white;
   color: white;
@@ -45,31 +45,27 @@ code {
 }
 
 #ones {
-  background-image: url(./img/ones.webp);
+  /* background-image: url(./img/ones.webp); */
   background-size: cover;
 }
 
 #twos {
-  background-image: url(./img/twos.jpg);
-  width: 400px;
+  /* background-image: url(./img/twos.jpg); */
   background-size: cover;
 }
 
 #threes {
-  background-image: url(./img/threes.jpg);
-  width: 400px;
+  /* background-image: url(./img/threes.jpg); */
   background-size: cover;
 }
 
 #fours {
-  background-image: url(./img/fours.avif);
-  width: 600px;
+  /* background-image: url(./img/fours.avif); */
   background-size: cover;
 }
 
 #fives {
-  background-image: url(./img/fives.webp);
-  width: 600px;
+  /* background-image: url(./img/fives.webp); */
   background-size: cover;
 }
 
@@ -95,4 +91,65 @@ code {
   input {
     text-align: right;
   }
+}
+
+.carousel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 400px;
+}
+
+.slide {
+  border-radius: 0.5rem;
+  box-shadow: 0px 0px 7px #666;
+  width: 100%;
+  height: 100%;
+}
+
+.slide-hidden {
+  display: none;
+}
+
+.arrow {
+  position: absolute;
+  width: 2rem;
+  height: 2rem;
+  color: white;
+  filter: drop-shadow(0px 0px 5px #555);
+}
+
+.arrow:hover {
+  cursor: pointer;
+}
+
+.arrow-left {
+  left: 1rem;
+}
+
+.arrow-right {
+  right: 1rem;
+}
+
+.indicators {
+  display: flex;
+  position: absolute;
+  bottom: 1rem;
+}
+
+.indicator {
+  background-color: white;
+  height: .5rem;
+  width: .5rem;
+  border-radius: 100%;
+  border: none;
+  outline: none;
+  box-shadow: 0px 0px 5px #555;
+  margin: 0 0.2rem;
+  cursor: pointer;
+}
+
+.indicator-inactive {
+  background-color: grey;
 }
