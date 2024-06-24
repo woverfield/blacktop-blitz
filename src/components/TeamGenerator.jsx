@@ -13,12 +13,18 @@ export default function TeamGenerator() {
   const [p2Ready, setp2Ready] = useState(false);
 
 
-  const handleChange = () => {
-
+  const handleChange = (player) => {
+    if (player === 1) {
+        setp1Ready(true);
+    } else if (player === 2) {
+        setp2Ready(true);
+    }
   };
 
   useEffect(() => {
-
+    if (p1Ready === true && p2Ready === true) {
+        document.querySelector('.next-btn').style.visibility = 'visible';
+    }
   }, [p1Ready, p2Ready]);
 
   return (
@@ -39,24 +45,24 @@ export default function TeamGenerator() {
         <div className="flex h-full flex-col justify-center items-center ">
           <div className="flex flex-col container mx-auto bg-white">
             <h2 className="text-center">Round 1</h2>
-            <p className="text-center italic">Draft One Player</p>
+            <p className="text-center italic">Each Person Draft One Player</p>
             <div className="flex justify-around">
               <div>
                 <h2 className="text-center">Player 1 Options:</h2>
                 <ul className="flex gap-10">
-                  <button className="player-btn" onClick={handleChange}>
+                  <button className="player-btn" onClick={() => handleChange(1)}>
                     <li>
                       <img src="https://picsum.photos/100" alt="" />
                       <p>Player Name</p>
                     </li>
                   </button>
-                  <button className="player-btn" onClick={handleChange}>
+                  <button className="player-btn" onClick={() => handleChange(1)}>
                     <li>
                       <img src="https://picsum.photos/100" alt="" />
                       <p>Player Name</p>
                     </li>
                   </button>
-                  <button className="player-btn" onClick={handleChange}>
+                  <button className="player-btn" onClick={() => handleChange(1)}>
                     <li>
                       <img src="https://picsum.photos/100" alt="" />
                       <p>Player Name</p>
@@ -72,19 +78,19 @@ export default function TeamGenerator() {
               <div>
                 <h2 className="text-center">Player 2 Options:</h2>
                 <ul className="flex gap-10">
-                  <button className="player-btn" onClick={handleChange}>
+                  <button className="player-btn" onClick={() => handleChange(2)}>
                     <li>
                       <img src="https://picsum.photos/100" alt="" />
                       <p>Player Name</p>
                     </li>
                   </button>
-                  <button className="player-btn" onClick={handleChange}>
+                  <button className="player-btn" onClick={() => handleChange(2)}>
                     <li>
                       <img src="https://picsum.photos/100" alt="" />
                       <p>Player Name</p>
                     </li>
                   </button>
-                  <button className="player-btn" onClick={handleChange}>
+                  <button className="player-btn" onClick={() => handleChange(2)}>
                     <li>
                       <img src="https://picsum.photos/100" alt="" />
                       <p>Player Name</p>
@@ -94,7 +100,7 @@ export default function TeamGenerator() {
               </div>
             </div>
             <button
-              className="bg-black rounded-md p-5 px-10 text-xl text-white self-center invisible"
+              className="next-btn bg-black rounded-md p-5 px-10 text-xl text-white self-center invisible"
               type="submit"
             >
               NEXT
