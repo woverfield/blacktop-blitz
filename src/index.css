@@ -26,8 +26,7 @@ code {
   background-size: auto;
   width: 300px;
   height: 300px;
-  border: 3px solid white;
-  border-radius: 2rem;
+  border: 1px solid white;
   color: white;
   justify-content: center;
   align-items: center;

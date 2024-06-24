@@ -1,15 +1,9 @@
-import React, {useState} from "react";
+import React from "react";
+import { Link } from "react-router-dom";
 import BlacktopText from "../img/BLACKTOP.svg";
 import BlitzText from "../img/BLITZ.svg";
 
-export default function MainMenu({onStateChange}) {
-  const [nextSection, setNextSection] = useState('');
-
-  const handleChange = () => {
-    setNextSection('SizeSelection');
-    onStateChange('SizeSelection');
-  }
-
+export default function MainMenu({}) {
   return (
     <main className="flex h-full flex-col justify-center">
       {/*Title*/}
@@ -19,9 +13,11 @@ export default function MainMenu({onStateChange}) {
       </div>
       {/*Buttons*/}
       <div className="flex justify-center text-black gap-20 my-20 font-medium">
-        <button onClick={handleChange} className="bg-white rounded-md p-5 px-10 text-xl">
-          <h3>QUICK PLAY</h3>
-        </button>
+        <Link to="/qplay">
+          <button className="bg-white rounded-md p-5 px-10 text-xl">
+            <h3>QUICK PLAY</h3>
+          </button>
+        </Link>
         <button className="bg-white rounded-md p-5 px-10 text-xl">
           <h3>TOURNAMENT</h3>
         </button>
