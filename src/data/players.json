@@ -1,14 +1,17 @@
 [
     {
         "name": "Lionel Messi",
-        "overall": 94
+        "overall": 94,
+        "type": "allt"
     },
     {
         "name": "Cristiano Ronaldo",
-        "overall": 93
+        "overall": 93,
+        "type": "class"
     },
     {
         "name": "Neymar Jr.",
-        "overall": 91
+        "overall": 91,
+        "type": "curr"
     }
 ]
