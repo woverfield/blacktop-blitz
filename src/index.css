@@ -147,6 +147,10 @@ code {
   display: flex;
   position: absolute;
   bottom: 1rem;
+  background-color: black;
+  border: 1px solid white;
+  padding: 1rem;
+  border-radius: .5rem;
 }
 
 .indicator {
@@ -163,4 +167,8 @@ code {
 
 .indicator-inactive {
   background-color: grey;
+}
+
+.ps-1 {
+  width: 80%;
 }
