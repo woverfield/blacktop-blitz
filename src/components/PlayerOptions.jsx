@@ -55,62 +55,71 @@ export default function PlayerOptions({ players, formData }) {
       const playerIdx = Math.floor(Math.random() * possiblePlayers.length);
       p2options.push(possiblePlayers[playerIdx]);
     }
-    console.log(p1options);
-    console.log(p2options);
   };
 
-  getRound();
+  const getOptions = () => {
+    const options = [];
+    for (let i = 0; i < 3; i++) {
+      const playerIdx = Math.floor(Math.random() * possiblePlayers.length);
+      options.push(possiblePlayers[playerIdx]);
+    }
+    return options;
+  };
+  const p1options = getOptions();
+  const p2options = getOptions();
 
   return (
-    <div>
+    <div className="flex flex-col">
       <div className="flex justify-around">
-        <div>
+        <div className="pt-10">
           <h2 className="text-center">Player 1 Options:</h2>
           <ul className="flex gap-10">
             <button className="player-btn" onClick={() => handleChange(1)}>
               <li>
                 <img src="https://picsum.photos/100" alt="" />
-                <p>Player Name</p>
+                <p>{p1options[0].name}</p>
               </li>
             </button>
             <button className="player-btn" onClick={() => handleChange(1)}>
               <li>
                 <img src="https://picsum.photos/100" alt="" />
-                <p>Player Name</p>
+                <p>{p1options[1].name}</p>
               </li>
             </button>
             <button className="player-btn" onClick={() => handleChange(1)}>
               <li>
                 <img src="https://picsum.photos/100" alt="" />
-                <p>Player Name</p>
+                <p>{p1options[2].name}</p>
               </li>
             </button>
           </ul>
         </div>
-        <div className="flex align-middle">
-          <button>
+        <div className="flex flex-col items-center">
+          <h2>Round 1</h2>
+          <p className="text-center">Each Person Draft One Player</p>
+          <button className="mt-10">
             <RefreshIcon fontSize="large" />
           </button>
         </div>
-        <div>
+        <div className="pt-10">
           <h2 className="text-center">Player 2 Options:</h2>
           <ul className="flex gap-10">
             <button className="player-btn" onClick={() => handleChange(2)}>
               <li>
                 <img src="https://picsum.photos/100" alt="" />
-                <p>Player Name</p>
+                <p>{p2options[0].name}</p>
               </li>
             </button>
             <button className="player-btn" onClick={() => handleChange(2)}>
               <li>
                 <img src="https://picsum.photos/100" alt="" />
-                <p>Player Name</p>
+                <p>{p2options[1].name}</p>
               </li>
             </button>
             <button className="player-btn" onClick={() => handleChange(2)}>
               <li>
                 <img src="https://picsum.photos/100" alt="" />
-                <p>Player Name</p>
+                <p>{p2options[2].name}</p>
               </li>
             </button>
           </ul>

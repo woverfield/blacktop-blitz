@@ -78,7 +78,6 @@ code {
   }
 }
 
-
 .query {
   text-align: center;
   li {
@@ -150,13 +149,13 @@ code {
   background-color: black;
   border: 1px solid white;
   padding: 1rem;
-  border-radius: .5rem;
+  border-radius: 0.5rem;
 }
 
 .indicator {
   background-color: white;
-  height: .5rem;
-  width: .5rem;
+  height: 0.5rem;
+  width: 0.5rem;
   border-radius: 100%;
   border: none;
   outline: none;
@@ -171,4 +170,12 @@ code {
 
 .ps-1 {
   width: 80%;
+}
+
+.player-btn {
+  li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 }

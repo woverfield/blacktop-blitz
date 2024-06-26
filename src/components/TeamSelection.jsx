@@ -43,11 +43,11 @@ export default function TeamSelection(params) {
           <ul className="mt-10">
             <li>
               <label>Min Overall:</label>
-              <input name="min" type="text" className="text-black" />
+              <input name="min" type="text" className="text-black" placeholder="70" required/>
             </li>
             <li>
               <label>Max Overall:</label>
-              <input name="max" type="text" className="text-black" />
+              <input name="max" type="text" className="text-black" placeholder="99"required/>
             </li>
             <li>
               <label>Current</label>

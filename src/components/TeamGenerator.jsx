@@ -30,9 +30,7 @@ export default function TeamGenerator({ players, formData, handleReset }) {
         aria-describedby="modal-modal-description"
       >
         <div className="flex h-full flex-col justify-center items-center ">
-          <div className="flex flex-col container mx-auto bg-white">
-            <h2 className="text-center">Round 1</h2>
-            <p className="text-center italic">Each Person Draft One Player</p>
+          <div className="flex flex-col container justify-center mx-auto bg-white">
             <PlayerOptions size={players} formData={formData}/>
           </div>
         </div>
