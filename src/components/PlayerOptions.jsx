@@ -1,72 +1,34 @@
 import React, { useState, useEffect } from "react";
 import RefreshIcon from "@mui/icons-material/Refresh";
-import allPlayers from "../data/players.json";
 
-export default function PlayerOptions({ players, formData }) {
-  const gameSize = players;
-  const query = formData;
+export default function PlayerOptions({ size, formData, p1options, p2options}) {
+  const gameSize = size;
 
   // round selection state
   const [p1Ready, setp1Ready] = useState(false);
   const [p2Ready, setp2Ready] = useState(false);
+  const [p1Focus, setp1Focus] = useState(0);
+  const [p2Focus, setp2Focus] = useState(0);
 
-  const handleChange = (player) => {
+  const handleChange = (player, btn) => {
     if (player === 1) {
-      setp1Ready(true);
-    } else if (player === 2) {
-      setp2Ready(true);
-    }
-  };
-
-  useEffect(() => {
-    if (p1Ready === true && p2Ready === true) {
-      document.querySelector(".next-btn").style.visibility = "visible";
-    }
-  }, [p1Ready, p2Ready]);
-
-  const fitsQuery = (player) => {
-    console.log(player.overall);
-    console.log(query.get("min"));
-    if (
-      player.overall >= query.get("min") &&
-      player.overall <= query.get("max")
-    ) {
-      if (
-        (player.type === "curr" && query.get("curr") == "on") ||
-        (player.type === "class" && query.get("class") == "on") ||
-        (player.type === "allt" && query.get("allt") == "on")
-      ) {
-        return true;
+      if (p1Focus === btn) {
+        setp1Focus(0);
+        setp1Ready(false);
+      } else {
+        setp1Focus(btn);
+        setp1Ready(true);
       }
-    } else {
-      return false;
+    } else if (player === 2) {
+      if (p2Focus === btn) {
+        setp2Focus(0);
+        setp2Ready(false);
+      } else {
+        setp2Focus(btn);
+        setp2Ready(true);
+      }
     }
   };
-
-  const possiblePlayers = allPlayers.filter(fitsQuery);
-  const getRound = () => {
-    const p1options = [];
-    const p2options = [];
-    for (let i = 0; i < 3; i++) {
-      const playerIdx = Math.floor(Math.random() * possiblePlayers.length);
-      p1options.push(possiblePlayers[playerIdx]);
-    }
-    for (let i = 0; i < 3; i++) {
-      const playerIdx = Math.floor(Math.random() * possiblePlayers.length);
-      p2options.push(possiblePlayers[playerIdx]);
-    }
-  };
-
-  const getOptions = () => {
-    const options = [];
-    for (let i = 0; i < 3; i++) {
-      const playerIdx = Math.floor(Math.random() * possiblePlayers.length);
-      options.push(possiblePlayers[playerIdx]);
-    }
-    return options;
-  };
-  const p1options = getOptions();
-  const p2options = getOptions();
 
   return (
     <div className="flex flex-col">
@@ -74,19 +36,19 @@ export default function PlayerOptions({ players, formData }) {
         <div className="pt-10">
           <h2 className="text-center">Player 1 Options:</h2>
           <ul className="flex gap-10">
-            <button className="player-btn" onClick={() => handleChange(1)}>
+            <button className={p1Focus === 1 ? "player-btn focus-btn" : "player-btn"} onClick={() => handleChange(1, 1)}>
               <li>
                 <img src="https://picsum.photos/100" alt="" />
                 <p>{p1options[0].name}</p>
               </li>
             </button>
-            <button className="player-btn" onClick={() => handleChange(1)}>
+            <button className={p1Focus === 2 ? "player-btn focus-btn" : "player-btn"} onClick={() => handleChange(1, 2)}>
               <li>
                 <img src="https://picsum.photos/100" alt="" />
                 <p>{p1options[1].name}</p>
               </li>
             </button>
-            <button className="player-btn" onClick={() => handleChange(1)}>
+            <button className={p1Focus === 3 ? "player-btn focus-btn" : "player-btn"} onClick={() => handleChange(1, 3)}>
               <li>
                 <img src="https://picsum.photos/100" alt="" />
                 <p>{p1options[2].name}</p>
@@ -100,23 +62,31 @@ export default function PlayerOptions({ players, formData }) {
           <button className="mt-10">
             <RefreshIcon fontSize="large" />
           </button>
+          {p1Ready === true && p2Ready === true && (
+            <button
+              className="next-btn bg-black rounded-md p-5 px-10 text-xl my-5 text-white self-center"
+              type="submit"
+            >
+              NEXT
+            </button>
+          )}
         </div>
         <div className="pt-10">
           <h2 className="text-center">Player 2 Options:</h2>
           <ul className="flex gap-10">
-            <button className="player-btn" onClick={() => handleChange(2)}>
+            <button className={p2Focus === 1 ? "player-btn focus-btn" : "player-btn"} onClick={() => handleChange(2, 1)}>
               <li>
                 <img src="https://picsum.photos/100" alt="" />
                 <p>{p2options[0].name}</p>
               </li>
             </button>
-            <button className="player-btn" onClick={() => handleChange(2)}>
+            <button className={p2Focus === 2 ? "player-btn focus-btn" : "player-btn"} onClick={() => handleChange(2, 2)}>
               <li>
                 <img src="https://picsum.photos/100" alt="" />
                 <p>{p2options[1].name}</p>
               </li>
             </button>
-            <button className="player-btn" onClick={() => handleChange(2)}>
+            <button className={p2Focus === 3 ? "player-btn focus-btn" : "player-btn"} onClick={() => handleChange(2, 3)}>
               <li>
                 <img src="https://picsum.photos/100" alt="" />
                 <p>{p2options[2].name}</p>
@@ -125,12 +95,6 @@ export default function PlayerOptions({ players, formData }) {
           </ul>
         </div>
       </div>
-      <button
-        className="next-btn bg-black rounded-md p-5 px-10 text-xl text-white self-center invisible"
-        type="submit"
-      >
-        NEXT
-      </button>
     </div>
   );
 }

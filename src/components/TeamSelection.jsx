@@ -75,7 +75,7 @@ export default function TeamSelection(params) {
         </form>
         {formSubmitted === true && (
           <TeamGenerator
-            players={size}
+            playerCount={size}
             formData={formInfo}
             handleReset={() => handleReset()}
           />
