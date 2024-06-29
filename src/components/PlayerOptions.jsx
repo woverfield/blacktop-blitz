@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import RefreshIcon from "@mui/icons-material/Refresh";
 
-export default function PlayerOptions({ size, formData, p1options, p2options}) {
+export default function PlayerOptions({ size, formData, getOptions, p1options, p2options}) {
   const gameSize = size;
 
   // round selection state
@@ -9,6 +9,7 @@ export default function PlayerOptions({ size, formData, p1options, p2options}) {
   const [p2Ready, setp2Ready] = useState(false);
   const [p1Focus, setp1Focus] = useState(0);
   const [p2Focus, setp2Focus] = useState(0);
+  const [round, setRound] = useState(1);
 
   const handleChange = (player, btn) => {
     if (player === 1) {
@@ -29,6 +30,16 @@ export default function PlayerOptions({ size, formData, p1options, p2options}) {
       }
     }
   };
+
+  const handleNext = () => {
+    setRound(round + 1);
+    refreshOptions();
+  }
+
+  const refreshOptions = () => {
+    p1options = getOptions;
+    p2options = getOptions;
+  }
 
   return (
     <div className="flex flex-col">
@@ -57,15 +68,16 @@ export default function PlayerOptions({ size, formData, p1options, p2options}) {
           </ul>
         </div>
         <div className="flex flex-col items-center">
-          <h2>Round 1</h2>
+          <h2>Round {round}</h2>
           <p className="text-center">Each Person Draft One Player</p>
-          <button className="mt-10">
+          <button className="mt-10" onClick={refreshOptions()}>
             <RefreshIcon fontSize="large" />
           </button>
           {p1Ready === true && p2Ready === true && (
             <button
               className="next-btn bg-black rounded-md p-5 px-10 text-xl my-5 text-white self-center"
               type="submit"
+              onClick={handleNext()}
             >
               NEXT
             </button>

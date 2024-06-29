@@ -15,8 +15,6 @@ export default function TeamGenerator({ playerCount, formData, handleReset }) {
   };
 
   const fitsQuery = (player) => {
-    console.log(player.overall);
-    console.log(formData.get("min"));
     if (
       player.overall >= formData.get("min") &&
       player.overall <= formData.get("max")
@@ -34,18 +32,6 @@ export default function TeamGenerator({ playerCount, formData, handleReset }) {
   };
 
   const possiblePlayers = allPlayers.filter(fitsQuery);
-  const getRound = () => {
-    const p1options = [];
-    const p2options = [];
-    for (let i = 0; i < 3; i++) {
-      const playerIdx = Math.floor(Math.random() * possiblePlayers.length);
-      p1options.push(possiblePlayers[playerIdx]);
-    }
-    for (let i = 0; i < 3; i++) {
-      const playerIdx = Math.floor(Math.random() * possiblePlayers.length);
-      p2options.push(possiblePlayers[playerIdx]);
-    }
-  };
 
   const getOptions = () => {
     const options = [];
@@ -77,7 +63,7 @@ export default function TeamGenerator({ playerCount, formData, handleReset }) {
       >
         <div className="flex h-full flex-col justify-center items-center ">
           <div className="flex flex-col container justify-center mx-auto bg-white">
-            <PlayerOptions size={playerCount} formData={formData} p1options={p1options} p2options={p2options}/>
+            <PlayerOptions size={playerCount} formData={formData} getOptions={getOptions()} p1options={p1options} p2options={p2options}/>
           </div>
         </div>
       </Modal>
