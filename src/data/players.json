@@ -2,16 +2,19 @@
     {
         "name": "Lionel Messi",
         "overall": 94,
-        "type": "allt"
+        "type": "allt",
+        "img": "https://picsum.photos/100"
     },
     {
         "name": "Cristiano Ronaldo",
         "overall": 93,
-        "type": "class"
+        "type": "class",
+        "img": "https://picsum.photos/100"
     },
     {
         "name": "Neymar Jr.",
         "overall": 91,
-        "type": "curr"
+        "type": "curr",
+        "img": "https://picsum.photos/100"
     }
 ]

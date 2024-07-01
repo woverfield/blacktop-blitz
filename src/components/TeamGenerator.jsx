@@ -4,10 +4,15 @@ import { GrNext } from "react-icons/gr";
 import PlayerOptions from "./PlayerOptions";
 import allPlayers from "../data/players.json";
 
-
-export default function TeamGenerator({ playerCount, formData, handleReset }) {
+export default function TeamGenerator({
+  size,
+  formData,
+  handleReset,
+  setTeamOne,
+  setTeamTwo,
+}) {
   // modal state
-  const [open, setOpen] = React.useState(false);
+  const [open, setOpen] = useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => {
     setOpen(false);
@@ -20,9 +25,9 @@ export default function TeamGenerator({ playerCount, formData, handleReset }) {
       player.overall <= formData.get("max")
     ) {
       if (
-        (player.type === "curr" && formData.get("curr") == "on") ||
-        (player.type === "class" && formData.get("class") == "on") ||
-        (player.type === "allt" && formData.get("allt") == "on")
+        (player.type === "curr" && formData.get("curr") === "on") ||
+        (player.type === "class" && formData.get("class") === "on") ||
+        (player.type === "allt" && formData.get("allt") === "on")
       ) {
         return true;
       }
@@ -32,18 +37,6 @@ export default function TeamGenerator({ playerCount, formData, handleReset }) {
   };
 
   const possiblePlayers = allPlayers.filter(fitsQuery);
-
-  const getOptions = () => {
-    const options = [];
-    for (let i = 0; i < 3; i++) {
-      const playerIdx = Math.floor(Math.random() * possiblePlayers.length);
-      options.push(possiblePlayers[playerIdx]);
-    }
-    return options;
-  };
-  const p1options = getOptions();
-  const p2options = getOptions();
-
 
   return (
     <div className="flex flex-col justify-center">
@@ -63,7 +56,13 @@ export default function TeamGenerator({ playerCount, formData, handleReset }) {
       >
         <div className="flex h-full flex-col justify-center items-center ">
           <div className="flex flex-col container justify-center mx-auto bg-white">
-            <PlayerOptions size={playerCount} formData={formData} getOptions={getOptions()} p1options={p1options} p2options={p2options}/>
+            <PlayerOptions
+              size={size}
+              formData={formData}
+              possiblePlayers={possiblePlayers}
+              setTeamOne={setTeamOne}
+              setTeamTwo={setTeamTwo}
+            />
           </div>
         </div>
       </Modal>
