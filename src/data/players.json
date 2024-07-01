@@ -3,18 +3,21 @@
         "name": "Lionel Messi",
         "overall": 94,
         "type": "allt",
-        "img": "https://picsum.photos/100"
+        "team": "Argentina All-Time",
+        "img": "https://img.olympics.com/images/image/private/t_1-1_300/f_auto/v1687307644/primary/cqxzrctscdr8x47rly1g"
     },
     {
         "name": "Cristiano Ronaldo",
         "overall": 93,
         "type": "class",
-        "img": "https://picsum.photos/100"
+        "team": "16-17 Real Madrid",
+        "img": "https://static01.nyt.com/images/2022/12/30/multimedia/30soccer-ronaldo-1-76fd/30soccer-ronaldo-1-76fd-mediumSquareAt3X.jpg"
     },
     {
         "name": "Neymar Jr.",
         "overall": 91,
         "type": "curr",
-        "img": "https://picsum.photos/100"
+        "team": "Paris-Saint-Germain",
+        "img": "https://www.topmercato.com/wp-content/uploads/2024/02/Neymar-Jr.-PSG.png"
     }
 ]

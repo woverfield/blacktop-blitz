@@ -177,16 +177,16 @@ code {
     display: flex;
     flex-direction: column;
     align-items: center;
-    img {
-      filter: grayscale();
-    }
+  }
+  img {
+    filter: grayscale();
   }
 }
 
 .focus-btn {
   li {
-    img {
-      filter: none;
-    }
+  }
+  img {
+    filter: none;
   }
 }

@@ -1,8 +1,15 @@
 import React, { useState, useEffect } from "react";
 import RefreshIcon from "@mui/icons-material/Refresh";
-import { Link } from "react-router-dom";
+import Card from "@mui/material/Card";
+import CardContent from "@mui/material/CardContent";
+import CardMedia from "@mui/material/CardMedia";
 
-export default function PlayerOptions({ size, possiblePlayers, setTeamOne, setTeamTwo }) {
+export default function PlayerOptions({
+  size,
+  possiblePlayers,
+  setTeamOne,
+  setTeamTwo,
+}) {
   // round selection state
   const [p1Ready, setp1Ready] = useState(false);
   const [p2Ready, setp2Ready] = useState(false);
@@ -75,38 +82,42 @@ export default function PlayerOptions({ size, possiblePlayers, setTeamOne, setTe
   };
 
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col p-2">
       <div className="flex justify-around">
         <div className="pt-10">
           <h2 className="text-center">Player 1 Options:</h2>
-          <ul className="flex gap-10">
-            <button
-              className={p1Focus === 1 ? "player-btn focus-btn" : "player-btn"}
-              onClick={() => handleChange(1, 1)}
-            >
-              <li>
-                <img src={p1options[0].img} alt="" />
-                <p>{p1options[0].name}</p>
-              </li>
-            </button>
-            <button
-              className={p1Focus === 2 ? "player-btn focus-btn" : "player-btn"}
-              onClick={() => handleChange(1, 2)}
-            >
-              <li>
-                <img src={p1options[1].img} alt="" />
-                <p>{p1options[1].name}</p>
-              </li>
-            </button>
-            <button
-              className={p1Focus === 3 ? "player-btn focus-btn" : "player-btn"}
-              onClick={() => handleChange(1, 3)}
-            >
-              <li>
-                <img src={p1options[2].img} alt="" />
-                <p>{p1options[2].name}</p>
-              </li>
-            </button>
+          <ul className="flex gap-10 flex-wrap justify-center pt-2">
+            {p1options.map((player, idx) => {
+              {console.log("index: " + idx)}
+              {console.log("focus: " + p1Focus)}
+              return (
+                <button
+                  className={
+                    p1Focus === idx + 1 ? "player-btn focus-btn" : "player-btn"
+                  }
+                  onClick={() => handleChange(1, (idx + 1))}
+                >
+                  <Card sx={{ width: 180 }}>
+                    <CardMedia
+                      component="img"
+                      height="140"
+                      image={player.img}
+                      alt="green iguana"
+                    />
+                    <CardContent>
+                      <div className="flex flex-col items-center text-center">
+                        <p>{player.name}</p>
+                        <div className="border border-black w-full"></div>
+                        <p>{player.overall}</p>
+                        <div className="border border-black w-full"></div>
+                        <p>{player.team}</p>
+                        <div className="border border-black w-full"></div>
+                      </div>
+                    </CardContent>
+                  </Card>
+                </button>
+              );
+            })}
           </ul>
         </div>
         <div className="flex flex-col items-center">
@@ -127,45 +138,47 @@ export default function PlayerOptions({ size, possiblePlayers, setTeamOne, setTe
             </button>
           )}
           {round === size && p1Ready === true && p2Ready === true && (
-              <button
-                className="done-btn bg-black rounded-md p-5 px-10 text-xl my-5 text-white self-center"
-                type="submit"
-                onClick={handleDone}
-              >
-                DONE
-              </button>
+            <button
+              className="done-btn bg-black rounded-md p-5 px-10 text-xl my-5 text-white self-center"
+              type="submit"
+              onClick={handleDone}
+            >
+              DONE
+            </button>
           )}
         </div>
         <div className="pt-10">
           <h2 className="text-center">Player 2 Options:</h2>
-          <ul className="flex gap-10">
-            <button
-              className={p2Focus === 1 ? "player-btn focus-btn" : "player-btn"}
-              onClick={() => handleChange(2, 1)}
-            >
-              <li>
-                <img src={p2options[0].img} alt="" />
-                <p>{p2options[0].name}</p>
-              </li>
-            </button>
-            <button
-              className={p2Focus === 2 ? "player-btn focus-btn" : "player-btn"}
-              onClick={() => handleChange(2, 2)}
-            >
-              <li>
-                <img src={p2options[1].img} alt="" />
-                <p>{p2options[1].name}</p>
-              </li>
-            </button>
-            <button
-              className={p2Focus === 3 ? "player-btn focus-btn" : "player-btn"}
-              onClick={() => handleChange(2, 3)}
-            >
-              <li>
-                <img src={p2options[2].img} alt="" />
-                <p>{p2options[2].name}</p>
-              </li>
-            </button>
+          <ul className="flex gap-10 flex-wrap justify-center pt-2">
+            {p2options.map((player, idx) => {
+              return (
+                <button
+                  className={
+                    p2Focus === idx + 1 ? "player-btn focus-btn" : "player-btn"
+                  }
+                  onClick={() => handleChange(2, (idx + 1))}
+                >
+                  <Card sx={{ width: 180 }}>
+                    <CardMedia
+                      component="img"
+                      height="140"
+                      image={player.img}
+                      alt="green iguana"
+                    />
+                    <CardContent>
+                      <div className="flex flex-col items-center text-center">
+                        <p>{player.name}</p>
+                        <div className="border border-black w-full"></div>
+                        <p>{player.overall}</p>
+                        <div className="border border-black w-full"></div>
+                        <p>{player.team}</p>
+                        <div className="border border-black w-full"></div>
+                      </div>
+                    </CardContent>
+                  </Card>
+                </button>
+              );
+            })}
           </ul>
         </div>
       </div>
