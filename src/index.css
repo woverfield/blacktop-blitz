@@ -20,55 +20,6 @@ code {
   height: 100vh;
 }
 
-.player-count {
-  background-image: url(https://picsum.photos/200/200);
-  display: flex;
-  background-size: auto;
-  width: 100%;
-  height: 300px;
-  border: 1px solid white;
-  color: white;
-  justify-content: center;
-  align-items: center;
-  filter: grayscale(100%) blur(1px);
-}
-
-.player-count:hover {
-  filter: none;
-}
-
-.player-count h3 {
-  font-size: 5rem;
-  font-weight: bold;
-  text-shadow: 3px 3px 2px #000, -3px 3px 2px #000, -3px -3px 0 #000,
-    3px -3px 0 #000;
-}
-
-#ones {
-  /* background-image: url(./img/ones.webp); */
-  background-size: cover;
-}
-
-#twos {
-  /* background-image: url(./img/twos.jpg); */
-  background-size: cover;
-}
-
-#threes {
-  /* background-image: url(./img/threes.jpg); */
-  background-size: cover;
-}
-
-#fours {
-  /* background-image: url(./img/fours.avif); */
-  background-size: cover;
-}
-
-#fives {
-  /* background-image: url(./img/fives.webp); */
-  background-size: cover;
-}
-
 .section {
   text-align: center;
   h3 {
@@ -115,7 +66,7 @@ code {
   box-shadow: 0px 0px 7px #666;
   width: 100%;
   height: 100%;
-  filter: grayscale();
+  filter: grayscale() blur(1px);
 }
 
 .slide:hover {
@@ -182,9 +133,15 @@ code {
     filter: grayscale();
   }
 }
+.player-btn:hover {
+  img {
+    filter: none;
+  }
+}
 
 .focus-btn {
-  li {
+  .MuiPaper-root {
+    border: 2px solid black;
   }
   img {
     filter: none;

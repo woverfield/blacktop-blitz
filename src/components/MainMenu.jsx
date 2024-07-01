@@ -12,7 +12,7 @@ export default function MainMenu({}) {
         <img src={BlitzText} alt="" className="max-w-lg" />
       </div>
       {/*Buttons*/}
-      <div className="flex justify-center text-black gap-20 my-20 font-medium">
+      <div className="flex justify-center text-black gap-20 my-20 font-medium flex-wrap">
         <Link to="/qplay">
           <button className="bg-white rounded-md p-5 px-10 text-xl">
             <h3>QUICK PLAY</h3>

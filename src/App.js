@@ -3,7 +3,6 @@ import Navigation from "./components/Navigation";
 import MainMenu from "./components/MainMenu";
 import SizeSelection from "./components/SizeSelection";
 import TeamSelection from "./components/TeamSelection";
-import TeamVersus from "./components/TeamVersus";
 
 function App() {
   return (
@@ -18,6 +17,8 @@ function App() {
           <Route path="/qplay/3" element={<TeamSelection size={3} />} />
           <Route path="/qplay/4" element={<TeamSelection size={4} />} />
           <Route path="/qplay/5" element={<TeamSelection size={5} />} />
+          <Route path="/about" />
+          <Route path="/feedback" />
         </Routes>
       </div>
     </Router>

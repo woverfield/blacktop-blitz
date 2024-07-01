@@ -5,8 +5,8 @@ import { Link } from "react-router-dom";
 export default function Navigation() {
   return (
     <nav className="container mx-auto flex items-center justify-between mt-5">
-      <Link to="/">
-        <button>
+      <Link to="/" className="shrink-0">
+        <button className="logo">
           <img src={Logo} alt="" />
         </button>
       </Link>
