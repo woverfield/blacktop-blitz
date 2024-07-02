@@ -91,12 +91,13 @@ export default function PlayerOptions({
             {p1options.map((player, idx) => {
               return (
                 <button
+                  key={idx}
                   className={
                     p1Focus === idx + 1 ? "player-btn focus-btn" : "player-btn"
                   }
-                  onClick={() => handleChange(1, (idx + 1))}
+                  onClick={() => handleChange(1, idx + 1)}
                 >
-                  <PlayerCard player={player}/>
+                  <PlayerCard player={player} />
                 </button>
               );
             })}
@@ -135,12 +136,13 @@ export default function PlayerOptions({
             {p2options.map((player, idx) => {
               return (
                 <button
+                  key={idx}
                   className={
                     p2Focus === idx + 1 ? "player-btn focus-btn" : "player-btn"
                   }
-                  onClick={() => handleChange(2, (idx + 1))}
+                  onClick={() => handleChange(2, idx + 1)}
                 >
-                  <PlayerCard player={player}/>
+                  <PlayerCard player={player} />
                 </button>
               );
             })}

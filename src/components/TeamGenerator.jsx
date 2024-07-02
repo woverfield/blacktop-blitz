@@ -31,23 +31,38 @@ export default function TeamGenerator({
       ) {
         return true;
       }
-    } else {
-      return false;
     }
+    return false;
   };
 
   const possiblePlayers = allPlayers.filter(fitsQuery);
 
+  const isValidQuery = possiblePlayers.length >= 3;
+
   return (
     <div className="flex flex-col justify-center">
-      <button
-        className="submit-btn bg-black p-5 px-10 text-xl flex items-center justify-center"
-        type="submit"
-        onClick={handleOpen}
-      >
-        CONTINUE
-        <GrNext />
-      </button>
+      {isValidQuery ? (
+        <button
+          className="submit-btn bg-black p-5 px-10 text-xl flex items-center justify-center"
+          type="submit"
+          onClick={handleOpen}
+        >
+          CONTINUE
+          <GrNext />
+        </button>
+      ) : (
+        <>
+          
+          <button
+            className="reset-btn bg-red-700 p-5 px-10 text-xl"
+            type="button"
+            onClick={() => handleReset()}
+          >
+            <p>Query did not return enough players</p>
+            <p>CLICK TO RESET</p>
+          </button>
+        </>
+      )}
       <Modal
         open={open}
         onClose={handleClose}
