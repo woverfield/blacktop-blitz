@@ -3,65 +3,32 @@ import { Link } from "react-router-dom";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
+import PlayerCard from "./PlayerCard";
 
 export default function TeamVersus({ teamOne, teamTwo }) {
   return (
     <main className="container mx-auto h-full flex flex-col justify-evenly text-white">
-      <div className="row self-end flex items-center gap-10">
-        {teamOne.map((player, idx) => {
-          return (
-            <Card sx={{ width: 180, border: 3, borderColor: "white"}}>
-              <CardMedia
-                component="img"
-                height="140"
-                image={player.img}
-                alt="green iguana"
-              />
-              <CardContent>
-                <div className="flex flex-col items-center text-center">
-                  <p>{player.name}</p>
-                  <div className="border border-black w-full"></div>
-                  <p>{player.overall}</p>
-                  <div className="border border-black w-full"></div>
-                  <p>{player.team}</p>
-                  <div className="border border-black w-full"></div>
-                </div>
-              </CardContent>
-            </Card>
-          );
-        })}
-        <h1 className="text-5xl">TEAM ONE</h1>
+      <div className="row flex items-center justify-end">
+        <div className="flex items-center gap-10 flex-wrap">
+          {teamOne.map((player, idx) => {
+            return <PlayerCard player={player} finalized={true} />;
+          })}
+        </div>
+        <h1 className="text-5xl ml-5">TEAM ONE</h1>
       </div>
-      <div className="border border-white w-full"></div>
-      <div className="row flex items-center gap-10">
-        <h1 className="text-5xl">TEAM TWO</h1>
-        {teamTwo.map((player, idx) => {
-          return (
-            <Card sx={{ width: 180, border: 3, borderColor: "white"}}>
-              <CardMedia
-                component="img"
-                height="140"
-                image={player.img}
-                alt="green iguana"
-              />
-              <CardContent>
-                <div className="flex flex-col items-center text-center">
-                  <p>{player.name}</p>
-                  <div className="border border-black w-full"></div>
-                  <p>{player.overall}</p>
-                  <div className="border border-black w-full"></div>
-                  <p className="">{player.team}</p>
-                  <div className="border border-black w-full"></div>
-                </div>
-              </CardContent>
-            </Card>
-          );
-        })}
+      <div className="border border-white w-full m-2"></div>
+      <div className="row flex items-center">
+        <h1 className="text-5xl mr-5">TEAM TWO</h1>
+        <div className="row flex items-center gap-10 flex-wrap">
+          {teamTwo.map((player, idx) => {
+            return <PlayerCard player={player} finalized={true} />;
+          })}
+        </div>
       </div>
-      <div className="self-center mb-20">
+      <div className="flex justify-center items-center">
         <Link to="/">
           <button
-            className="done-btn bg-black rounded-md p-5 px-10 text-xl my-5 text-white self-center"
+            className="done-btn bg-white rounded-md p-5 px-10 text-xl my-5 text-black self-center"
             type="submit"
           >
             PLAY AGAIN?

@@ -28,7 +28,7 @@ export default function Carousel() {
               <h1
                 className={
                   slide === idx
-                    ? "carousel-heading bg-white rounded-md p-3 px-10 text-3xl"
+                    ? "carousel-heading bg-white p-3 px-10 text-3xl"
                     : "hidden"
                 }
               >
@@ -65,7 +65,7 @@ export default function Carousel() {
           return (
             <button
               key={idx}
-              onClick={null}
+              onClick={() => setSlide(idx)}
               className={
                 slide === idx ? "indicator" : "indicator indicator-inactive"
               }

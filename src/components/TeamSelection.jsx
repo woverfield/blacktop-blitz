@@ -7,7 +7,7 @@ export default function TeamSelection({ size }) {
   const [teamTwo, setTeamTwo] = useState([]);
 
   return (
-    <div className="h-full">
+    <div className="h-full flex justify-center">
       {teamOne.length !== size || teamTwo.length !== size ? (
         <TeamQuery
           size={size}

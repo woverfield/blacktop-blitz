@@ -14,11 +14,11 @@ export default function MainMenu({}) {
       {/*Buttons*/}
       <div className="flex justify-center text-black gap-20 my-20 font-medium flex-wrap">
         <Link to="/qplay">
-          <button className="bg-white rounded-md p-5 px-10 text-xl">
+          <button className="menu-btn bg-white p-5 px-10 text-xl">
             <h3>QUICK PLAY</h3>
           </button>
         </Link>
-        <button className="bg-white rounded-md p-5 px-10 text-xl">
+        <button className="menu-btn bg-white p-5 px-10 text-xl">
           <h3>TOURNAMENT</h3>
         </button>
       </div>

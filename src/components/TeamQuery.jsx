@@ -27,9 +27,9 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
   };
 
   return (
-    <main className="container mx-auto flex justify-center mt-20 text-white">
+    <main className="container flex justify-center items-center text-white">
       <div className="section query">
-        <h3 className="bg-white rounded-md p-5 px-10 text-xl">QUERY</h3>
+        <h3 className="bg-white p-5 px-10 text-xl">QUERY</h3>
         <form onSubmit={search}>
           <ul className="mt-10">
             <li>
@@ -68,7 +68,7 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
           <div className="flex flex-col justify-center">
             {formSubmitted === false && (
               <button
-                className="form-submit submit-btn bg-black rounded-md p-5 px-10 text-xl"
+                className="form-submit submit-btn bg-white p-5 px-10 text-xl text-black"
                 type="submit"
               >
                 SUBMIT

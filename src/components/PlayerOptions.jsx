@@ -3,6 +3,7 @@ import RefreshIcon from "@mui/icons-material/Refresh";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
+import PlayerCard from "./PlayerCard";
 
 export default function PlayerOptions({
   size,
@@ -85,8 +86,8 @@ export default function PlayerOptions({
     <div className="flex flex-col p-2">
       <div className="flex justify-around">
         <div className="pt-10">
-          <h2 className="text-center">Player 1 Options:</h2>
-          <ul className="flex gap-10 flex-wrap justify-center pt-2">
+          <h2 className="text-center options-text">Player 1 Options:</h2>
+          <ul className="flex gap-5 flex-wrap justify-center pt-2">
             {p1options.map((player, idx) => {
               {console.log("index: " + idx)}
               {console.log("focus: " + p1Focus)}
@@ -97,32 +98,15 @@ export default function PlayerOptions({
                   }
                   onClick={() => handleChange(1, (idx + 1))}
                 >
-                  <Card sx={{ width: 180 }}>
-                    <CardMedia
-                      component="img"
-                      height="140"
-                      image={player.img}
-                      alt="green iguana"
-                    />
-                    <CardContent>
-                      <div className="flex flex-col items-center text-center">
-                        <p>{player.name}</p>
-                        <div className="border border-black w-full"></div>
-                        <p>{player.overall}</p>
-                        <div className="border border-black w-full"></div>
-                        <p>{player.team}</p>
-                        <div className="border border-black w-full"></div>
-                      </div>
-                    </CardContent>
-                  </Card>
+                  <PlayerCard player={player}/>
                 </button>
               );
             })}
           </ul>
         </div>
         <div className="flex flex-col items-center">
-          <h2>
-            Round {round} {round === size && "(FINAL)"}
+          <h2 className="options-text">
+            ROUND {round} {round === size && "(FINAL)"}
           </h2>
           <p className="text-center">Each Person Draft One Player</p>
           <button className="mt-10" onClick={refreshOptions}>
@@ -130,7 +114,7 @@ export default function PlayerOptions({
           </button>
           {round < size && p1Ready === true && p2Ready === true && (
             <button
-              className="next-btn bg-black rounded-md p-5 px-10 text-xl my-5 text-white self-center"
+              className="next-btn bg-black p-5 px-10 text-xl my-5 text-white self-center"
               type="submit"
               onClick={handleNext}
             >
@@ -139,7 +123,7 @@ export default function PlayerOptions({
           )}
           {round === size && p1Ready === true && p2Ready === true && (
             <button
-              className="done-btn bg-black rounded-md p-5 px-10 text-xl my-5 text-white self-center"
+              className="done-btn bg-black p-5 px-10 text-xl my-5 text-white self-center"
               type="submit"
               onClick={handleDone}
             >
@@ -148,8 +132,8 @@ export default function PlayerOptions({
           )}
         </div>
         <div className="pt-10">
-          <h2 className="text-center">Player 2 Options:</h2>
-          <ul className="flex gap-10 flex-wrap justify-center pt-2">
+          <h2 className="text-center options-text">Player 2 Options:</h2>
+          <ul className="flex gap-5 flex-wrap justify-center pt-2">
             {p2options.map((player, idx) => {
               return (
                 <button
@@ -158,24 +142,7 @@ export default function PlayerOptions({
                   }
                   onClick={() => handleChange(2, (idx + 1))}
                 >
-                  <Card sx={{ width: 180 }}>
-                    <CardMedia
-                      component="img"
-                      height="140"
-                      image={player.img}
-                      alt="green iguana"
-                    />
-                    <CardContent>
-                      <div className="flex flex-col items-center text-center">
-                        <p>{player.name}</p>
-                        <div className="border border-black w-full"></div>
-                        <p>{player.overall}</p>
-                        <div className="border border-black w-full"></div>
-                        <p>{player.team}</p>
-                        <div className="border border-black w-full"></div>
-                      </div>
-                    </CardContent>
-                  </Card>
+                  <PlayerCard player={player}/>
                 </button>
               );
             })}

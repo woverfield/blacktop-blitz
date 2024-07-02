@@ -41,7 +41,7 @@ export default function TeamGenerator({
   return (
     <div className="flex flex-col justify-center">
       <button
-        className="submit-btn bg-black rounded-md p-5 px-10 text-xl flex items-center justify-center"
+        className="submit-btn bg-black p-5 px-10 text-xl flex items-center justify-center"
         type="submit"
         onClick={handleOpen}
       >
