@@ -83,14 +83,12 @@ export default function PlayerOptions({
   };
 
   return (
-    <div className="flex flex-col p-2">
+    <div className="flex flex-col p-5">
       <div className="flex justify-around">
         <div className="pt-10">
           <h2 className="text-center options-text">Player 1 Options:</h2>
           <ul className="flex gap-5 flex-wrap justify-center pt-2">
             {p1options.map((player, idx) => {
-              {console.log("index: " + idx)}
-              {console.log("focus: " + p1Focus)}
               return (
                 <button
                   className={
@@ -105,7 +103,7 @@ export default function PlayerOptions({
           </ul>
         </div>
         <div className="flex flex-col items-center">
-          <h2 className="options-text">
+          <h2 className="options-text text-center">
             ROUND {round} {round === size && "(FINAL)"}
           </h2>
           <p className="text-center">Each Person Draft One Player</p>

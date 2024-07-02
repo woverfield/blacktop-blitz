@@ -5,6 +5,28 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
   const [formInfo, setFormInfo] = useState(new Map());
   const [formSubmitted, setFormSubmitted] = useState(false);
 
+  const validate = (form) => {
+    form.preventDefault();
+
+    let minimumChecked = false;
+    const checkboxes = form.target.querySelectorAll('input[type="checkbox"]');
+    checkboxes.forEach((checkbox) => {
+      if (checkbox.checked) {
+        minimumChecked = true;
+      }
+    });
+
+    if (form.target[0].value < 0 || form.target[0].value > 99) {
+      console.log("Make sure overall is no higher than 99 and no lower than 0");
+    } else if (form.target[1].value < 0 || form.target[1].value > 99) {
+      console.log("Make sure overall is no higher than 99 and no lower than 0");
+    } else if (!minimumChecked) {
+      console.log("Check at least one box!");
+    } else {
+      search(form);
+    }
+  };
+
   const search = (form) => {
     form.preventDefault();
     const newFormInfo = new Map(formInfo);
@@ -30,7 +52,7 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
     <main className="container flex justify-center items-center text-white">
       <div className="section query">
         <h3 className="bg-white p-5 px-10 text-xl">QUERY</h3>
-        <form onSubmit={search}>
+        <form onSubmit={validate}>
           <ul className="mt-10">
             <li>
               <label>Min Overall:</label>
@@ -38,7 +60,7 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
                 name="min"
                 type="text"
                 className="text-black"
-                placeholder="70"
+                placeholder="60"
                 required
               />
             </li>
