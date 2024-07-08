@@ -80,7 +80,7 @@ export default function PlayerOptions({
   };
 
   return (
-    <div className="flex flex-col p-5">
+    <div className="flex flex-col p-5 overflow-auto">
       <div className="flex justify-around">
         <div className="pt-10">
           <h2 className="text-center options-text">Player 1 Options:</h2>
