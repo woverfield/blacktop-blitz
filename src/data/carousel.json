@@ -1,23 +1,23 @@
 { 
     "slides": [
         {
-            "src": "../img/ones.webp",
+            "src": "./img/ones.webp",
             "alt": "Image for Ones for Carousel"
         },
         {
-            "src": "../img/twos.jpg",
+            "src": "./img/twos.jpg",
             "alt": "Image for Twos for Carousel"
         },
         {
-            "src": "../img/threes.jpg",
+            "src": "./img/threes.jpg",
             "alt": "Image for Threes for Carousel"
         },
         {
-            "src": "../img/fours.avif",
+            "src": "./img/fours.avif",
             "alt": "Image for Fours for Carousel"
         },
         {
-            "src": "../img/fives.jpg",
+            "src": "./img/fives.jpg",
             "alt": "Image for Fives for Carousel"
         }
     ]
