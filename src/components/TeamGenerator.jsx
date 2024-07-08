@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Modal from "@mui/material/Modal";
 import { GrNext } from "react-icons/gr";
 import PlayerOptions from "./PlayerOptions";
-import allPlayers from "../data/currplayers.json";
+import allPlayers from "../data/players.json";
 
 export default function TeamGenerator({
   size,

@@ -66,6 +66,324 @@
     "type": "class"
   },
   {
+    "name": "Michael Jordan",
+    "team": "1985-86 Chicago Bulls",
+    "overall": 91,
+    "type": "class"
+  },
+  {
+    "name": "George Gervin",
+    "team": "1985-86 Chicago Bulls",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Charles Oakley",
+    "team": "1985-86 Chicago Bulls",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Sidney Green",
+    "team": "1985-86 Chicago Bulls",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Gene Banks",
+    "team": "1985-86 Chicago Bulls",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Kyle Macy",
+    "team": "1985-86 Chicago Bulls",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Mike Holton",
+    "team": "1985-86 Chicago Bulls",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "John Paxson",
+    "team": "1985-86 Chicago Bulls",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Dave Corzine",
+    "team": "1985-86 Chicago Bulls",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Chris Webber",
+    "team": "2001-02 Sacramento Kings",
+    "overall": 90,
+    "type": "class"
+  },
+  {
+    "name": "Peja Stojakovic",
+    "team": "2001-02 Sacramento Kings",
+    "overall": 87,
+    "type": "class"
+  },
+  {
+    "name": "Vlade Divac",
+    "team": "2001-02 Sacramento Kings",
+    "overall": 86,
+    "type": "class"
+  },
+  {
+    "name": "Mike Bibby",
+    "team": "2001-02 Sacramento Kings",
+    "overall": 83,
+    "type": "class"
+  },
+  {
+    "name": "Doug Christie",
+    "team": "2001-02 Sacramento Kings",
+    "overall": 83,
+    "type": "class"
+  },
+  {
+    "name": "Bobby Jackson",
+    "team": "2001-02 Sacramento Kings",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Scot Pollard",
+    "team": "2001-02 Sacramento Kings",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Hedo Turkoglu",
+    "team": "2001-02 Sacramento Kings",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Lawrence Funderburke",
+    "team": "2001-02 Sacramento Kings",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Gerald Wallace",
+    "team": "2001-02 Sacramento Kings",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Chucky Brown",
+    "team": "2001-02 Sacramento Kings",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Jason Kidd",
+    "team": "2001-02 New Jersey Nets",
+    "overall": 93,
+    "type": "class"
+  },
+  {
+    "name": "Kenyon Martin",
+    "team": "2001-02 New Jersey Nets",
+    "overall": 83,
+    "type": "class"
+  },
+  {
+    "name": "Keith Van Horn",
+    "team": "2001-02 New Jersey Nets",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Kerry Kittles",
+    "team": "2001-02 New Jersey Nets",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Richard Jefferson",
+    "team": "2001-02 New Jersey Nets",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Brian Scalabrine",
+    "team": "2001-02 New Jersey Nets",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Aaron Williams",
+    "team": "2001-02 New Jersey Nets",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Todd MacCulloch",
+    "team": "2001-02 New Jersey Nets",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Brandon Armstrong",
+    "team": "2001-02 New Jersey Nets",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Jason Collins",
+    "team": "2001-02 New Jersey Nets",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Dominique Wilkins",
+    "team": "1985-86 Atlanta Hawks",
+    "overall": 92,
+    "type": "class"
+  },
+  {
+    "name": "Doc Rivers",
+    "team": "1985-86 Atlanta Hawks",
+    "overall": 83,
+    "type": "class"
+  },
+  {
+    "name": "Kevin Willis",
+    "team": "1985-86 Atlanta Hawks",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Tree Rollins",
+    "team": "1985-86 Atlanta Hawks",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Spud Webb",
+    "team": "1985-86 Atlanta Hawks",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Randy Wittman",
+    "team": "1985-86 Atlanta Hawks",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Cliff Levingston",
+    "team": "1985-86 Atlanta Hawks",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Jon Koncak",
+    "team": "1985-86 Atlanta Hawks",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Johnny Davis",
+    "team": "1985-86 Atlanta Hawks",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Antoine Carr",
+    "team": "1985-86 Atlanta Hawks",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Scott Hastings",
+    "team": "1985-86 Atlanta Hawks",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Magic Johnson",
+    "team": "1990-91 Los Angeles Lakers",
+    "overall": 92,
+    "type": "class"
+  },
+  {
+    "name": "James Worthy",
+    "team": "1990-91 Los Angeles Lakers",
+    "overall": 87,
+    "type": "class"
+  },
+  {
+    "name": "Vlade Divac",
+    "team": "1990-91 Los Angeles Lakers",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Byron Scott",
+    "team": "1990-91 Los Angeles Lakers",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "A.C. Green",
+    "team": "1990-91 Los Angeles Lakers",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Sam Perkins",
+    "team": "1990-91 Los Angeles Lakers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Terry Teagle",
+    "team": "1990-91 Los Angeles Lakers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Tony Smith",
+    "team": "1990-91 Los Angeles Lakers",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Larry Drew",
+    "team": "1990-91 Los Angeles Lakers",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Mychal Thompson",
+    "team": "1990-91 Los Angeles Lakers",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Elden Campbell",
+    "team": "1990-91 Los Angeles Lakers",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Irving Thomas",
+    "team": "1990-91 Los Angeles Lakers",
+    "overall": 69,
+    "type": "class"
+  },
+  {
     "name": "Walt Frazier",
     "team": "1971-72 New York Knicks",
     "overall": 93,
@@ -123,6 +441,1110 @@
     "name": "Luther Rackley",
     "team": "1971-72 New York Knicks",
     "overall": 67,
+    "type": "class"
+  },
+  {
+    "name": "Dikembe Mutombo",
+    "team": "1993-94 Denver Nuggets",
+    "overall": 84,
+    "type": "class"
+  },
+  {
+    "name": "Mahmoud Abdul-Rauf",
+    "team": "1993-94 Denver Nuggets",
+    "overall": 84,
+    "type": "class"
+  },
+  {
+    "name": "LaPhonso Ellis",
+    "team": "1993-94 Denver Nuggets",
+    "overall": 81,
+    "type": "class"
+  },
+  {
+    "name": "Reggie Williams",
+    "team": "1993-94 Denver Nuggets",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Bryant Stith",
+    "team": "1993-94 Denver Nuggets",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Robert Pack",
+    "team": "1993-94 Denver Nuggets",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Rodney Rogers",
+    "team": "1993-94 Denver Nuggets",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Tom Hammonds",
+    "team": "1993-94 Denver Nuggets",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Shaquille O’Neal",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 96,
+    "type": "class"
+  },
+  {
+    "name": "Kobe Bryant",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 95,
+    "type": "class"
+  },
+  {
+    "name": "Karl Malone",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 83,
+    "type": "class"
+  },
+  {
+    "name": "Gary Payton",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 83,
+    "type": "class"
+  },
+  {
+    "name": "Rick Fox",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Devean George",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Horace Grant",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Bryon Russell",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Brian Cook",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Derek Fisher",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Luke Walton",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Ime Udoka",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Kareem Rush",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Stanislav Medvedenko",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Jamal Sampson",
+    "team": "2003-04 Los Angeles Lakers",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Carmelo Anthony",
+    "team": "2007-08 Denver Nuggets",
+    "overall": 92,
+    "type": "class"
+  },
+  {
+    "name": "Allen Iverson",
+    "team": "2007-08 Denver Nuggets",
+    "overall": 89,
+    "type": "class"
+  },
+  {
+    "name": "Marcus Camby",
+    "team": "2007-08 Denver Nuggets",
+    "overall": 87,
+    "type": "class"
+  },
+  {
+    "name": "J.R. Smith",
+    "team": "2007-08 Denver Nuggets",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Kenyon Martin",
+    "team": "2007-08 Denver Nuggets",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Nenê",
+    "team": "2007-08 Denver Nuggets",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Chucky Atkins",
+    "team": "2007-08 Denver Nuggets",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Eduardo Najera",
+    "team": "2007-08 Denver Nuggets",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Steven Hunter",
+    "team": "2007-08 Denver Nuggets",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Yakhouba Diawara",
+    "team": "2007-08 Denver Nuggets",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Kobe Bryant",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 97,
+    "type": "class"
+  },
+  {
+    "name": "Shaquille O’Neal",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 97,
+    "type": "class"
+  },
+  {
+    "name": "Horace Grant",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 80,
+    "type": "class"
+  },
+  {
+    "name": "Rick Fox",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Robert Horry",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Derek Fisher",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Isaiah Rider",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Ron Harper",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Mark Madsen",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Mike Penberthy",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Tyronn Lue",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Brian Shaw",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Devean George",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Stanislav Medvedenko",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Greg Foster",
+    "team": "2000-01 Los Angeles Lakers",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "LeBron James",
+    "team": "2012-13 Miami Heat",
+    "overall": 98,
+    "type": "class"
+  },
+  {
+    "name": "Dwyane Wade",
+    "team": "2012-13 Miami Heat",
+    "overall": 91,
+    "type": "class"
+  },
+  {
+    "name": "Chris Bosh",
+    "team": "2012-13 Miami Heat",
+    "overall": 86,
+    "type": "class"
+  },
+  {
+    "name": "Ray Allen",
+    "team": "2012-13 Miami Heat",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Chris Andersen",
+    "team": "2012-13 Miami Heat",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Shane Battier",
+    "team": "2012-13 Miami Heat",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Mike Miller",
+    "team": "2012-13 Miami Heat",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Mario Chalmers",
+    "team": "2012-13 Miami Heat",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Rashard Lewis",
+    "team": "2012-13 Miami Heat",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Udonis Haslem",
+    "team": "2012-13 Miami Heat",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Juwan Howard",
+    "team": "2012-13 Miami Heat",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Paul George",
+    "team": "2013-14 Indiana Pacers",
+    "overall": 92,
+    "type": "class"
+  },
+  {
+    "name": "Roy Hibbert",
+    "team": "2013-14 Indiana Pacers",
+    "overall": 83,
+    "type": "class"
+  },
+  {
+    "name": "David West",
+    "team": "2013-14 Indiana Pacers",
+    "overall": 81,
+    "type": "class"
+  },
+  {
+    "name": "George Hill",
+    "team": "2013-14 Indiana Pacers",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Evan Turner",
+    "team": "2013-14 Indiana Pacers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "C.J. Watson",
+    "team": "2013-14 Indiana Pacers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Luis Scola",
+    "team": "2013-14 Indiana Pacers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Ian Mahinmi",
+    "team": "2013-14 Indiana Pacers",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Vince Carter",
+    "team": "1999-00 Toronto Raptors",
+    "overall": 94,
+    "type": "class"
+  },
+  {
+    "name": "Tracy McGrady",
+    "team": "1999-00 Toronto Raptors",
+    "overall": 83,
+    "type": "class"
+  },
+  {
+    "name": "Doug Christie",
+    "team": "1999-00 Toronto Raptors",
+    "overall": 80,
+    "type": "class"
+  },
+  {
+    "name": "Antonio Davis",
+    "team": "1999-00 Toronto Raptors",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Charles Oakley",
+    "team": "1999-00 Toronto Raptors",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Kevin Willis",
+    "team": "1999-00 Toronto Raptors",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Muggsy Bogues",
+    "team": "1999-00 Toronto Raptors",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Alvin Williams",
+    "team": "1999-00 Toronto Raptors",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Dell Curry",
+    "team": "1999-00 Toronto Raptors",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Dee Brown",
+    "team": "1999-00 Toronto Raptors",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Haywoode Workman",
+    "team": "1999-00 Toronto Raptors",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "John Thomas",
+    "team": "1999-00 Toronto Raptors",
+    "overall": 67,
+    "type": "class"
+  },
+  {
+    "name": "Dwyane Wade",
+    "team": "2005-06 Miami Heat",
+    "overall": 95,
+    "type": "class"
+  },
+  {
+    "name": "Shaquille O’Neal",
+    "team": "2005-06 Miami Heat",
+    "overall": 89,
+    "type": "class"
+  },
+  {
+    "name": "Jason Williams",
+    "team": "2005-06 Miami Heat",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Antoine Walker",
+    "team": "2005-06 Miami Heat",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Gary Payton",
+    "team": "2005-06 Miami Heat",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Alonzo Mourning",
+    "team": "2005-06 Miami Heat",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "James Posey",
+    "team": "2005-06 Miami Heat",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Udonis Haslem",
+    "team": "2005-06 Miami Heat",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Michael Doleac",
+    "team": "2005-06 Miami Heat",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Shandon Anderson",
+    "team": "2005-06 Miami Heat",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Derek Anderson",
+    "team": "2005-06 Miami Heat",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Dorell Wright",
+    "team": "2005-06 Miami Heat",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Magic Johnson",
+    "team": "1986-87 Los Angeles Lakers",
+    "overall": 97,
+    "type": "class"
+  },
+  {
+    "name": "Kareem Abdul-Jabbar",
+    "team": "1986-87 Los Angeles Lakers",
+    "overall": 94,
+    "type": "class"
+  },
+  {
+    "name": "James Worthy",
+    "team": "1986-87 Los Angeles Lakers",
+    "overall": 86,
+    "type": "class"
+  },
+  {
+    "name": "Michael Cooper",
+    "team": "1986-87 Los Angeles Lakers",
+    "overall": 85,
+    "type": "class"
+  },
+  {
+    "name": "Byron Scott",
+    "team": "1986-87 Los Angeles Lakers",
+    "overall": 84,
+    "type": "class"
+  },
+  {
+    "name": "A.C. Green",
+    "team": "1986-87 Los Angeles Lakers",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Mychal Thompson",
+    "team": "1986-87 Los Angeles Lakers",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Wes Matthews",
+    "team": "1986-87 Los Angeles Lakers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Kurt Rambis",
+    "team": "1986-87 Los Angeles Lakers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Billy Thompson",
+    "team": "1986-87 Los Angeles Lakers",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Jerry West",
+    "team": "1964-65 Los Angeles Lakers",
+    "overall": 93,
+    "type": "class"
+  },
+  {
+    "name": "Elgin Baylor",
+    "team": "1964-65 Los Angeles Lakers",
+    "overall": 92,
+    "type": "class"
+  },
+  {
+    "name": "Rudy LaRusso",
+    "team": "1964-65 Los Angeles Lakers",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Dick Barnett",
+    "team": "1964-65 Los Angeles Lakers",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Don Nelson",
+    "team": "1964-65 Los Angeles Lakers",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Jim King",
+    "team": "1964-65 Los Angeles Lakers",
+    "overall": 67,
+    "type": "class"
+  },
+  {
+    "name": "Steve Nash",
+    "team": "2004-05 Phoenix Suns",
+    "overall": 95,
+    "type": "class"
+  },
+  {
+    "name": "Amar’e Stoudemire",
+    "team": "2004-05 Phoenix Suns",
+    "overall": 89,
+    "type": "class"
+  },
+  {
+    "name": "Shawn Marion",
+    "team": "2004-05 Phoenix Suns",
+    "overall": 87,
+    "type": "class"
+  },
+  {
+    "name": "Joe Johnson",
+    "team": "2004-05 Phoenix Suns",
+    "overall": 81,
+    "type": "class"
+  },
+  {
+    "name": "Quentin Richardson",
+    "team": "2004-05 Phoenix Suns",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Leandro Barbosa",
+    "team": "2004-05 Phoenix Suns",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Steven Hunter",
+    "team": "2004-05 Phoenix Suns",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Jake Voskuhl",
+    "team": "2004-05 Phoenix Suns",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Jim Jackson",
+    "team": "2004-05 Phoenix Suns",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Bo Outlaw",
+    "team": "2004-05 Phoenix Suns",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Walter McCarty",
+    "team": "2004-05 Phoenix Suns",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Shawn Marion",
+    "team": "2002-03 Phoenix Suns",
+    "overall": 86,
+    "type": "class"
+  },
+  {
+    "name": "Stephon Marbury",
+    "team": "2002-03 Phoenix Suns",
+    "overall": 85,
+    "type": "class"
+  },
+  {
+    "name": "Amar’e Stoudemire",
+    "team": "2002-03 Phoenix Suns",
+    "overall": 81,
+    "type": "class"
+  },
+  {
+    "name": "Penny Hardaway",
+    "team": "2002-03 Phoenix Suns",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Tom Gugliotta",
+    "team": "2002-03 Phoenix Suns",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Bo Outlaw",
+    "team": "2002-03 Phoenix Suns",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Joe Johnson",
+    "team": "2002-03 Phoenix Suns",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Jake Voskuhl",
+    "team": "2002-03 Phoenix Suns",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Randy Brown",
+    "team": "2002-03 Phoenix Suns",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Casey Jacobsen",
+    "team": "2002-03 Phoenix Suns",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Scott Williams",
+    "team": "2002-03 Phoenix Suns",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Patrick Ewing",
+    "team": "1998-99 New York Knicks",
+    "overall": 84,
+    "type": "class"
+  },
+  {
+    "name": "Latrell Sprewell",
+    "team": "1998-99 New York Knicks",
+    "overall": 84,
+    "type": "class"
+  },
+  {
+    "name": "Allan Houston",
+    "team": "1998-99 New York Knicks",
+    "overall": 83,
+    "type": "class"
+  },
+  {
+    "name": "Larry Johnson",
+    "team": "1998-99 New York Knicks",
+    "overall": 81,
+    "type": "class"
+  },
+  {
+    "name": "Marcus Camby",
+    "team": "1998-99 New York Knicks",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Kurt Thomas",
+    "team": "1998-99 New York Knicks",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Charlie Ward",
+    "team": "1998-99 New York Knicks",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Chris Childs",
+    "team": "1998-99 New York Knicks",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Chris Dudley",
+    "team": "1998-99 New York Knicks",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "David Wingate",
+    "team": "1998-99 New York Knicks",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Herb Williams",
+    "team": "1998-99 New York Knicks",
+    "overall": 67,
+    "type": "class"
+  },
+  {
+    "name": "Tracy McGrady",
+    "team": "2007-08 Houston Rockets",
+    "overall": 91,
+    "type": "class"
+  },
+  {
+    "name": "Yao Ming",
+    "team": "2007-08 Houston Rockets",
+    "overall": 88,
+    "type": "class"
+  },
+  {
+    "name": "Rafer Alston",
+    "team": "2007-08 Houston Rockets",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Shane Battier",
+    "team": "2007-08 Houston Rockets",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Carl Landry",
+    "team": "2007-08 Houston Rockets",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Aaron Brooks",
+    "team": "2007-08 Houston Rockets",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Luis Scola",
+    "team": "2007-08 Houston Rockets",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Dikembe Mutombo",
+    "team": "2007-08 Houston Rockets",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Bobby Jackson",
+    "team": "2007-08 Houston Rockets",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Luther Head",
+    "team": "2007-08 Houston Rockets",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Steve Novak",
+    "team": "2007-08 Houston Rockets",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Steve Francis",
+    "team": "2007-08 Houston Rockets",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Chuck Hayes",
+    "team": "2007-08 Houston Rockets",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Jerry West",
+    "team": "1970-71 Los Angeles Lakers",
+    "overall": 95,
+    "type": "class"
+  },
+  {
+    "name": "Wilt Chamberlain",
+    "team": "1970-71 Los Angeles Lakers",
+    "overall": 93,
+    "type": "class"
+  },
+  {
+    "name": "Gail Goodrich",
+    "team": "1970-71 Los Angeles Lakers",
+    "overall": 83,
+    "type": "class"
+  },
+  {
+    "name": "Elgin Baylor",
+    "team": "1970-71 Los Angeles Lakers",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Fred Hetzel",
+    "team": "1970-71 Los Angeles Lakers",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Rick Roberson",
+    "team": "1970-71 Los Angeles Lakers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Keith Erickson",
+    "team": "1970-71 Los Angeles Lakers",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Willie McCarter",
+    "team": "1970-71 Los Angeles Lakers",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Arvydas Sabonis",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 86,
+    "type": "class"
+  },
+  {
+    "name": "Scottie Pippen",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 85,
+    "type": "class"
+  },
+  {
+    "name": "Steve Smith",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Damon Stoudamire",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 81,
+    "type": "class"
+  },
+  {
+    "name": "Detlef Schrempf",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Jermaine O’Neal",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Brian Grant",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Stacey Augmon",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Bonzi Wells",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Greg Anthony",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Joe Kleine",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Antonio Harvey",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Gary Grant",
+    "team": "1999-00 Portland Trail Blazers",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Larry Bird",
+    "team": "1985-86 Boston Celtics",
+    "overall": 97,
+    "type": "class"
+  },
+  {
+    "name": "Kevin McHale",
+    "team": "1985-86 Boston Celtics",
+    "overall": 91,
+    "type": "class"
+  },
+  {
+    "name": "Robert Parish",
+    "team": "1985-86 Boston Celtics",
+    "overall": 86,
+    "type": "class"
+  },
+  {
+    "name": "Dennis Johnson",
+    "team": "1985-86 Boston Celtics",
+    "overall": 84,
+    "type": "class"
+  },
+  {
+    "name": "Bill Walton",
+    "team": "1985-86 Boston Celtics",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Danny Ainge",
+    "team": "1985-86 Boston Celtics",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Scott Wedman",
+    "team": "1985-86 Boston Celtics",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Jerry Sichting",
+    "team": "1985-86 Boston Celtics",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Sam Vincent",
+    "team": "1985-86 Boston Celtics",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Greg Kite",
+    "team": "1985-86 Boston Celtics",
+    "overall": 68,
     "type": "class"
   },
   {
@@ -195,474 +1617,6 @@
     "name": "Kevin Lynch",
     "team": "1992-93 Charlotte Hornets",
     "overall": 65,
-    "type": "class"
-  },
-  {
-    "name": "Patrick Ewing",
-    "team": "1994-95 New York Knicks",
-    "overall": 90,
-    "type": "class"
-  },
-  {
-    "name": "John Starks",
-    "team": "1994-95 New York Knicks",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Charles Oakley",
-    "team": "1994-95 New York Knicks",
-    "overall": 81,
-    "type": "class"
-  },
-  {
-    "name": "Charles Smith",
-    "team": "1994-95 New York Knicks",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Derek Harper",
-    "team": "1994-95 New York Knicks",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Hubert Davis",
-    "team": "1994-95 New York Knicks",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Greg Anthony",
-    "team": "1994-95 New York Knicks",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Doug Christie",
-    "team": "1994-95 New York Knicks",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Charlie Ward",
-    "team": "1994-95 New York Knicks",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Anthony Bonner",
-    "team": "1994-95 New York Knicks",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Monty Williams",
-    "team": "1994-95 New York Knicks",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Herb Williams",
-    "team": "1994-95 New York Knicks",
-    "overall": 67,
-    "type": "class"
-  },
-  {
-    "name": "Chris Webber",
-    "team": "2001-02 Sacramento Kings",
-    "overall": 90,
-    "type": "class"
-  },
-  {
-    "name": "Peja Stojakovic",
-    "team": "2001-02 Sacramento Kings",
-    "overall": 87,
-    "type": "class"
-  },
-  {
-    "name": "Vlade Divac",
-    "team": "2001-02 Sacramento Kings",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Mike Bibby",
-    "team": "2001-02 Sacramento Kings",
-    "overall": 83,
-    "type": "class"
-  },
-  {
-    "name": "Doug Christie",
-    "team": "2001-02 Sacramento Kings",
-    "overall": 83,
-    "type": "class"
-  },
-  {
-    "name": "Bobby Jackson",
-    "team": "2001-02 Sacramento Kings",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Scot Pollard",
-    "team": "2001-02 Sacramento Kings",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Hedo Turkoglu",
-    "team": "2001-02 Sacramento Kings",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Lawrence Funderburke",
-    "team": "2001-02 Sacramento Kings",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Gerald Wallace",
-    "team": "2001-02 Sacramento Kings",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Chucky Brown",
-    "team": "2001-02 Sacramento Kings",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Kareem Abdul-Jabbar",
-    "team": "1970-71 Milwaukee Bucks",
-    "overall": 98,
-    "type": "class"
-  },
-  {
-    "name": "Oscar Robertson",
-    "team": "1970-71 Milwaukee Bucks",
-    "overall": 93,
-    "type": "class"
-  },
-  {
-    "name": "Bob Dandridge",
-    "team": "1970-71 Milwaukee Bucks",
-    "overall": 84,
-    "type": "class"
-  },
-  {
-    "name": "Lucius Allen",
-    "team": "1970-71 Milwaukee Bucks",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Greg Smith",
-    "team": "1970-71 Milwaukee Bucks",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Jon McGlocklin",
-    "team": "1970-71 Milwaukee Bucks",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Dick Cunningham",
-    "team": "1970-71 Milwaukee Bucks",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Michael Jordan",
-    "team": "1990-91 Chicago Bulls",
-    "overall": 98,
-    "type": "class"
-  },
-  {
-    "name": "Scottie Pippen",
-    "team": "1990-91 Chicago Bulls",
-    "overall": 89,
-    "type": "class"
-  },
-  {
-    "name": "Horace Grant",
-    "team": "1990-91 Chicago Bulls",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "John Paxson",
-    "team": "1990-91 Chicago Bulls",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Bill Cartwright",
-    "team": "1990-91 Chicago Bulls",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "B.J. Armstrong",
-    "team": "1990-91 Chicago Bulls",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Stacey King",
-    "team": "1990-91 Chicago Bulls",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Will Perdue",
-    "team": "1990-91 Chicago Bulls",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Dennis Hopson",
-    "team": "1990-91 Chicago Bulls",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Craig Hodges",
-    "team": "1990-91 Chicago Bulls",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Scott Williams",
-    "team": "1990-91 Chicago Bulls",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Cliff Levingston",
-    "team": "1990-91 Chicago Bulls",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Michael Jordan",
-    "team": "1985-86 Chicago Bulls",
-    "overall": 91,
-    "type": "class"
-  },
-  {
-    "name": "George Gervin",
-    "team": "1985-86 Chicago Bulls",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Charles Oakley",
-    "team": "1985-86 Chicago Bulls",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Sidney Green",
-    "team": "1985-86 Chicago Bulls",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Gene Banks",
-    "team": "1985-86 Chicago Bulls",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Kyle Macy",
-    "team": "1985-86 Chicago Bulls",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Mike Holton",
-    "team": "1985-86 Chicago Bulls",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "John Paxson",
-    "team": "1985-86 Chicago Bulls",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Dave Corzine",
-    "team": "1985-86 Chicago Bulls",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Michael Jordan",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 98,
-    "type": "class"
-  },
-  {
-    "name": "Scottie Pippen",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 89,
-    "type": "class"
-  },
-  {
-    "name": "Dennis Rodman",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 85,
-    "type": "class"
-  },
-  {
-    "name": "Toni Kukoc",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 83,
-    "type": "class"
-  },
-  {
-    "name": "Ron Harper",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 80,
-    "type": "class"
-  },
-  {
-    "name": "Luc Longley",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Randy Brown",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Scott Burrell",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Steve Kerr",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Joe Kleine",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Dickey Simpkins",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Jud Buechler",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Bill Wennington",
-    "team": "1997-98 Chicago Bulls",
-    "overall": 66,
-    "type": "class"
-  },
-  {
-    "name": "Michael Jordan",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 99,
-    "type": "class"
-  },
-  {
-    "name": "Scottie Pippen",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 95,
-    "type": "class"
-  },
-  {
-    "name": "Dennis Rodman",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 88,
-    "type": "class"
-  },
-  {
-    "name": "Toni Kukoc",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 84,
-    "type": "class"
-  },
-  {
-    "name": "Ron Harper",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 80,
-    "type": "class"
-  },
-  {
-    "name": "Steve Kerr",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Luc Longley",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Randy Brown",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Jason Caffey",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Jud Buechler",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "John Salley",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Dickey Simpkins",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Bill Wennington",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 67,
-    "type": "class"
-  },
-  {
-    "name": "James Edwards",
-    "team": "1995-96 Chicago Bulls",
-    "overall": 66,
     "type": "class"
   },
   {
@@ -756,123 +1710,195 @@
     "type": "class"
   },
   {
-    "name": "Pau Gasol",
-    "team": "2005-06 Memphis Grizzlies",
-    "overall": 91,
+    "name": "Michael Jordan",
+    "team": "1997-98 Chicago Bulls",
+    "overall": 98,
     "type": "class"
   },
   {
-    "name": "Shane Battier",
-    "team": "2005-06 Memphis Grizzlies",
+    "name": "Scottie Pippen",
+    "team": "1997-98 Chicago Bulls",
+    "overall": 89,
+    "type": "class"
+  },
+  {
+    "name": "Dennis Rodman",
+    "team": "1997-98 Chicago Bulls",
+    "overall": 85,
+    "type": "class"
+  },
+  {
+    "name": "Toni Kukoc",
+    "team": "1997-98 Chicago Bulls",
     "overall": 83,
     "type": "class"
   },
   {
-    "name": "Mike Miller",
-    "team": "2005-06 Memphis Grizzlies",
-    "overall": 81,
+    "name": "Ron Harper",
+    "team": "1997-98 Chicago Bulls",
+    "overall": 80,
     "type": "class"
   },
   {
-    "name": "Eddie Jones",
-    "team": "2005-06 Memphis Grizzlies",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Damon Stoudamire",
-    "team": "2005-06 Memphis Grizzlies",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Bobby Jackson",
-    "team": "2005-06 Memphis Grizzlies",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Chucky Atkins",
-    "team": "2005-06 Memphis Grizzlies",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Hakim Warrick",
-    "team": "2005-06 Memphis Grizzlies",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Dahntay Jones",
-    "team": "2005-06 Memphis Grizzlies",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Brian Cardinal",
-    "team": "2005-06 Memphis Grizzlies",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Larry Bird",
-    "team": "1985-86 Boston Celtics",
-    "overall": 97,
-    "type": "class"
-  },
-  {
-    "name": "Kevin McHale",
-    "team": "1985-86 Boston Celtics",
-    "overall": 91,
-    "type": "class"
-  },
-  {
-    "name": "Robert Parish",
-    "team": "1985-86 Boston Celtics",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Dennis Johnson",
-    "team": "1985-86 Boston Celtics",
-    "overall": 84,
-    "type": "class"
-  },
-  {
-    "name": "Bill Walton",
-    "team": "1985-86 Boston Celtics",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Danny Ainge",
-    "team": "1985-86 Boston Celtics",
+    "name": "Luc Longley",
+    "team": "1997-98 Chicago Bulls",
     "overall": 78,
     "type": "class"
   },
   {
-    "name": "Scott Wedman",
-    "team": "1985-86 Boston Celtics",
-    "overall": 75,
+    "name": "Randy Brown",
+    "team": "1997-98 Chicago Bulls",
+    "overall": 74,
     "type": "class"
   },
   {
-    "name": "Jerry Sichting",
-    "team": "1985-86 Boston Celtics",
-    "overall": 75,
+    "name": "Scott Burrell",
+    "team": "1997-98 Chicago Bulls",
+    "overall": 74,
     "type": "class"
   },
   {
-    "name": "Sam Vincent",
-    "team": "1985-86 Boston Celtics",
-    "overall": 69,
+    "name": "Steve Kerr",
+    "team": "1997-98 Chicago Bulls",
+    "overall": 73,
     "type": "class"
   },
   {
-    "name": "Greg Kite",
-    "team": "1985-86 Boston Celtics",
+    "name": "Joe Kleine",
+    "team": "1997-98 Chicago Bulls",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Dickey Simpkins",
+    "team": "1997-98 Chicago Bulls",
     "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Jud Buechler",
+    "team": "1997-98 Chicago Bulls",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Bill Wennington",
+    "team": "1997-98 Chicago Bulls",
+    "overall": 66,
+    "type": "class"
+  },
+  {
+    "name": "Kareem Abdul-Jabbar",
+    "team": "1970-71 Milwaukee Bucks",
+    "overall": 98,
+    "type": "class"
+  },
+  {
+    "name": "Oscar Robertson",
+    "team": "1970-71 Milwaukee Bucks",
+    "overall": 93,
+    "type": "class"
+  },
+  {
+    "name": "Bob Dandridge",
+    "team": "1970-71 Milwaukee Bucks",
+    "overall": 84,
+    "type": "class"
+  },
+  {
+    "name": "Lucius Allen",
+    "team": "1970-71 Milwaukee Bucks",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Greg Smith",
+    "team": "1970-71 Milwaukee Bucks",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Jon McGlocklin",
+    "team": "1970-71 Milwaukee Bucks",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Dick Cunningham",
+    "team": "1970-71 Milwaukee Bucks",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "LeBron James",
+    "team": "2015-16 Cleveland Cavaliers",
+    "overall": 99,
+    "type": "class"
+  },
+  {
+    "name": "Kyrie Irving",
+    "team": "2015-16 Cleveland Cavaliers",
+    "overall": 93,
+    "type": "class"
+  },
+  {
+    "name": "Kevin Love",
+    "team": "2015-16 Cleveland Cavaliers",
+    "overall": 87,
+    "type": "class"
+  },
+  {
+    "name": "J.R. Smith",
+    "team": "2015-16 Cleveland Cavaliers",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Tristan Thompson",
+    "team": "2015-16 Cleveland Cavaliers",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Richard Jefferson",
+    "team": "2015-16 Cleveland Cavaliers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Matthew Dellavedova",
+    "team": "2015-16 Cleveland Cavaliers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Mo Williams",
+    "team": "2015-16 Cleveland Cavaliers",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Channing Frye",
+    "team": "2015-16 Cleveland Cavaliers",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "James Jones",
+    "team": "2015-16 Cleveland Cavaliers",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Dahntay Jones",
+    "team": "2015-16 Cleveland Cavaliers",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Jordan McRae",
+    "team": "2015-16 Cleveland Cavaliers",
+    "overall": 70,
     "type": "class"
   },
   {
@@ -933,6 +1959,78 @@
     "name": "John Thompson",
     "team": "1964-65 Boston Celtics",
     "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Michael Jordan",
+    "team": "1990-91 Chicago Bulls",
+    "overall": 98,
+    "type": "class"
+  },
+  {
+    "name": "Scottie Pippen",
+    "team": "1990-91 Chicago Bulls",
+    "overall": 89,
+    "type": "class"
+  },
+  {
+    "name": "Horace Grant",
+    "team": "1990-91 Chicago Bulls",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "John Paxson",
+    "team": "1990-91 Chicago Bulls",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Bill Cartwright",
+    "team": "1990-91 Chicago Bulls",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "B.J. Armstrong",
+    "team": "1990-91 Chicago Bulls",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Stacey King",
+    "team": "1990-91 Chicago Bulls",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Will Perdue",
+    "team": "1990-91 Chicago Bulls",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Dennis Hopson",
+    "team": "1990-91 Chicago Bulls",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Craig Hodges",
+    "team": "1990-91 Chicago Bulls",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Scott Williams",
+    "team": "1990-91 Chicago Bulls",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Cliff Levingston",
+    "team": "1990-91 Chicago Bulls",
+    "overall": 69,
     "type": "class"
   },
   {
@@ -1014,39 +2112,75 @@
     "type": "class"
   },
   {
-    "name": "Jerry West",
-    "team": "1964-65 Los Angeles Lakers",
-    "overall": 93,
+    "name": "Derrick Rose",
+    "team": "2010-11 Chicago Bulls",
+    "overall": 95,
     "type": "class"
   },
   {
-    "name": "Elgin Baylor",
-    "team": "1964-65 Los Angeles Lakers",
-    "overall": 92,
+    "name": "Joakim Noah",
+    "team": "2010-11 Chicago Bulls",
+    "overall": 86,
     "type": "class"
   },
   {
-    "name": "Rudy LaRusso",
-    "team": "1964-65 Los Angeles Lakers",
-    "overall": 82,
+    "name": "Carlos Boozer",
+    "team": "2010-11 Chicago Bulls",
+    "overall": 85,
     "type": "class"
   },
   {
-    "name": "Dick Barnett",
-    "team": "1964-65 Los Angeles Lakers",
-    "overall": 79,
+    "name": "Luol Deng",
+    "team": "2010-11 Chicago Bulls",
+    "overall": 83,
     "type": "class"
   },
   {
-    "name": "Don Nelson",
-    "team": "1964-65 Los Angeles Lakers",
-    "overall": 69,
+    "name": "Taj Gibson",
+    "team": "2010-11 Chicago Bulls",
+    "overall": 78,
     "type": "class"
   },
   {
-    "name": "Jim King",
-    "team": "1964-65 Los Angeles Lakers",
-    "overall": 67,
+    "name": "Kyle Korver",
+    "team": "2010-11 Chicago Bulls",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Ronnie Brewer",
+    "team": "2010-11 Chicago Bulls",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "C.J. Watson",
+    "team": "2010-11 Chicago Bulls",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Keith Bogans",
+    "team": "2010-11 Chicago Bulls",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Omer Asik",
+    "team": "2010-11 Chicago Bulls",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Kurt Thomas",
+    "team": "2010-11 Chicago Bulls",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Brian Scalabrine",
+    "team": "2010-11 Chicago Bulls",
+    "overall": 70,
     "type": "class"
   },
   {
@@ -1116,231 +2250,639 @@
     "type": "class"
   },
   {
-    "name": "Kevin Garnett",
-    "team": "2007-08 Boston Celtics",
-    "overall": 93,
-    "type": "class"
-  },
-  {
-    "name": "Paul Pierce",
-    "team": "2007-08 Boston Celtics",
-    "overall": 92,
-    "type": "class"
-  },
-  {
-    "name": "Ray Allen",
-    "team": "2007-08 Boston Celtics",
-    "overall": 88,
-    "type": "class"
-  },
-  {
-    "name": "Rajon Rondo",
-    "team": "2007-08 Boston Celtics",
-    "overall": 85,
-    "type": "class"
-  },
-  {
-    "name": "James Posey",
-    "team": "2007-08 Boston Celtics",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Leon Powe",
-    "team": "2007-08 Boston Celtics",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Kendrick Perkins",
-    "team": "2007-08 Boston Celtics",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Tony Allen",
-    "team": "2007-08 Boston Celtics",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Glen Davis",
-    "team": "2007-08 Boston Celtics",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Eddie House",
-    "team": "2007-08 Boston Celtics",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Sam Cassell",
-    "team": "2007-08 Boston Celtics",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "P.J. Brown",
-    "team": "2007-08 Boston Celtics",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Brian Scalabrine",
-    "team": "2007-08 Boston Celtics",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Scot Pollard",
-    "team": "2007-08 Boston Celtics",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "LeBron James",
-    "team": "2015-16 Cleveland Cavaliers",
+    "name": "Michael Jordan",
+    "team": "1995-96 Chicago Bulls",
     "overall": 99,
     "type": "class"
   },
   {
-    "name": "Kyrie Irving",
-    "team": "2015-16 Cleveland Cavaliers",
-    "overall": 93,
-    "type": "class"
-  },
-  {
-    "name": "Kevin Love",
-    "team": "2015-16 Cleveland Cavaliers",
-    "overall": 87,
-    "type": "class"
-  },
-  {
-    "name": "J.R. Smith",
-    "team": "2015-16 Cleveland Cavaliers",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Tristan Thompson",
-    "team": "2015-16 Cleveland Cavaliers",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Richard Jefferson",
-    "team": "2015-16 Cleveland Cavaliers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Matthew Dellavedova",
-    "team": "2015-16 Cleveland Cavaliers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Mo Williams",
-    "team": "2015-16 Cleveland Cavaliers",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Channing Frye",
-    "team": "2015-16 Cleveland Cavaliers",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "James Jones",
-    "team": "2015-16 Cleveland Cavaliers",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Dahntay Jones",
-    "team": "2015-16 Cleveland Cavaliers",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Jordan McRae",
-    "team": "2015-16 Cleveland Cavaliers",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Dwyane Wade",
-    "team": "2005-06 Miami Heat",
+    "name": "Scottie Pippen",
+    "team": "1995-96 Chicago Bulls",
     "overall": 95,
     "type": "class"
   },
   {
-    "name": "Shaquille O’Neal",
-    "team": "2005-06 Miami Heat",
+    "name": "Dennis Rodman",
+    "team": "1995-96 Chicago Bulls",
+    "overall": 88,
+    "type": "class"
+  },
+  {
+    "name": "Toni Kukoc",
+    "team": "1995-96 Chicago Bulls",
+    "overall": 84,
+    "type": "class"
+  },
+  {
+    "name": "Ron Harper",
+    "team": "1995-96 Chicago Bulls",
+    "overall": 80,
+    "type": "class"
+  },
+  {
+    "name": "Steve Kerr",
+    "team": "1995-96 Chicago Bulls",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Luc Longley",
+    "team": "1995-96 Chicago Bulls",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Randy Brown",
+    "team": "1995-96 Chicago Bulls",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Jason Caffey",
+    "team": "1995-96 Chicago Bulls",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Jud Buechler",
+    "team": "1995-96 Chicago Bulls",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "John Salley",
+    "team": "1995-96 Chicago Bulls",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Dickey Simpkins",
+    "team": "1995-96 Chicago Bulls",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Bill Wennington",
+    "team": "1995-96 Chicago Bulls",
+    "overall": 67,
+    "type": "class"
+  },
+  {
+    "name": "James Edwards",
+    "team": "1995-96 Chicago Bulls",
+    "overall": 66,
+    "type": "class"
+  },
+  {
+    "name": "Mark Price",
+    "team": "1989-90 Cleveland Cavaliers",
     "overall": 89,
     "type": "class"
   },
   {
-    "name": "Jason Williams",
-    "team": "2005-06 Miami Heat",
+    "name": "Brad Daugherty",
+    "team": "1989-90 Cleveland Cavaliers",
+    "overall": 85,
+    "type": "class"
+  },
+  {
+    "name": "Larry Nance",
+    "team": "1989-90 Cleveland Cavaliers",
+    "overall": 85,
+    "type": "class"
+  },
+  {
+    "name": "Hot Rod Williams",
+    "team": "1989-90 Cleveland Cavaliers",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Craig Ehlo",
+    "team": "1989-90 Cleveland Cavaliers",
     "overall": 79,
     "type": "class"
   },
   {
-    "name": "Antoine Walker",
-    "team": "2005-06 Miami Heat",
+    "name": "Winston Bennett",
+    "team": "1989-90 Cleveland Cavaliers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Steve Kerr",
+    "team": "1989-90 Cleveland Cavaliers",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Chucky Brown",
+    "team": "1989-90 Cleveland Cavaliers",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Tree Rollins",
+    "team": "1989-90 Cleveland Cavaliers",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Paul Mokeski",
+    "team": "1989-90 Cleveland Cavaliers",
+    "overall": 64,
+    "type": "class"
+  },
+  {
+    "name": "Michael Jordan",
+    "team": "1992-93 Chicago Bulls",
+    "overall": 99,
+    "type": "class"
+  },
+  {
+    "name": "Scottie Pippen",
+    "team": "1992-93 Chicago Bulls",
+    "overall": 93,
+    "type": "class"
+  },
+  {
+    "name": "Horace Grant",
+    "team": "1992-93 Chicago Bulls",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "B.J. Armstrong",
+    "team": "1992-93 Chicago Bulls",
     "overall": 79,
     "type": "class"
   },
   {
-    "name": "Gary Payton",
-    "team": "2005-06 Miami Heat",
+    "name": "Bill Cartwright",
+    "team": "1992-93 Chicago Bulls",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Rodney McCray",
+    "team": "1992-93 Chicago Bulls",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Stacey King",
+    "team": "1992-93 Chicago Bulls",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Will Perdue",
+    "team": "1992-93 Chicago Bulls",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Trent Tucker",
+    "team": "1992-93 Chicago Bulls",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Scott Williams",
+    "team": "1992-93 Chicago Bulls",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "John Paxson",
+    "team": "1992-93 Chicago Bulls",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Darrell Walker",
+    "team": "1992-93 Chicago Bulls",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Ed Nealy",
+    "team": "1992-93 Chicago Bulls",
+    "overall": 66,
+    "type": "class"
+  },
+  {
+    "name": "Dirk Nowitzki",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 91,
+    "type": "class"
+  },
+  {
+    "name": "Steve Nash",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 87,
+    "type": "class"
+  },
+  {
+    "name": "Michael Finley",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Nick Van Exel",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Raef LaFrentz",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Shawn Bradley",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Eduardo Najera",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Tariq Abdul-Wahad",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Walt Williams",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Avery Johnson",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Adrian Griffin",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Raja Bell",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Popeye Jones",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Evan Eschmeyer",
+    "team": "2002-03 Dallas Mavericks",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Patrick Ewing",
+    "team": "1994-95 New York Knicks",
+    "overall": 90,
+    "type": "class"
+  },
+  {
+    "name": "John Starks",
+    "team": "1994-95 New York Knicks",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Charles Oakley",
+    "team": "1994-95 New York Knicks",
+    "overall": 81,
+    "type": "class"
+  },
+  {
+    "name": "Charles Smith",
+    "team": "1994-95 New York Knicks",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Derek Harper",
+    "team": "1994-95 New York Knicks",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Hubert Davis",
+    "team": "1994-95 New York Knicks",
     "overall": 76,
     "type": "class"
   },
   {
-    "name": "Alonzo Mourning",
-    "team": "2005-06 Miami Heat",
+    "name": "Greg Anthony",
+    "team": "1994-95 New York Knicks",
     "overall": 75,
     "type": "class"
   },
   {
-    "name": "James Posey",
-    "team": "2005-06 Miami Heat",
-    "overall": 75,
+    "name": "Doug Christie",
+    "team": "1994-95 New York Knicks",
+    "overall": 70,
     "type": "class"
   },
   {
-    "name": "Udonis Haslem",
-    "team": "2005-06 Miami Heat",
-    "overall": 75,
+    "name": "Charlie Ward",
+    "team": "1994-95 New York Knicks",
+    "overall": 70,
     "type": "class"
   },
   {
-    "name": "Michael Doleac",
-    "team": "2005-06 Miami Heat",
-    "overall": 71,
+    "name": "Anthony Bonner",
+    "team": "1994-95 New York Knicks",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Monty Williams",
+    "team": "1994-95 New York Knicks",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Herb Williams",
+    "team": "1994-95 New York Knicks",
+    "overall": 67,
+    "type": "class"
+  },
+  {
+    "name": "Karl Malone",
+    "team": "1997-98 Utah Jazz",
+    "overall": 96,
+    "type": "class"
+  },
+  {
+    "name": "John Stockton",
+    "team": "1997-98 Utah Jazz",
+    "overall": 93,
+    "type": "class"
+  },
+  {
+    "name": "Jeff Hornacek",
+    "team": "1997-98 Utah Jazz",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Bryon Russell",
+    "team": "1997-98 Utah Jazz",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Adam Keefe",
+    "team": "1997-98 Utah Jazz",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Howard Eisley",
+    "team": "1997-98 Utah Jazz",
+    "overall": 76,
     "type": "class"
   },
   {
     "name": "Shandon Anderson",
-    "team": "2005-06 Miami Heat",
+    "team": "1997-98 Utah Jazz",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Chris Morris",
+    "team": "1997-98 Utah Jazz",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Jacque Vaughn",
+    "team": "1997-98 Utah Jazz",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Greg Ostertag",
+    "team": "1997-98 Utah Jazz",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Antoine Carr",
+    "team": "1997-98 Utah Jazz",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Greg Foster",
+    "team": "1997-98 Utah Jazz",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Tim Duncan",
+    "team": "2013-14 San Antonio Spurs",
+    "overall": 94,
+    "type": "class"
+  },
+  {
+    "name": "Kawhi Leonard",
+    "team": "2013-14 San Antonio Spurs",
+    "overall": 92,
+    "type": "class"
+  },
+  {
+    "name": "Tony Parker",
+    "team": "2013-14 San Antonio Spurs",
+    "overall": 86,
+    "type": "class"
+  },
+  {
+    "name": "Manu Ginobili",
+    "team": "2013-14 San Antonio Spurs",
+    "overall": 83,
+    "type": "class"
+  },
+  {
+    "name": "Danny Green",
+    "team": "2013-14 San Antonio Spurs",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Tiago Splitter",
+    "team": "2013-14 San Antonio Spurs",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Patty Mills",
+    "team": "2013-14 San Antonio Spurs",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Boris Diaw",
+    "team": "2013-14 San Antonio Spurs",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Cory Joseph",
+    "team": "2013-14 San Antonio Spurs",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Matt Bonner",
+    "team": "2013-14 San Antonio Spurs",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Hakeem Olajuwon",
+    "team": "1993-94 Houston Rockets",
+    "overall": 97,
+    "type": "class"
+  },
+  {
+    "name": "Otis Thorpe",
+    "team": "1993-94 Houston Rockets",
+    "overall": 80,
+    "type": "class"
+  },
+  {
+    "name": "Kenny Smith",
+    "team": "1993-94 Houston Rockets",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Vernon Maxwell",
+    "team": "1993-94 Houston Rockets",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Robert Horry",
+    "team": "1993-94 Houston Rockets",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Sam Cassell",
+    "team": "1993-94 Houston Rockets",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Mario Elie",
+    "team": "1993-94 Houston Rockets",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Carl Herrera",
+    "team": "1993-94 Houston Rockets",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Scott Brooks",
+    "team": "1993-94 Houston Rockets",
     "overall": 71,
     "type": "class"
   },
   {
-    "name": "Derek Anderson",
-    "team": "2005-06 Miami Heat",
-    "overall": 68,
+    "name": "Matt Bullard",
+    "team": "1993-94 Houston Rockets",
+    "overall": 69,
     "type": "class"
   },
   {
-    "name": "Dorell Wright",
-    "team": "2005-06 Miami Heat",
-    "overall": 68,
+    "name": "Earl Cureton",
+    "team": "1993-94 Houston Rockets",
+    "overall": 67,
+    "type": "class"
+  },
+  {
+    "name": "Pau Gasol",
+    "team": "2005-06 Memphis Grizzlies",
+    "overall": 91,
+    "type": "class"
+  },
+  {
+    "name": "Shane Battier",
+    "team": "2005-06 Memphis Grizzlies",
+    "overall": 83,
+    "type": "class"
+  },
+  {
+    "name": "Mike Miller",
+    "team": "2005-06 Memphis Grizzlies",
+    "overall": 81,
+    "type": "class"
+  },
+  {
+    "name": "Eddie Jones",
+    "team": "2005-06 Memphis Grizzlies",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Damon Stoudamire",
+    "team": "2005-06 Memphis Grizzlies",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Bobby Jackson",
+    "team": "2005-06 Memphis Grizzlies",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Chucky Atkins",
+    "team": "2005-06 Memphis Grizzlies",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Hakim Warrick",
+    "team": "2005-06 Memphis Grizzlies",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Dahntay Jones",
+    "team": "2005-06 Memphis Grizzlies",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Brian Cardinal",
+    "team": "2005-06 Memphis Grizzlies",
+    "overall": 72,
     "type": "class"
   },
   {
@@ -1548,6 +3090,90 @@
     "type": "class"
   },
   {
+    "name": "Kevin Garnett",
+    "team": "2007-08 Boston Celtics",
+    "overall": 93,
+    "type": "class"
+  },
+  {
+    "name": "Paul Pierce",
+    "team": "2007-08 Boston Celtics",
+    "overall": 92,
+    "type": "class"
+  },
+  {
+    "name": "Ray Allen",
+    "team": "2007-08 Boston Celtics",
+    "overall": 88,
+    "type": "class"
+  },
+  {
+    "name": "Rajon Rondo",
+    "team": "2007-08 Boston Celtics",
+    "overall": 85,
+    "type": "class"
+  },
+  {
+    "name": "James Posey",
+    "team": "2007-08 Boston Celtics",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Leon Powe",
+    "team": "2007-08 Boston Celtics",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Kendrick Perkins",
+    "team": "2007-08 Boston Celtics",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Tony Allen",
+    "team": "2007-08 Boston Celtics",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Glen Davis",
+    "team": "2007-08 Boston Celtics",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Eddie House",
+    "team": "2007-08 Boston Celtics",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Sam Cassell",
+    "team": "2007-08 Boston Celtics",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "P.J. Brown",
+    "team": "2007-08 Boston Celtics",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Brian Scalabrine",
+    "team": "2007-08 Boston Celtics",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Scot Pollard",
+    "team": "2007-08 Boston Celtics",
+    "overall": 72,
+    "type": "class"
+  },
+  {
     "name": "Chris Paul",
     "team": "2013-14 Los Angeles Clippers",
     "overall": 93,
@@ -1626,1074 +3252,6 @@
     "type": "class"
   },
   {
-    "name": "Derrick Rose",
-    "team": "2010-11 Chicago Bulls",
-    "overall": 95,
-    "type": "class"
-  },
-  {
-    "name": "Joakim Noah",
-    "team": "2010-11 Chicago Bulls",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Carlos Boozer",
-    "team": "2010-11 Chicago Bulls",
-    "overall": 85,
-    "type": "class"
-  },
-  {
-    "name": "Luol Deng",
-    "team": "2010-11 Chicago Bulls",
-    "overall": 83,
-    "type": "class"
-  },
-  {
-    "name": "Taj Gibson",
-    "team": "2010-11 Chicago Bulls",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Kyle Korver",
-    "team": "2010-11 Chicago Bulls",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Ronnie Brewer",
-    "team": "2010-11 Chicago Bulls",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "C.J. Watson",
-    "team": "2010-11 Chicago Bulls",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Keith Bogans",
-    "team": "2010-11 Chicago Bulls",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Omer Asik",
-    "team": "2010-11 Chicago Bulls",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Kurt Thomas",
-    "team": "2010-11 Chicago Bulls",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Brian Scalabrine",
-    "team": "2010-11 Chicago Bulls",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Magic Johnson",
-    "team": "1986-87 Los Angeles Lakers",
-    "overall": 97,
-    "type": "class"
-  },
-  {
-    "name": "Kareem Abdul-Jabbar",
-    "team": "1986-87 Los Angeles Lakers",
-    "overall": 94,
-    "type": "class"
-  },
-  {
-    "name": "James Worthy",
-    "team": "1986-87 Los Angeles Lakers",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Michael Cooper",
-    "team": "1986-87 Los Angeles Lakers",
-    "overall": 85,
-    "type": "class"
-  },
-  {
-    "name": "Byron Scott",
-    "team": "1986-87 Los Angeles Lakers",
-    "overall": 84,
-    "type": "class"
-  },
-  {
-    "name": "A.C. Green",
-    "team": "1986-87 Los Angeles Lakers",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Mychal Thompson",
-    "team": "1986-87 Los Angeles Lakers",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Wes Matthews",
-    "team": "1986-87 Los Angeles Lakers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Kurt Rambis",
-    "team": "1986-87 Los Angeles Lakers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Billy Thompson",
-    "team": "1986-87 Los Angeles Lakers",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Marc Gasol",
-    "team": "2012-13 Memphis Grizzlies",
-    "overall": 89,
-    "type": "class"
-  },
-  {
-    "name": "Mike Conley",
-    "team": "2012-13 Memphis Grizzlies",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Zach Randolph",
-    "team": "2012-13 Memphis Grizzlies",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Tony Allen",
-    "team": "2012-13 Memphis Grizzlies",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Keyon Dooling",
-    "team": "2012-13 Memphis Grizzlies",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Tony Wroten",
-    "team": "2012-13 Memphis Grizzlies",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Alonzo Mourning",
-    "team": "1996-97 Miami Heat",
-    "overall": 93,
-    "type": "class"
-  },
-  {
-    "name": "Tim Hardaway",
-    "team": "1996-97 Miami Heat",
-    "overall": 88,
-    "type": "class"
-  },
-  {
-    "name": "P.J. Brown",
-    "team": "1996-97 Miami Heat",
-    "overall": 84,
-    "type": "class"
-  },
-  {
-    "name": "Jamal Mashburn",
-    "team": "1996-97 Miami Heat",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Dan Majerle",
-    "team": "1996-97 Miami Heat",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Isaac Austin",
-    "team": "1996-97 Miami Heat",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Keith Askins",
-    "team": "1996-97 Miami Heat",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Willie Anderson",
-    "team": "1996-97 Miami Heat",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Ed Pinckney",
-    "team": "1996-97 Miami Heat",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "John Crotty",
-    "team": "1996-97 Miami Heat",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Bruce Bowen",
-    "team": "1996-97 Miami Heat",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Gary Grant",
-    "team": "1996-97 Miami Heat",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Matt Fish",
-    "team": "1996-97 Miami Heat",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Mark Price",
-    "team": "1989-90 Cleveland Cavaliers",
-    "overall": 89,
-    "type": "class"
-  },
-  {
-    "name": "Brad Daugherty",
-    "team": "1989-90 Cleveland Cavaliers",
-    "overall": 85,
-    "type": "class"
-  },
-  {
-    "name": "Larry Nance",
-    "team": "1989-90 Cleveland Cavaliers",
-    "overall": 85,
-    "type": "class"
-  },
-  {
-    "name": "Hot Rod Williams",
-    "team": "1989-90 Cleveland Cavaliers",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Craig Ehlo",
-    "team": "1989-90 Cleveland Cavaliers",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Winston Bennett",
-    "team": "1989-90 Cleveland Cavaliers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Steve Kerr",
-    "team": "1989-90 Cleveland Cavaliers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Chucky Brown",
-    "team": "1989-90 Cleveland Cavaliers",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Tree Rollins",
-    "team": "1989-90 Cleveland Cavaliers",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Paul Mokeski",
-    "team": "1989-90 Cleveland Cavaliers",
-    "overall": 64,
-    "type": "class"
-  },
-  {
-    "name": "Patrick Ewing",
-    "team": "1998-99 New York Knicks",
-    "overall": 84,
-    "type": "class"
-  },
-  {
-    "name": "Latrell Sprewell",
-    "team": "1998-99 New York Knicks",
-    "overall": 84,
-    "type": "class"
-  },
-  {
-    "name": "Allan Houston",
-    "team": "1998-99 New York Knicks",
-    "overall": 83,
-    "type": "class"
-  },
-  {
-    "name": "Larry Johnson",
-    "team": "1998-99 New York Knicks",
-    "overall": 81,
-    "type": "class"
-  },
-  {
-    "name": "Marcus Camby",
-    "team": "1998-99 New York Knicks",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Kurt Thomas",
-    "team": "1998-99 New York Knicks",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Charlie Ward",
-    "team": "1998-99 New York Knicks",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Chris Childs",
-    "team": "1998-99 New York Knicks",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Chris Dudley",
-    "team": "1998-99 New York Knicks",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "David Wingate",
-    "team": "1998-99 New York Knicks",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Herb Williams",
-    "team": "1998-99 New York Knicks",
-    "overall": 67,
-    "type": "class"
-  },
-  {
-    "name": "Dominique Wilkins",
-    "team": "1985-86 Atlanta Hawks",
-    "overall": 92,
-    "type": "class"
-  },
-  {
-    "name": "Doc Rivers",
-    "team": "1985-86 Atlanta Hawks",
-    "overall": 83,
-    "type": "class"
-  },
-  {
-    "name": "Kevin Willis",
-    "team": "1985-86 Atlanta Hawks",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Tree Rollins",
-    "team": "1985-86 Atlanta Hawks",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Spud Webb",
-    "team": "1985-86 Atlanta Hawks",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Randy Wittman",
-    "team": "1985-86 Atlanta Hawks",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Cliff Levingston",
-    "team": "1985-86 Atlanta Hawks",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Jon Koncak",
-    "team": "1985-86 Atlanta Hawks",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Johnny Davis",
-    "team": "1985-86 Atlanta Hawks",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Antoine Carr",
-    "team": "1985-86 Atlanta Hawks",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Scott Hastings",
-    "team": "1985-86 Atlanta Hawks",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Jerry West",
-    "team": "1970-71 Los Angeles Lakers",
-    "overall": 95,
-    "type": "class"
-  },
-  {
-    "name": "Wilt Chamberlain",
-    "team": "1970-71 Los Angeles Lakers",
-    "overall": 93,
-    "type": "class"
-  },
-  {
-    "name": "Gail Goodrich",
-    "team": "1970-71 Los Angeles Lakers",
-    "overall": 83,
-    "type": "class"
-  },
-  {
-    "name": "Elgin Baylor",
-    "team": "1970-71 Los Angeles Lakers",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Fred Hetzel",
-    "team": "1970-71 Los Angeles Lakers",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Rick Roberson",
-    "team": "1970-71 Los Angeles Lakers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Keith Erickson",
-    "team": "1970-71 Los Angeles Lakers",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Willie McCarter",
-    "team": "1970-71 Los Angeles Lakers",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Karl Malone",
-    "team": "1997-98 Utah Jazz",
-    "overall": 96,
-    "type": "class"
-  },
-  {
-    "name": "John Stockton",
-    "team": "1997-98 Utah Jazz",
-    "overall": 93,
-    "type": "class"
-  },
-  {
-    "name": "Jeff Hornacek",
-    "team": "1997-98 Utah Jazz",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Bryon Russell",
-    "team": "1997-98 Utah Jazz",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Adam Keefe",
-    "team": "1997-98 Utah Jazz",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Howard Eisley",
-    "team": "1997-98 Utah Jazz",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Shandon Anderson",
-    "team": "1997-98 Utah Jazz",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Chris Morris",
-    "team": "1997-98 Utah Jazz",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Jacque Vaughn",
-    "team": "1997-98 Utah Jazz",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Greg Ostertag",
-    "team": "1997-98 Utah Jazz",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Antoine Carr",
-    "team": "1997-98 Utah Jazz",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Greg Foster",
-    "team": "1997-98 Utah Jazz",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Carmelo Anthony",
-    "team": "2007-08 Denver Nuggets",
-    "overall": 92,
-    "type": "class"
-  },
-  {
-    "name": "Allen Iverson",
-    "team": "2007-08 Denver Nuggets",
-    "overall": 89,
-    "type": "class"
-  },
-  {
-    "name": "Marcus Camby",
-    "team": "2007-08 Denver Nuggets",
-    "overall": 87,
-    "type": "class"
-  },
-  {
-    "name": "J.R. Smith",
-    "team": "2007-08 Denver Nuggets",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Kenyon Martin",
-    "team": "2007-08 Denver Nuggets",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Nenê",
-    "team": "2007-08 Denver Nuggets",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Chucky Atkins",
-    "team": "2007-08 Denver Nuggets",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Eduardo Najera",
-    "team": "2007-08 Denver Nuggets",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Steven Hunter",
-    "team": "2007-08 Denver Nuggets",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Yakhouba Diawara",
-    "team": "2007-08 Denver Nuggets",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Dirk Nowitzki",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 91,
-    "type": "class"
-  },
-  {
-    "name": "Steve Nash",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 87,
-    "type": "class"
-  },
-  {
-    "name": "Michael Finley",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Nick Van Exel",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Raef LaFrentz",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Shawn Bradley",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Eduardo Najera",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Tariq Abdul-Wahad",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Walt Williams",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Avery Johnson",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Adrian Griffin",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Raja Bell",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Popeye Jones",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Evan Eschmeyer",
-    "team": "2002-03 Dallas Mavericks",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Vince Carter",
-    "team": "1999-00 Toronto Raptors",
-    "overall": 94,
-    "type": "class"
-  },
-  {
-    "name": "Tracy McGrady",
-    "team": "1999-00 Toronto Raptors",
-    "overall": 83,
-    "type": "class"
-  },
-  {
-    "name": "Doug Christie",
-    "team": "1999-00 Toronto Raptors",
-    "overall": 80,
-    "type": "class"
-  },
-  {
-    "name": "Antonio Davis",
-    "team": "1999-00 Toronto Raptors",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Charles Oakley",
-    "team": "1999-00 Toronto Raptors",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Kevin Willis",
-    "team": "1999-00 Toronto Raptors",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Muggsy Bogues",
-    "team": "1999-00 Toronto Raptors",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Alvin Williams",
-    "team": "1999-00 Toronto Raptors",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Dell Curry",
-    "team": "1999-00 Toronto Raptors",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Dee Brown",
-    "team": "1999-00 Toronto Raptors",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Haywoode Workman",
-    "team": "1999-00 Toronto Raptors",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "John Thomas",
-    "team": "1999-00 Toronto Raptors",
-    "overall": 67,
-    "type": "class"
-  },
-  {
-    "name": "Dikembe Mutombo",
-    "team": "1993-94 Denver Nuggets",
-    "overall": 84,
-    "type": "class"
-  },
-  {
-    "name": "Mahmoud Abdul-Rauf",
-    "team": "1993-94 Denver Nuggets",
-    "overall": 84,
-    "type": "class"
-  },
-  {
-    "name": "LaPhonso Ellis",
-    "team": "1993-94 Denver Nuggets",
-    "overall": 81,
-    "type": "class"
-  },
-  {
-    "name": "Reggie Williams",
-    "team": "1993-94 Denver Nuggets",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Bryant Stith",
-    "team": "1993-94 Denver Nuggets",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Robert Pack",
-    "team": "1993-94 Denver Nuggets",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Rodney Rogers",
-    "team": "1993-94 Denver Nuggets",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Tom Hammonds",
-    "team": "1993-94 Denver Nuggets",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Shaquille O’Neal",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 96,
-    "type": "class"
-  },
-  {
-    "name": "Kobe Bryant",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 95,
-    "type": "class"
-  },
-  {
-    "name": "Karl Malone",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 83,
-    "type": "class"
-  },
-  {
-    "name": "Gary Payton",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 83,
-    "type": "class"
-  },
-  {
-    "name": "Rick Fox",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Devean George",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Horace Grant",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Bryon Russell",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Brian Cook",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Derek Fisher",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Luke Walton",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Ime Udoka",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Kareem Rush",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Stanislav Medvedenko",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Jamal Sampson",
-    "team": "2003-04 Los Angeles Lakers",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Kobe Bryant",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 97,
-    "type": "class"
-  },
-  {
-    "name": "Shaquille O’Neal",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 97,
-    "type": "class"
-  },
-  {
-    "name": "Horace Grant",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 80,
-    "type": "class"
-  },
-  {
-    "name": "Rick Fox",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Robert Horry",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Derek Fisher",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Isaiah Rider",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Ron Harper",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Mark Madsen",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Mike Penberthy",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Tyronn Lue",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Brian Shaw",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Devean George",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Stanislav Medvedenko",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Greg Foster",
-    "team": "2000-01 Los Angeles Lakers",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Hakeem Olajuwon",
-    "team": "1993-94 Houston Rockets",
-    "overall": 97,
-    "type": "class"
-  },
-  {
-    "name": "Otis Thorpe",
-    "team": "1993-94 Houston Rockets",
-    "overall": 80,
-    "type": "class"
-  },
-  {
-    "name": "Kenny Smith",
-    "team": "1993-94 Houston Rockets",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Vernon Maxwell",
-    "team": "1993-94 Houston Rockets",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Robert Horry",
-    "team": "1993-94 Houston Rockets",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Sam Cassell",
-    "team": "1993-94 Houston Rockets",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Mario Elie",
-    "team": "1993-94 Houston Rockets",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Carl Herrera",
-    "team": "1993-94 Houston Rockets",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Scott Brooks",
-    "team": "1993-94 Houston Rockets",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Matt Bullard",
-    "team": "1993-94 Houston Rockets",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Earl Cureton",
-    "team": "1993-94 Houston Rockets",
-    "overall": 67,
-    "type": "class"
-  },
-  {
     "name": "Chauncey Billups",
     "team": "2003-04 Detroit Pistons",
     "overall": 89,
@@ -2754,249 +3312,63 @@
     "type": "class"
   },
   {
-    "name": "Magic Johnson",
-    "team": "1990-91 Los Angeles Lakers",
-    "overall": 92,
-    "type": "class"
-  },
-  {
-    "name": "James Worthy",
-    "team": "1990-91 Los Angeles Lakers",
-    "overall": 87,
-    "type": "class"
-  },
-  {
-    "name": "Vlade Divac",
-    "team": "1990-91 Los Angeles Lakers",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Byron Scott",
-    "team": "1990-91 Los Angeles Lakers",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "A.C. Green",
-    "team": "1990-91 Los Angeles Lakers",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Sam Perkins",
-    "team": "1990-91 Los Angeles Lakers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Terry Teagle",
-    "team": "1990-91 Los Angeles Lakers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Tony Smith",
-    "team": "1990-91 Los Angeles Lakers",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Larry Drew",
-    "team": "1990-91 Los Angeles Lakers",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Mychal Thompson",
-    "team": "1990-91 Los Angeles Lakers",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Elden Campbell",
-    "team": "1990-91 Los Angeles Lakers",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Irving Thomas",
-    "team": "1990-91 Los Angeles Lakers",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Jason Kidd",
-    "team": "2001-02 New Jersey Nets",
+    "name": "Shaquille O’Neal",
+    "team": "1997-98 Los Angeles Lakers",
     "overall": 93,
     "type": "class"
   },
   {
-    "name": "Kenyon Martin",
-    "team": "2001-02 New Jersey Nets",
+    "name": "Kobe Bryant",
+    "team": "1997-98 Los Angeles Lakers",
     "overall": 83,
     "type": "class"
   },
   {
-    "name": "Keith Van Horn",
-    "team": "2001-02 New Jersey Nets",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Kerry Kittles",
-    "team": "2001-02 New Jersey Nets",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Richard Jefferson",
-    "team": "2001-02 New Jersey Nets",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Brian Scalabrine",
-    "team": "2001-02 New Jersey Nets",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Aaron Williams",
-    "team": "2001-02 New Jersey Nets",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Todd MacCulloch",
-    "team": "2001-02 New Jersey Nets",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Brandon Armstrong",
-    "team": "2001-02 New Jersey Nets",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Jason Collins",
-    "team": "2001-02 New Jersey Nets",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Paul George",
-    "team": "2013-14 Indiana Pacers",
-    "overall": 92,
-    "type": "class"
-  },
-  {
-    "name": "Roy Hibbert",
-    "team": "2013-14 Indiana Pacers",
+    "name": "Eddie Jones",
+    "team": "1997-98 Los Angeles Lakers",
     "overall": 83,
     "type": "class"
   },
   {
-    "name": "David West",
-    "team": "2013-14 Indiana Pacers",
-    "overall": 81,
+    "name": "Nick Van Exel",
+    "team": "1997-98 Los Angeles Lakers",
+    "overall": 83,
     "type": "class"
   },
   {
-    "name": "George Hill",
-    "team": "2013-14 Indiana Pacers",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Evan Turner",
-    "team": "2013-14 Indiana Pacers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "C.J. Watson",
-    "team": "2013-14 Indiana Pacers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Luis Scola",
-    "team": "2013-14 Indiana Pacers",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Ian Mahinmi",
-    "team": "2013-14 Indiana Pacers",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Isiah Thomas",
-    "team": "1988-89 Detroit Pistons",
-    "overall": 92,
-    "type": "class"
-  },
-  {
-    "name": "Joe Dumars",
-    "team": "1988-89 Detroit Pistons",
-    "overall": 90,
-    "type": "class"
-  },
-  {
-    "name": "Mark Aguirre",
-    "team": "1988-89 Detroit Pistons",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Dennis Rodman",
-    "team": "1988-89 Detroit Pistons",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Vinnie Johnson",
-    "team": "1988-89 Detroit Pistons",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Bill Laimbeer",
-    "team": "1988-89 Detroit Pistons",
+    "name": "Rick Fox",
+    "team": "1997-98 Los Angeles Lakers",
     "overall": 80,
     "type": "class"
   },
   {
-    "name": "James Edwards",
-    "team": "1988-89 Detroit Pistons",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Rick Mahorn",
-    "team": "1988-89 Detroit Pistons",
+    "name": "Elden Campbell",
+    "team": "1997-98 Los Angeles Lakers",
     "overall": 76,
     "type": "class"
   },
   {
-    "name": "Micheal Williams",
-    "team": "1988-89 Detroit Pistons",
-    "overall": 74,
+    "name": "Robert Horry",
+    "team": "1997-98 Los Angeles Lakers",
+    "overall": 75,
     "type": "class"
   },
   {
-    "name": "John Long",
-    "team": "1988-89 Detroit Pistons",
-    "overall": 74,
+    "name": "Derek Fisher",
+    "team": "1997-98 Los Angeles Lakers",
+    "overall": 75,
     "type": "class"
   },
   {
-    "name": "John Salley",
-    "team": "1988-89 Detroit Pistons",
-    "overall": 72,
+    "name": "Jon Barry",
+    "team": "1997-98 Los Angeles Lakers",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Corie Blount",
+    "team": "1997-98 Los Angeles Lakers",
+    "overall": 70,
     "type": "class"
   },
   {
@@ -3066,483 +3438,243 @@
     "type": "class"
   },
   {
-    "name": "Tracy McGrady",
-    "team": "2007-08 Houston Rockets",
-    "overall": 91,
+    "name": "Marc Gasol",
+    "team": "2012-13 Memphis Grizzlies",
+    "overall": 89,
     "type": "class"
   },
   {
-    "name": "Yao Ming",
-    "team": "2007-08 Houston Rockets",
-    "overall": 88,
+    "name": "Mike Conley",
+    "team": "2012-13 Memphis Grizzlies",
+    "overall": 86,
     "type": "class"
   },
   {
-    "name": "Rafer Alston",
-    "team": "2007-08 Houston Rockets",
-    "overall": 79,
+    "name": "Zach Randolph",
+    "team": "2012-13 Memphis Grizzlies",
+    "overall": 86,
     "type": "class"
   },
   {
-    "name": "Shane Battier",
-    "team": "2007-08 Houston Rockets",
-    "overall": 79,
+    "name": "Tony Allen",
+    "team": "2012-13 Memphis Grizzlies",
+    "overall": 78,
     "type": "class"
   },
   {
-    "name": "Carl Landry",
-    "team": "2007-08 Houston Rockets",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Aaron Brooks",
-    "team": "2007-08 Houston Rockets",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Luis Scola",
-    "team": "2007-08 Houston Rockets",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Dikembe Mutombo",
-    "team": "2007-08 Houston Rockets",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Bobby Jackson",
-    "team": "2007-08 Houston Rockets",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Luther Head",
-    "team": "2007-08 Houston Rockets",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Steve Novak",
-    "team": "2007-08 Houston Rockets",
+    "name": "Keyon Dooling",
+    "team": "2012-13 Memphis Grizzlies",
     "overall": 73,
     "type": "class"
   },
   {
-    "name": "Steve Francis",
-    "team": "2007-08 Houston Rockets",
-    "overall": 73,
+    "name": "Tony Wroten",
+    "team": "2012-13 Memphis Grizzlies",
+    "overall": 71,
     "type": "class"
   },
   {
-    "name": "Chuck Hayes",
-    "team": "2007-08 Houston Rockets",
-    "overall": 72,
+    "name": "Isiah Thomas",
+    "team": "1988-89 Detroit Pistons",
+    "overall": 92,
     "type": "class"
   },
   {
-    "name": "Tim Duncan",
-    "team": "2004-05 San Antonio Spurs",
-    "overall": 98,
-    "type": "class"
-  },
-  {
-    "name": "Tony Parker",
-    "team": "2004-05 San Antonio Spurs",
+    "name": "Joe Dumars",
+    "team": "1988-89 Detroit Pistons",
     "overall": 90,
     "type": "class"
   },
   {
-    "name": "Manu Ginobili",
-    "team": "2004-05 San Antonio Spurs",
-    "overall": 87,
-    "type": "class"
-  },
-  {
-    "name": "Bruce Bowen",
-    "team": "2004-05 San Antonio Spurs",
-    "overall": 84,
-    "type": "class"
-  },
-  {
-    "name": "Robert Horry",
-    "team": "2004-05 San Antonio Spurs",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Brent Barry",
-    "team": "2004-05 San Antonio Spurs",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Nazr Mohammed",
-    "team": "2004-05 San Antonio Spurs",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Glenn Robinson",
-    "team": "2004-05 San Antonio Spurs",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Beno Udrih",
-    "team": "2004-05 San Antonio Spurs",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Tony Massenburg",
-    "team": "2004-05 San Antonio Spurs",
-    "overall": 67,
-    "type": "class"
-  },
-  {
-    "name": "Gary Payton",
-    "team": "1995-96 Seattle Supersonics",
-    "overall": 94,
-    "type": "class"
-  },
-  {
-    "name": "Shawn Kemp",
-    "team": "1995-96 Seattle Supersonics",
-    "overall": 89,
-    "type": "class"
-  },
-  {
-    "name": "Detlef Schrempf",
-    "team": "1995-96 Seattle Supersonics",
-    "overall": 83,
-    "type": "class"
-  },
-  {
-    "name": "Nate McMillan",
-    "team": "1995-96 Seattle Supersonics",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Hersey Hawkins",
-    "team": "1995-96 Seattle Supersonics",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Sam Perkins",
-    "team": "1995-96 Seattle Supersonics",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Ervin Johnson",
-    "team": "1995-96 Seattle Supersonics",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Eric Snow",
-    "team": "1995-96 Seattle Supersonics",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "David Wingate",
-    "team": "1995-96 Seattle Supersonics",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Vincent Askew",
-    "team": "1995-96 Seattle Supersonics",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Frank Brickowski",
-    "team": "1995-96 Seattle Supersonics",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Kevin Durant",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 96,
-    "type": "class"
-  },
-  {
-    "name": "Russell Westbrook",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 89,
-    "type": "class"
-  },
-  {
-    "name": "James Harden",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 87,
-    "type": "class"
-  },
-  {
-    "name": "Serge Ibaka",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 87,
-    "type": "class"
-  },
-  {
-    "name": "Kendrick Perkins",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Thabo Sefolosha",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Nick Collison",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Derek Fisher",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Daequan Cook",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Reggie Jackson",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Nazr Mohammed",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Royal Ivey",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Eric Maynor",
-    "team": "2011-12 Oklahoma City Thunder",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Tim Duncan",
-    "team": "2013-14 San Antonio Spurs",
-    "overall": 94,
-    "type": "class"
-  },
-  {
-    "name": "Kawhi Leonard",
-    "team": "2013-14 San Antonio Spurs",
-    "overall": 92,
-    "type": "class"
-  },
-  {
-    "name": "Tony Parker",
-    "team": "2013-14 San Antonio Spurs",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Manu Ginobili",
-    "team": "2013-14 San Antonio Spurs",
-    "overall": 83,
-    "type": "class"
-  },
-  {
-    "name": "Danny Green",
-    "team": "2013-14 San Antonio Spurs",
+    "name": "Mark Aguirre",
+    "team": "1988-89 Detroit Pistons",
     "overall": 82,
     "type": "class"
   },
   {
-    "name": "Tiago Splitter",
-    "team": "2013-14 San Antonio Spurs",
-    "overall": 78,
+    "name": "Dennis Rodman",
+    "team": "1988-89 Detroit Pistons",
+    "overall": 82,
     "type": "class"
   },
   {
-    "name": "Patty Mills",
-    "team": "2013-14 San Antonio Spurs",
-    "overall": 78,
+    "name": "Vinnie Johnson",
+    "team": "1988-89 Detroit Pistons",
+    "overall": 82,
     "type": "class"
   },
   {
-    "name": "Boris Diaw",
-    "team": "2013-14 San Antonio Spurs",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Cory Joseph",
-    "team": "2013-14 San Antonio Spurs",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Matt Bonner",
-    "team": "2013-14 San Antonio Spurs",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Kevin Durant",
-    "team": "2016-17 Golden State Warriors",
-    "overall": 97,
-    "type": "class"
-  },
-  {
-    "name": "Stephen Curry",
-    "team": "2016-17 Golden State Warriors",
-    "overall": 96,
-    "type": "class"
-  },
-  {
-    "name": "Klay Thompson",
-    "team": "2016-17 Golden State Warriors",
-    "overall": 92,
-    "type": "class"
-  },
-  {
-    "name": "Draymond Green",
-    "team": "2016-17 Golden State Warriors",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Andre Iguodala",
-    "team": "2016-17 Golden State Warriors",
+    "name": "Bill Laimbeer",
+    "team": "1988-89 Detroit Pistons",
     "overall": 80,
     "type": "class"
   },
   {
-    "name": "JaVale McGee",
-    "team": "2016-17 Golden State Warriors",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "David West",
-    "team": "2016-17 Golden State Warriors",
+    "name": "James Edwards",
+    "team": "1988-89 Detroit Pistons",
     "overall": 77,
     "type": "class"
   },
   {
-    "name": "Zaza Pachulia",
-    "team": "2016-17 Golden State Warriors",
-    "overall": 77,
+    "name": "Rick Mahorn",
+    "team": "1988-89 Detroit Pistons",
+    "overall": 76,
     "type": "class"
   },
   {
-    "name": "Kevon Looney",
-    "team": "2016-17 Golden State Warriors",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Matt Barnes",
-    "team": "2016-17 Golden State Warriors",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Damian Jones",
-    "team": "2016-17 Golden State Warriors",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Shaun Livingston",
-    "team": "2016-17 Golden State Warriors",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Gilbert Arenas",
-    "team": "2006-07 Washington Wizards",
-    "overall": 91,
-    "type": "class"
-  },
-  {
-    "name": "Antawn Jamison",
-    "team": "2006-07 Washington Wizards",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Caron Butler",
-    "team": "2006-07 Washington Wizards",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Brendan Haywood",
-    "team": "2006-07 Washington Wizards",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Antonio Daniels",
-    "team": "2006-07 Washington Wizards",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Etan Thomas",
-    "team": "2006-07 Washington Wizards",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Darius Songaila",
-    "team": "2006-07 Washington Wizards",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "DeShawn Stevenson",
-    "team": "2006-07 Washington Wizards",
+    "name": "Micheal Williams",
+    "team": "1988-89 Detroit Pistons",
     "overall": 74,
     "type": "class"
   },
   {
-    "name": "Calvin Booth",
-    "team": "2006-07 Washington Wizards",
+    "name": "John Long",
+    "team": "1988-89 Detroit Pistons",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "John Salley",
+    "team": "1988-89 Detroit Pistons",
     "overall": 72,
     "type": "class"
   },
   {
-    "name": "Jarvis Hayes",
-    "team": "2006-07 Washington Wizards",
+    "name": "Clyde Drexler",
+    "team": "1990-91 Portland Trail Blazers",
+    "overall": 92,
+    "type": "class"
+  },
+  {
+    "name": "Terry Porter",
+    "team": "1990-91 Portland Trail Blazers",
+    "overall": 85,
+    "type": "class"
+  },
+  {
+    "name": "Jerome Kersey",
+    "team": "1990-91 Portland Trail Blazers",
+    "overall": 81,
+    "type": "class"
+  },
+  {
+    "name": "Clifford Robinson",
+    "team": "1990-91 Portland Trail Blazers",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Buck Williams",
+    "team": "1990-91 Portland Trail Blazers",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Danny Ainge",
+    "team": "1990-91 Portland Trail Blazers",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Kevin Duckworth",
+    "team": "1990-91 Portland Trail Blazers",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Walter Davis",
+    "team": "1990-91 Portland Trail Blazers",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Alaa Abdelnaby",
+    "team": "1990-91 Portland Trail Blazers",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Wayne Cooper",
+    "team": "1990-91 Portland Trail Blazers",
     "overall": 71,
     "type": "class"
   },
   {
-    "name": "Roger Mason",
-    "team": "2006-07 Washington Wizards",
-    "overall": 71,
+    "name": "Mark Bryant",
+    "team": "1990-91 Portland Trail Blazers",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Sidney Moncrief",
+    "team": "1984-85 Milwaukee Bucks",
+    "overall": 91,
+    "type": "class"
+  },
+  {
+    "name": "Terry Cummings",
+    "team": "1984-85 Milwaukee Bucks",
+    "overall": 88,
+    "type": "class"
+  },
+  {
+    "name": "Paul Pressey",
+    "team": "1984-85 Milwaukee Bucks",
+    "overall": 86,
+    "type": "class"
+  },
+  {
+    "name": "Alton Lister",
+    "team": "1984-85 Milwaukee Bucks",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Ricky Pierce",
+    "team": "1984-85 Milwaukee Bucks",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Kevin Grevey",
+    "team": "1984-85 Milwaukee Bucks",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Mike Dunleavy",
+    "team": "1984-85 Milwaukee Bucks",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Randy Breuer",
+    "team": "1984-85 Milwaukee Bucks",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Craig Hodges",
+    "team": "1984-85 Milwaukee Bucks",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Charles Davis",
+    "team": "1984-85 Milwaukee Bucks",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Kenny Fields",
+    "team": "1984-85 Milwaukee Bucks",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Paul Mokeski",
+    "team": "1984-85 Milwaukee Bucks",
+    "overall": 66,
     "type": "class"
   },
   {
@@ -3624,147 +3756,225 @@
     "type": "class"
   },
   {
-    "name": "Chris Mullin",
-    "team": "1990-91 Golden State Warriors",
-    "overall": 89,
+    "name": "Gilbert Arenas",
+    "team": "2006-07 Washington Wizards",
+    "overall": 91,
     "type": "class"
   },
   {
-    "name": "Tim Hardaway",
-    "team": "1990-91 Golden State Warriors",
-    "overall": 87,
+    "name": "Antawn Jamison",
+    "team": "2006-07 Washington Wizards",
+    "overall": 86,
     "type": "class"
   },
   {
-    "name": "Mitch Richmond",
-    "team": "1990-91 Golden State Warriors",
-    "overall": 85,
+    "name": "Caron Butler",
+    "team": "2006-07 Washington Wizards",
+    "overall": 86,
     "type": "class"
   },
   {
-    "name": "Sarunas Marciulionis",
-    "team": "1990-91 Golden State Warriors",
+    "name": "Brendan Haywood",
+    "team": "2006-07 Washington Wizards",
     "overall": 79,
     "type": "class"
   },
   {
-    "name": "Tyrone Hill",
-    "team": "1990-91 Golden State Warriors",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Mario Elie",
-    "team": "1990-91 Golden State Warriors",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Rod Higgins",
-    "team": "1990-91 Golden State Warriors",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Alton Lister",
-    "team": "1990-91 Golden State Warriors",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Les Jepsen",
-    "team": "1990-91 Golden State Warriors",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Vincent Askew",
-    "team": "1990-91 Golden State Warriors",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Jim Petersen",
-    "team": "1990-91 Golden State Warriors",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Tom Tolbert",
-    "team": "1990-91 Golden State Warriors",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Paul Mokeski",
-    "team": "1990-91 Golden State Warriors",
-    "overall": 66,
-    "type": "class"
-  },
-  {
-    "name": "Steve Nash",
-    "team": "2004-05 Phoenix Suns",
-    "overall": 95,
-    "type": "class"
-  },
-  {
-    "name": "Amar’e Stoudemire",
-    "team": "2004-05 Phoenix Suns",
-    "overall": 89,
-    "type": "class"
-  },
-  {
-    "name": "Shawn Marion",
-    "team": "2004-05 Phoenix Suns",
-    "overall": 87,
-    "type": "class"
-  },
-  {
-    "name": "Joe Johnson",
-    "team": "2004-05 Phoenix Suns",
-    "overall": 81,
-    "type": "class"
-  },
-  {
-    "name": "Quentin Richardson",
-    "team": "2004-05 Phoenix Suns",
+    "name": "Antonio Daniels",
+    "team": "2006-07 Washington Wizards",
     "overall": 78,
     "type": "class"
   },
   {
-    "name": "Leandro Barbosa",
-    "team": "2004-05 Phoenix Suns",
-    "overall": 75,
+    "name": "Etan Thomas",
+    "team": "2006-07 Washington Wizards",
+    "overall": 78,
     "type": "class"
   },
   {
-    "name": "Steven Hunter",
-    "team": "2004-05 Phoenix Suns",
-    "overall": 73,
+    "name": "Darius Songaila",
+    "team": "2006-07 Washington Wizards",
+    "overall": 77,
     "type": "class"
   },
   {
-    "name": "Jake Voskuhl",
-    "team": "2004-05 Phoenix Suns",
-    "overall": 73,
+    "name": "DeShawn Stevenson",
+    "team": "2006-07 Washington Wizards",
+    "overall": 74,
     "type": "class"
   },
   {
-    "name": "Jim Jackson",
-    "team": "2004-05 Phoenix Suns",
+    "name": "Calvin Booth",
+    "team": "2006-07 Washington Wizards",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Jarvis Hayes",
+    "team": "2006-07 Washington Wizards",
     "overall": 71,
     "type": "class"
   },
   {
-    "name": "Bo Outlaw",
-    "team": "2004-05 Phoenix Suns",
+    "name": "Roger Mason",
+    "team": "2006-07 Washington Wizards",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Kevin Durant",
+    "team": "2011-12 Oklahoma City Thunder",
+    "overall": 96,
+    "type": "class"
+  },
+  {
+    "name": "Russell Westbrook",
+    "team": "2011-12 Oklahoma City Thunder",
+    "overall": 89,
+    "type": "class"
+  },
+  {
+    "name": "James Harden",
+    "team": "2011-12 Oklahoma City Thunder",
+    "overall": 87,
+    "type": "class"
+  },
+  {
+    "name": "Serge Ibaka",
+    "team": "2011-12 Oklahoma City Thunder",
+    "overall": 87,
+    "type": "class"
+  },
+  {
+    "name": "Kendrick Perkins",
+    "team": "2011-12 Oklahoma City Thunder",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Thabo Sefolosha",
+    "team": "2011-12 Oklahoma City Thunder",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Nick Collison",
+    "team": "2011-12 Oklahoma City Thunder",
+    "overall": 75,
+    "type": "class"
+  },
+  {
+    "name": "Derek Fisher",
+    "team": "2011-12 Oklahoma City Thunder",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Daequan Cook",
+    "team": "2011-12 Oklahoma City Thunder",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Reggie Jackson",
+    "team": "2011-12 Oklahoma City Thunder",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Nazr Mohammed",
+    "team": "2011-12 Oklahoma City Thunder",
     "overall": 70,
     "type": "class"
   },
   {
-    "name": "Walter McCarty",
-    "team": "2004-05 Phoenix Suns",
+    "name": "Royal Ivey",
+    "team": "2011-12 Oklahoma City Thunder",
     "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Eric Maynor",
+    "team": "2011-12 Oklahoma City Thunder",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Alonzo Mourning",
+    "team": "1996-97 Miami Heat",
+    "overall": 93,
+    "type": "class"
+  },
+  {
+    "name": "Tim Hardaway",
+    "team": "1996-97 Miami Heat",
+    "overall": 88,
+    "type": "class"
+  },
+  {
+    "name": "P.J. Brown",
+    "team": "1996-97 Miami Heat",
+    "overall": 84,
+    "type": "class"
+  },
+  {
+    "name": "Jamal Mashburn",
+    "team": "1996-97 Miami Heat",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Dan Majerle",
+    "team": "1996-97 Miami Heat",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Isaac Austin",
+    "team": "1996-97 Miami Heat",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Keith Askins",
+    "team": "1996-97 Miami Heat",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Willie Anderson",
+    "team": "1996-97 Miami Heat",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Ed Pinckney",
+    "team": "1996-97 Miami Heat",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "John Crotty",
+    "team": "1996-97 Miami Heat",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Bruce Bowen",
+    "team": "1996-97 Miami Heat",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Gary Grant",
+    "team": "1996-97 Miami Heat",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Matt Fish",
+    "team": "1996-97 Miami Heat",
+    "overall": 68,
     "type": "class"
   },
   {
@@ -3825,348 +4035,6 @@
     "name": "Patty Mills",
     "team": "2009-10 Portland Trail Blazers",
     "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Clyde Drexler",
-    "team": "1990-91 Portland Trail Blazers",
-    "overall": 92,
-    "type": "class"
-  },
-  {
-    "name": "Terry Porter",
-    "team": "1990-91 Portland Trail Blazers",
-    "overall": 85,
-    "type": "class"
-  },
-  {
-    "name": "Jerome Kersey",
-    "team": "1990-91 Portland Trail Blazers",
-    "overall": 81,
-    "type": "class"
-  },
-  {
-    "name": "Clifford Robinson",
-    "team": "1990-91 Portland Trail Blazers",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Buck Williams",
-    "team": "1990-91 Portland Trail Blazers",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Danny Ainge",
-    "team": "1990-91 Portland Trail Blazers",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Kevin Duckworth",
-    "team": "1990-91 Portland Trail Blazers",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Walter Davis",
-    "team": "1990-91 Portland Trail Blazers",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Alaa Abdelnaby",
-    "team": "1990-91 Portland Trail Blazers",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Wayne Cooper",
-    "team": "1990-91 Portland Trail Blazers",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Mark Bryant",
-    "team": "1990-91 Portland Trail Blazers",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Baron  Davis",
-    "team": "2006-07 Golden State Warriors",
-    "overall": 89,
-    "type": "class"
-  },
-  {
-    "name": "Monta Ellis",
-    "team": "2006-07 Golden State Warriors",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Al Harrington",
-    "team": "2006-07 Golden State Warriors",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Jason Richardson",
-    "team": "2006-07 Golden State Warriors",
-    "overall": 81,
-    "type": "class"
-  },
-  {
-    "name": "Stephen Jackson",
-    "team": "2006-07 Golden State Warriors",
-    "overall": 81,
-    "type": "class"
-  },
-  {
-    "name": "Adonal Foyle",
-    "team": "2006-07 Golden State Warriors",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Matt Barnes",
-    "team": "2006-07 Golden State Warriors",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Kelenna Azubuike",
-    "team": "2006-07 Golden State Warriors",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Josh Powell",
-    "team": "2006-07 Golden State Warriors",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Patrick O’Bryant",
-    "team": "2006-07 Golden State Warriors",
-    "overall": 69,
-    "type": "class"
-  },
-  {
-    "name": "Sidney Moncrief",
-    "team": "1984-85 Milwaukee Bucks",
-    "overall": 91,
-    "type": "class"
-  },
-  {
-    "name": "Terry Cummings",
-    "team": "1984-85 Milwaukee Bucks",
-    "overall": 88,
-    "type": "class"
-  },
-  {
-    "name": "Paul Pressey",
-    "team": "1984-85 Milwaukee Bucks",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Alton Lister",
-    "team": "1984-85 Milwaukee Bucks",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Ricky Pierce",
-    "team": "1984-85 Milwaukee Bucks",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Kevin Grevey",
-    "team": "1984-85 Milwaukee Bucks",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Mike Dunleavy",
-    "team": "1984-85 Milwaukee Bucks",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Randy Breuer",
-    "team": "1984-85 Milwaukee Bucks",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Craig Hodges",
-    "team": "1984-85 Milwaukee Bucks",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Charles Davis",
-    "team": "1984-85 Milwaukee Bucks",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Kenny Fields",
-    "team": "1984-85 Milwaukee Bucks",
-    "overall": 70,
-    "type": "class"
-  },
-  {
-    "name": "Paul Mokeski",
-    "team": "1984-85 Milwaukee Bucks",
-    "overall": 66,
-    "type": "class"
-  },
-  {
-    "name": "Michael Jordan",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 99,
-    "type": "class"
-  },
-  {
-    "name": "Scottie Pippen",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 93,
-    "type": "class"
-  },
-  {
-    "name": "Horace Grant",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "B.J. Armstrong",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 79,
-    "type": "class"
-  },
-  {
-    "name": "Bill Cartwright",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Rodney McCray",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Stacey King",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Will Perdue",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Trent Tucker",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Scott Williams",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "John Paxson",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 72,
-    "type": "class"
-  },
-  {
-    "name": "Darrell Walker",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 68,
-    "type": "class"
-  },
-  {
-    "name": "Ed Nealy",
-    "team": "1992-93 Chicago Bulls",
-    "overall": 66,
-    "type": "class"
-  },
-  {
-    "name": "LeBron James",
-    "team": "2012-13 Miami Heat",
-    "overall": 98,
-    "type": "class"
-  },
-  {
-    "name": "Dwyane Wade",
-    "team": "2012-13 Miami Heat",
-    "overall": 91,
-    "type": "class"
-  },
-  {
-    "name": "Chris Bosh",
-    "team": "2012-13 Miami Heat",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Ray Allen",
-    "team": "2012-13 Miami Heat",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Chris Andersen",
-    "team": "2012-13 Miami Heat",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Shane Battier",
-    "team": "2012-13 Miami Heat",
-    "overall": 77,
-    "type": "class"
-  },
-  {
-    "name": "Mike Miller",
-    "team": "2012-13 Miami Heat",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Mario Chalmers",
-    "team": "2012-13 Miami Heat",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Rashard Lewis",
-    "team": "2012-13 Miami Heat",
-    "overall": 74,
-    "type": "class"
-  },
-  {
-    "name": "Udonis Haslem",
-    "team": "2012-13 Miami Heat",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Juwan Howard",
-    "team": "2012-13 Miami Heat",
-    "overall": 72,
     "type": "class"
   },
   {
@@ -4236,147 +4104,195 @@
     "type": "class"
   },
   {
-    "name": "Shawn Marion",
-    "team": "2002-03 Phoenix Suns",
+    "name": "Kevin Durant",
+    "team": "2016-17 Golden State Warriors",
+    "overall": 97,
+    "type": "class"
+  },
+  {
+    "name": "Stephen Curry",
+    "team": "2016-17 Golden State Warriors",
+    "overall": 96,
+    "type": "class"
+  },
+  {
+    "name": "Klay Thompson",
+    "team": "2016-17 Golden State Warriors",
+    "overall": 92,
+    "type": "class"
+  },
+  {
+    "name": "Draymond Green",
+    "team": "2016-17 Golden State Warriors",
     "overall": 86,
     "type": "class"
   },
   {
-    "name": "Stephon Marbury",
-    "team": "2002-03 Phoenix Suns",
-    "overall": 85,
+    "name": "Andre Iguodala",
+    "team": "2016-17 Golden State Warriors",
+    "overall": 80,
     "type": "class"
   },
   {
-    "name": "Amar’e Stoudemire",
-    "team": "2002-03 Phoenix Suns",
-    "overall": 81,
-    "type": "class"
-  },
-  {
-    "name": "Penny Hardaway",
-    "team": "2002-03 Phoenix Suns",
+    "name": "JaVale McGee",
+    "team": "2016-17 Golden State Warriors",
     "overall": 78,
     "type": "class"
   },
   {
-    "name": "Tom Gugliotta",
-    "team": "2002-03 Phoenix Suns",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Bo Outlaw",
-    "team": "2002-03 Phoenix Suns",
-    "overall": 75,
-    "type": "class"
-  },
-  {
-    "name": "Joe Johnson",
-    "team": "2002-03 Phoenix Suns",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Jake Voskuhl",
-    "team": "2002-03 Phoenix Suns",
-    "overall": 73,
-    "type": "class"
-  },
-  {
-    "name": "Randy Brown",
-    "team": "2002-03 Phoenix Suns",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Casey Jacobsen",
-    "team": "2002-03 Phoenix Suns",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Scott Williams",
-    "team": "2002-03 Phoenix Suns",
-    "overall": 71,
-    "type": "class"
-  },
-  {
-    "name": "Arvydas Sabonis",
-    "team": "1999-00 Portland Trail Blazers",
-    "overall": 86,
-    "type": "class"
-  },
-  {
-    "name": "Scottie Pippen",
-    "team": "1999-00 Portland Trail Blazers",
-    "overall": 85,
-    "type": "class"
-  },
-  {
-    "name": "Steve Smith",
-    "team": "1999-00 Portland Trail Blazers",
-    "overall": 82,
-    "type": "class"
-  },
-  {
-    "name": "Damon Stoudamire",
-    "team": "1999-00 Portland Trail Blazers",
-    "overall": 81,
-    "type": "class"
-  },
-  {
-    "name": "Detlef Schrempf",
-    "team": "1999-00 Portland Trail Blazers",
-    "overall": 78,
-    "type": "class"
-  },
-  {
-    "name": "Jermaine O’Neal",
-    "team": "1999-00 Portland Trail Blazers",
+    "name": "David West",
+    "team": "2016-17 Golden State Warriors",
     "overall": 77,
     "type": "class"
   },
   {
-    "name": "Brian Grant",
-    "team": "1999-00 Portland Trail Blazers",
+    "name": "Zaza Pachulia",
+    "team": "2016-17 Golden State Warriors",
     "overall": 77,
     "type": "class"
   },
   {
-    "name": "Stacey Augmon",
-    "team": "1999-00 Portland Trail Blazers",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Bonzi Wells",
-    "team": "1999-00 Portland Trail Blazers",
-    "overall": 76,
-    "type": "class"
-  },
-  {
-    "name": "Greg Anthony",
-    "team": "1999-00 Portland Trail Blazers",
+    "name": "Kevon Looney",
+    "team": "2016-17 Golden State Warriors",
     "overall": 75,
     "type": "class"
   },
   {
-    "name": "Joe Kleine",
-    "team": "1999-00 Portland Trail Blazers",
+    "name": "Matt Barnes",
+    "team": "2016-17 Golden State Warriors",
     "overall": 73,
     "type": "class"
   },
   {
-    "name": "Antonio Harvey",
-    "team": "1999-00 Portland Trail Blazers",
+    "name": "Damian Jones",
+    "team": "2016-17 Golden State Warriors",
+    "overall": 72,
+    "type": "class"
+  },
+  {
+    "name": "Shaun Livingston",
+    "team": "2016-17 Golden State Warriors",
     "overall": 70,
     "type": "class"
   },
   {
-    "name": "Gary Grant",
-    "team": "1999-00 Portland Trail Blazers",
-    "overall": 68,
+    "name": "Tim Duncan",
+    "team": "2004-05 San Antonio Spurs",
+    "overall": 98,
+    "type": "class"
+  },
+  {
+    "name": "Tony Parker",
+    "team": "2004-05 San Antonio Spurs",
+    "overall": 90,
+    "type": "class"
+  },
+  {
+    "name": "Manu Ginobili",
+    "team": "2004-05 San Antonio Spurs",
+    "overall": 87,
+    "type": "class"
+  },
+  {
+    "name": "Bruce Bowen",
+    "team": "2004-05 San Antonio Spurs",
+    "overall": 84,
+    "type": "class"
+  },
+  {
+    "name": "Robert Horry",
+    "team": "2004-05 San Antonio Spurs",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Brent Barry",
+    "team": "2004-05 San Antonio Spurs",
+    "overall": 78,
+    "type": "class"
+  },
+  {
+    "name": "Nazr Mohammed",
+    "team": "2004-05 San Antonio Spurs",
+    "overall": 77,
+    "type": "class"
+  },
+  {
+    "name": "Glenn Robinson",
+    "team": "2004-05 San Antonio Spurs",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Beno Udrih",
+    "team": "2004-05 San Antonio Spurs",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Tony Massenburg",
+    "team": "2004-05 San Antonio Spurs",
+    "overall": 67,
+    "type": "class"
+  },
+  {
+    "name": "Baron  Davis",
+    "team": "2006-07 Golden State Warriors",
+    "overall": 89,
+    "type": "class"
+  },
+  {
+    "name": "Monta Ellis",
+    "team": "2006-07 Golden State Warriors",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Al Harrington",
+    "team": "2006-07 Golden State Warriors",
+    "overall": 82,
+    "type": "class"
+  },
+  {
+    "name": "Jason Richardson",
+    "team": "2006-07 Golden State Warriors",
+    "overall": 81,
+    "type": "class"
+  },
+  {
+    "name": "Stephen Jackson",
+    "team": "2006-07 Golden State Warriors",
+    "overall": 81,
+    "type": "class"
+  },
+  {
+    "name": "Adonal Foyle",
+    "team": "2006-07 Golden State Warriors",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Matt Barnes",
+    "team": "2006-07 Golden State Warriors",
+    "overall": 76,
+    "type": "class"
+  },
+  {
+    "name": "Kelenna Azubuike",
+    "team": "2006-07 Golden State Warriors",
+    "overall": 73,
+    "type": "class"
+  },
+  {
+    "name": "Josh Powell",
+    "team": "2006-07 Golden State Warriors",
+    "overall": 70,
+    "type": "class"
+  },
+  {
+    "name": "Patrick O’Bryant",
+    "team": "2006-07 Golden State Warriors",
+    "overall": 69,
     "type": "class"
   },
   {
@@ -4452,63 +4368,147 @@
     "type": "class"
   },
   {
-    "name": "Shaquille O’Neal",
-    "team": "1997-98 Los Angeles Lakers",
-    "overall": 93,
+    "name": "Gary Payton",
+    "team": "1995-96 Seattle Supersonics",
+    "overall": 94,
     "type": "class"
   },
   {
-    "name": "Kobe Bryant",
-    "team": "1997-98 Los Angeles Lakers",
+    "name": "Shawn Kemp",
+    "team": "1995-96 Seattle Supersonics",
+    "overall": 89,
+    "type": "class"
+  },
+  {
+    "name": "Detlef Schrempf",
+    "team": "1995-96 Seattle Supersonics",
     "overall": 83,
     "type": "class"
   },
   {
-    "name": "Eddie Jones",
-    "team": "1997-98 Los Angeles Lakers",
-    "overall": 83,
+    "name": "Nate McMillan",
+    "team": "1995-96 Seattle Supersonics",
+    "overall": 79,
     "type": "class"
   },
   {
-    "name": "Nick Van Exel",
-    "team": "1997-98 Los Angeles Lakers",
-    "overall": 83,
+    "name": "Hersey Hawkins",
+    "team": "1995-96 Seattle Supersonics",
+    "overall": 78,
     "type": "class"
   },
   {
-    "name": "Rick Fox",
-    "team": "1997-98 Los Angeles Lakers",
-    "overall": 80,
+    "name": "Sam Perkins",
+    "team": "1995-96 Seattle Supersonics",
+    "overall": 77,
     "type": "class"
   },
   {
-    "name": "Elden Campbell",
-    "team": "1997-98 Los Angeles Lakers",
+    "name": "Ervin Johnson",
+    "team": "1995-96 Seattle Supersonics",
+    "overall": 74,
+    "type": "class"
+  },
+  {
+    "name": "Eric Snow",
+    "team": "1995-96 Seattle Supersonics",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "David Wingate",
+    "team": "1995-96 Seattle Supersonics",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Vincent Askew",
+    "team": "1995-96 Seattle Supersonics",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Frank Brickowski",
+    "team": "1995-96 Seattle Supersonics",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Chris Mullin",
+    "team": "1990-91 Golden State Warriors",
+    "overall": 89,
+    "type": "class"
+  },
+  {
+    "name": "Tim Hardaway",
+    "team": "1990-91 Golden State Warriors",
+    "overall": 87,
+    "type": "class"
+  },
+  {
+    "name": "Mitch Richmond",
+    "team": "1990-91 Golden State Warriors",
+    "overall": 85,
+    "type": "class"
+  },
+  {
+    "name": "Sarunas Marciulionis",
+    "team": "1990-91 Golden State Warriors",
+    "overall": 79,
+    "type": "class"
+  },
+  {
+    "name": "Tyrone Hill",
+    "team": "1990-91 Golden State Warriors",
     "overall": 76,
     "type": "class"
   },
   {
-    "name": "Robert Horry",
-    "team": "1997-98 Los Angeles Lakers",
-    "overall": 75,
+    "name": "Mario Elie",
+    "team": "1990-91 Golden State Warriors",
+    "overall": 74,
     "type": "class"
   },
   {
-    "name": "Derek Fisher",
-    "team": "1997-98 Los Angeles Lakers",
-    "overall": 75,
+    "name": "Rod Higgins",
+    "team": "1990-91 Golden State Warriors",
+    "overall": 74,
     "type": "class"
   },
   {
-    "name": "Jon Barry",
-    "team": "1997-98 Los Angeles Lakers",
-    "overall": 70,
+    "name": "Alton Lister",
+    "team": "1990-91 Golden State Warriors",
+    "overall": 74,
     "type": "class"
   },
   {
-    "name": "Corie Blount",
-    "team": "1997-98 Los Angeles Lakers",
-    "overall": 70,
+    "name": "Les Jepsen",
+    "team": "1990-91 Golden State Warriors",
+    "overall": 71,
+    "type": "class"
+  },
+  {
+    "name": "Vincent Askew",
+    "team": "1990-91 Golden State Warriors",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Jim Petersen",
+    "team": "1990-91 Golden State Warriors",
+    "overall": 69,
+    "type": "class"
+  },
+  {
+    "name": "Tom Tolbert",
+    "team": "1990-91 Golden State Warriors",
+    "overall": 68,
+    "type": "class"
+  },
+  {
+    "name": "Paul Mokeski",
+    "team": "1990-91 Golden State Warriors",
+    "overall": 66,
     "type": "class"
   }
 ]

@@ -90,6 +90,96 @@
     "type": "allt"
   },
   {
+    "name": "Paul George",
+    "team": "All-Time Indiana Pacers",
+    "overall": 93,
+    "type": "allt"
+  },
+  {
+    "name": "Mel Daniels",
+    "team": "All-Time Indiana Pacers",
+    "overall": 92,
+    "type": "allt"
+  },
+  {
+    "name": "Jermaine O’Neal",
+    "team": "All-Time Indiana Pacers",
+    "overall": 91,
+    "type": "allt"
+  },
+  {
+    "name": "Freddie Lewis",
+    "team": "All-Time Indiana Pacers",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "George McGinnis",
+    "team": "All-Time Indiana Pacers",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Ron Artest",
+    "team": "All-Time Indiana Pacers",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Victor Oladipo",
+    "team": "All-Time Indiana Pacers",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Danny Granger",
+    "team": "All-Time Indiana Pacers",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Bob Netolicky",
+    "team": "All-Time Indiana Pacers",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Rik Smits",
+    "team": "All-Time Indiana Pacers",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Don Buse",
+    "team": "All-Time Indiana Pacers",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Chuck Person",
+    "team": "All-Time Indiana Pacers",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Domantas Sabonis",
+    "team": "All-Time Indiana Pacers",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Roy Hibbert",
+    "team": "All-Time Indiana Pacers",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Mark Jackson",
+    "team": "All-Time Indiana Pacers",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
     "name": "Steve Nash",
     "team": "All-Time Phoenix Suns",
     "overall": 96,
@@ -177,6 +267,1266 @@
     "name": "Alvan Adams",
     "team": "All-Time Phoenix Suns",
     "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Dirk Nowitzki",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 98,
+    "type": "allt"
+  },
+  {
+    "name": "Luka Doncic",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 93,
+    "type": "allt"
+  },
+  {
+    "name": "Derek Harper",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Mark Aguirre",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Jim Jackson",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Michael Finley",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Jamal Mashburn",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Rolando Blackman",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Steve Nash",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Jason Kidd",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Jason Terry",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "James Donaldson",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Brad Davis",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Shawn Bradley",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 82,
+    "type": "allt"
+  },
+  {
+    "name": "Tyson Chandler",
+    "team": "All-Time Dallas Mavericks",
+    "overall": 82,
+    "type": "allt"
+  },
+  {
+    "name": "Kawhi Leonard",
+    "team": "All-Time Toronto Raptors",
+    "overall": 96,
+    "type": "allt"
+  },
+  {
+    "name": "Vince Carter",
+    "team": "All-Time Toronto Raptors",
+    "overall": 96,
+    "type": "allt"
+  },
+  {
+    "name": "Chris Bosh",
+    "team": "All-Time Toronto Raptors",
+    "overall": 90,
+    "type": "allt"
+  },
+  {
+    "name": "Kyle Lowry",
+    "team": "All-Time Toronto Raptors",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "DeMar DeRozan",
+    "team": "All-Time Toronto Raptors",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Pascal Siakam",
+    "team": "All-Time Toronto Raptors",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Damon Stoudamire",
+    "team": "All-Time Toronto Raptors",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Tracy McGrady",
+    "team": "All-Time Toronto Raptors",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Morris Peterson",
+    "team": "All-Time Toronto Raptors",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Antonio Davis",
+    "team": "All-Time Toronto Raptors",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Andrea Bargnani",
+    "team": "All-Time Toronto Raptors",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Doug Christie",
+    "team": "All-Time Toronto Raptors",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Fred VanVleet",
+    "team": "All-Time Toronto Raptors",
+    "overall": 83,
+    "type": "allt"
+  },
+  {
+    "name": "Jonas Valanciunas",
+    "team": "All-Time Toronto Raptors",
+    "overall": 81,
+    "type": "allt"
+  },
+  {
+    "name": "Serge Ibaka",
+    "team": "All-Time Toronto Raptors",
+    "overall": 81,
+    "type": "allt"
+  },
+  {
+    "name": "Kevin Garnett",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 98,
+    "type": "allt"
+  },
+  {
+    "name": "Kevin Love",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 91,
+    "type": "allt"
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Tom Gugliotta",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Sam Cassell",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Jimmy Butler",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Stephon Marbury",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Terrell Brandon",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Doug West",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Christian Laettner",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Ricky Rubio",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Wally Szczerbiak",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Isaiah Rider",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Andrew Wiggins",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 83,
+    "type": "allt"
+  },
+  {
+    "name": "Latrell Sprewell",
+    "team": "All-Time Minnesota Timberwolves",
+    "overall": 83,
+    "type": "allt"
+  },
+  {
+    "name": "Isiah Thomas",
+    "team": "All-Time Detroit Pistons",
+    "overall": 95,
+    "type": "allt"
+  },
+  {
+    "name": "Chauncey Billups",
+    "team": "All-Time Detroit Pistons",
+    "overall": 93,
+    "type": "allt"
+  },
+  {
+    "name": "Joe Dumars",
+    "team": "All-Time Detroit Pistons",
+    "overall": 93,
+    "type": "allt"
+  },
+  {
+    "name": "Grant Hill",
+    "team": "All-Time Detroit Pistons",
+    "overall": 93,
+    "type": "allt"
+  },
+  {
+    "name": "Bob Lanier",
+    "team": "All-Time Detroit Pistons",
+    "overall": 93,
+    "type": "allt"
+  },
+  {
+    "name": "Dave Bing",
+    "team": "All-Time Detroit Pistons",
+    "overall": 90,
+    "type": "allt"
+  },
+  {
+    "name": "Dennis Rodman",
+    "team": "All-Time Detroit Pistons",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Richard Hamilton",
+    "team": "All-Time Detroit Pistons",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Ben Wallace",
+    "team": "All-Time Detroit Pistons",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Jerry Stackhouse",
+    "team": "All-Time Detroit Pistons",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Dave Debusschere",
+    "team": "All-Time Detroit Pistons",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Bailey Howell",
+    "team": "All-Time Detroit Pistons",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Bill Laimbeer",
+    "team": "All-Time Detroit Pistons",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Kelly Tripucka",
+    "team": "All-Time Detroit Pistons",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Andre Drummond",
+    "team": "All-Time Detroit Pistons",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Julius Erving",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 97,
+    "type": "allt"
+  },
+  {
+    "name": "Kevin Durant",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 96,
+    "type": "allt"
+  },
+  {
+    "name": "Jason Kidd",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 95,
+    "type": "allt"
+  },
+  {
+    "name": "Drazen Petrovic",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 90,
+    "type": "allt"
+  },
+  {
+    "name": "James Harden",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Kyrie Irving",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Vince Carter",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Buck Williams",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Derrick Coleman",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Kenny Anderson",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Richard Jefferson",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Kenyon Martin",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Brook Lopez",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Keith Van Horn",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Otis Birdsong",
+    "team": "All-Time Brooklyn Nets",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Elvin Hayes",
+    "team": "All-Time Washington Wizards",
+    "overall": 94,
+    "type": "allt"
+  },
+  {
+    "name": "Wes Unseld",
+    "team": "All-Time Washington Wizards",
+    "overall": 94,
+    "type": "allt"
+  },
+  {
+    "name": "Gilbert Arenas",
+    "team": "All-Time Washington Wizards",
+    "overall": 93,
+    "type": "allt"
+  },
+  {
+    "name": "John Wall",
+    "team": "All-Time Washington Wizards",
+    "overall": 90,
+    "type": "allt"
+  },
+  {
+    "name": "Earl Monroe",
+    "team": "All-Time Washington Wizards",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Moses Malone",
+    "team": "All-Time Washington Wizards",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Bradley Beal",
+    "team": "All-Time Washington Wizards",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Caron Butler",
+    "team": "All-Time Washington Wizards",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Phil Chenier",
+    "team": "All-Time Washington Wizards",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Don Ohl",
+    "team": "All-Time Washington Wizards",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Jeff Ruland",
+    "team": "All-Time Washington Wizards",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Antawn Jamison",
+    "team": "All-Time Washington Wizards",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Bernard King",
+    "team": "All-Time Washington Wizards",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Jeff Malone",
+    "team": "All-Time Washington Wizards",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Jack Marin",
+    "team": "All-Time Washington Wizards",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Chris Paul",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 97,
+    "type": "allt"
+  },
+  {
+    "name": "Anthony Davis",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 94,
+    "type": "allt"
+  },
+  {
+    "name": "Baron Davis",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 92,
+    "type": "allt"
+  },
+  {
+    "name": "Jamal Mashburn",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Zion Williamson",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "David West",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Jrue Holiday",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Brandon Ingram",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "DeMarcus Cousins",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "David Wesley",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Tyson Chandler",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 83,
+    "type": "allt"
+  },
+  {
+    "name": "Julius Randle",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 83,
+    "type": "allt"
+  },
+  {
+    "name": "Lonzo Ball",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 82,
+    "type": "allt"
+  },
+  {
+    "name": "Peja Stojakovic",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 82,
+    "type": "allt"
+  },
+  {
+    "name": "Eric Gordon",
+    "team": "All-Time New Orleans Pelicans",
+    "overall": 81,
+    "type": "allt"
+  },
+  {
+    "name": "Tracy McGrady",
+    "team": "All-Time Orlando Magic",
+    "overall": 95,
+    "type": "allt"
+  },
+  {
+    "name": "Penny Hardaway",
+    "team": "All-Time Orlando Magic",
+    "overall": 94,
+    "type": "allt"
+  },
+  {
+    "name": "Shaquille O’Neal",
+    "team": "All-Time Orlando Magic",
+    "overall": 93,
+    "type": "allt"
+  },
+  {
+    "name": "Dwight Howard",
+    "team": "All-Time Orlando Magic",
+    "overall": 93,
+    "type": "allt"
+  },
+  {
+    "name": "Rashard Lewis",
+    "team": "All-Time Orlando Magic",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Hedo Turkoglu",
+    "team": "All-Time Orlando Magic",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Grant Hill",
+    "team": "All-Time Orlando Magic",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Nikola Vucevic",
+    "team": "All-Time Orlando Magic",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Nick Anderson",
+    "team": "All-Time Orlando Magic",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Steve Francis",
+    "team": "All-Time Orlando Magic",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Scott Skiles",
+    "team": "All-Time Orlando Magic",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Dennis Scott",
+    "team": "All-Time Orlando Magic",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Horace Grant",
+    "team": "All-Time Orlando Magic",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Jameer Nelson",
+    "team": "All-Time Orlando Magic",
+    "overall": 83,
+    "type": "allt"
+  },
+  {
+    "name": "Darrell Armstrong",
+    "team": "All-Time Orlando Magic",
+    "overall": 83,
+    "type": "allt"
+  },
+  {
+    "name": "Larry Bird",
+    "team": "All-Time Boston Celtics",
+    "overall": 98,
+    "type": "allt"
+  },
+  {
+    "name": "Bill Russell",
+    "team": "All-Time Boston Celtics",
+    "overall": 98,
+    "type": "allt"
+  },
+  {
+    "name": "Bob Cousy",
+    "team": "All-Time Boston Celtics",
+    "overall": 96,
+    "type": "allt"
+  },
+  {
+    "name": "John Havlicek",
+    "team": "All-Time Boston Celtics",
+    "overall": 96,
+    "type": "allt"
+  },
+  {
+    "name": "Kevin McHale",
+    "team": "All-Time Boston Celtics",
+    "overall": 95,
+    "type": "allt"
+  },
+  {
+    "name": "Dave Cowens",
+    "team": "All-Time Boston Celtics",
+    "overall": 95,
+    "type": "allt"
+  },
+  {
+    "name": "Jo Jo White",
+    "team": "All-Time Boston Celtics",
+    "overall": 94,
+    "type": "allt"
+  },
+  {
+    "name": "Paul Pierce",
+    "team": "All-Time Boston Celtics",
+    "overall": 94,
+    "type": "allt"
+  },
+  {
+    "name": "Robert Parish",
+    "team": "All-Time Boston Celtics",
+    "overall": 93,
+    "type": "allt"
+  },
+  {
+    "name": "Jayson Tatum",
+    "team": "All-Time Boston Celtics",
+    "overall": 92,
+    "type": "allt"
+  },
+  {
+    "name": "Bill Sharman",
+    "team": "All-Time Boston Celtics",
+    "overall": 92,
+    "type": "allt"
+  },
+  {
+    "name": "Kevin Garnett",
+    "team": "All-Time Boston Celtics",
+    "overall": 92,
+    "type": "allt"
+  },
+  {
+    "name": "Rajon Rondo",
+    "team": "All-Time Boston Celtics",
+    "overall": 90,
+    "type": "allt"
+  },
+  {
+    "name": "Tom Heinsohn",
+    "team": "All-Time Boston Celtics",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Ray Allen",
+    "team": "All-Time Boston Celtics",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Clyde Drexler",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 96,
+    "type": "allt"
+  },
+  {
+    "name": "Bill Walton",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 95,
+    "type": "allt"
+  },
+  {
+    "name": "Damian Lillard",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 94,
+    "type": "allt"
+  },
+  {
+    "name": "Brandon Roy",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 91,
+    "type": "allt"
+  },
+  {
+    "name": "Maurice Lucas",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 90,
+    "type": "allt"
+  },
+  {
+    "name": "LaMarcus Aldridge",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Arvydas Sabonis",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Geoff Petrie",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Jerome Kersey",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Terry Porter",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Sidney Wicks",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Kiki Vandeweghe",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "C.J. McCollum",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Kevin Duckworth",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Jim Paxson",
+    "team": "All-Time Portland Trail Blazers",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "LeBron James",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 99,
+    "type": "allt"
+  },
+  {
+    "name": "Kyrie Irving",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 94,
+    "type": "allt"
+  },
+  {
+    "name": "Mark Price",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 93,
+    "type": "allt"
+  },
+  {
+    "name": "Brad Daugherty",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 90,
+    "type": "allt"
+  },
+  {
+    "name": "Larry Nance",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Zydrunas Ilgauskas",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Terrell Brandon",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "World B. Free",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Kevin Love",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Campy Russell",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Austin Carr",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Hot Rod Williams",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Bingo Smith",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Jim Chones",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Anderson Varejao",
+    "team": "All-Time Cleveland Cavaliers",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Wilt Chamberlain",
+    "team": "All-Time Golden State Warriors",
+    "overall": 98,
+    "type": "allt"
+  },
+  {
+    "name": "Stephen Curry",
+    "team": "All-Time Golden State Warriors",
+    "overall": 97,
+    "type": "allt"
+  },
+  {
+    "name": "Kevin Durant",
+    "team": "All-Time Golden State Warriors",
+    "overall": 97,
+    "type": "allt"
+  },
+  {
+    "name": "Rick Barry",
+    "team": "All-Time Golden State Warriors",
+    "overall": 95,
+    "type": "allt"
+  },
+  {
+    "name": "Chris Mullin",
+    "team": "All-Time Golden State Warriors",
+    "overall": 94,
+    "type": "allt"
+  },
+  {
+    "name": "Nate Thurmond",
+    "team": "All-Time Golden State Warriors",
+    "overall": 92,
+    "type": "allt"
+  },
+  {
+    "name": "Paul Arizin",
+    "team": "All-Time Golden State Warriors",
+    "overall": 91,
+    "type": "allt"
+  },
+  {
+    "name": "Baron Davis",
+    "team": "All-Time Golden State Warriors",
+    "overall": 91,
+    "type": "allt"
+  },
+  {
+    "name": "Klay Thompson",
+    "team": "All-Time Golden State Warriors",
+    "overall": 91,
+    "type": "allt"
+  },
+  {
+    "name": "Tim Hardaway",
+    "team": "All-Time Golden State Warriors",
+    "overall": 90,
+    "type": "allt"
+  },
+  {
+    "name": "Draymond Green",
+    "team": "All-Time Golden State Warriors",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Sleepy Floyd",
+    "team": "All-Time Golden State Warriors",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Jason Richardson",
+    "team": "All-Time Golden State Warriors",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Purvis Short",
+    "team": "All-Time Golden State Warriors",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Andre Iguodala",
+    "team": "All-Time Golden State Warriors",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Dominique Wilkins",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 95,
+    "type": "allt"
+  },
+  {
+    "name": "Bob Pettit",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 95,
+    "type": "allt"
+  },
+  {
+    "name": "Dikembe Mutombo",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 92,
+    "type": "allt"
+  },
+  {
+    "name": "Cliff Hagan",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 91,
+    "type": "allt"
+  },
+  {
+    "name": "Lou Hudson",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 91,
+    "type": "allt"
+  },
+  {
+    "name": "Joe Johnson",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Trae Young",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Joe Caldwell",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Kevin Willis",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Pete Maravich",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Steve Smith",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Doc Rivers",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Josh Smith",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Al Horford",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Jeff Teague",
+    "team": "All-Time Atlanta Hawks",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "Kevin Durant",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 97,
+    "type": "allt"
+  },
+  {
+    "name": "Russell Westbrook",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 95,
+    "type": "allt"
+  },
+  {
+    "name": "Gary Payton",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 95,
+    "type": "allt"
+  },
+  {
+    "name": "Ray Allen",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 94,
+    "type": "allt"
+  },
+  {
+    "name": "Dennis Johnson",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 91,
+    "type": "allt"
+  },
+  {
+    "name": "Paul George",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 91,
+    "type": "allt"
+  },
+  {
+    "name": "Shawn Kemp",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 90,
+    "type": "allt"
+  },
+  {
+    "name": "Rashard Lewis",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Gus Williams",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Jack Sikma",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Spencer Haywood",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Fred Brown",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Dale Ellis",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Detlef Schrempf",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Xavier McDaniel",
+    "team": "All-Time Oklahoma City Thunder",
+    "overall": 87,
     "type": "allt"
   },
   {
@@ -276,453 +1626,93 @@
     "type": "allt"
   },
   {
-    "name": "Dominique Wilkins",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 95,
-    "type": "allt"
-  },
-  {
-    "name": "Bob Pettit",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 95,
-    "type": "allt"
-  },
-  {
-    "name": "Dikembe Mutombo",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 92,
-    "type": "allt"
-  },
-  {
-    "name": "Cliff Hagan",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 91,
-    "type": "allt"
-  },
-  {
-    "name": "Lou Hudson",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 91,
-    "type": "allt"
-  },
-  {
-    "name": "Joe Johnson",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Trae Young",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Joe Caldwell",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Kevin Willis",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Pete Maravich",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Steve Smith",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Doc Rivers",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Josh Smith",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Al Horford",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Jeff Teague",
-    "team": "All-Time Atlanta Hawks",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "Larry Bird",
-    "team": "All-Time Boston Celtics",
-    "overall": 98,
-    "type": "allt"
-  },
-  {
-    "name": "Bill Russell",
-    "team": "All-Time Boston Celtics",
-    "overall": 98,
-    "type": "allt"
-  },
-  {
-    "name": "Bob Cousy",
-    "team": "All-Time Boston Celtics",
-    "overall": 96,
-    "type": "allt"
-  },
-  {
-    "name": "John Havlicek",
-    "team": "All-Time Boston Celtics",
-    "overall": 96,
-    "type": "allt"
-  },
-  {
-    "name": "Kevin McHale",
-    "team": "All-Time Boston Celtics",
-    "overall": 95,
-    "type": "allt"
-  },
-  {
-    "name": "Dave Cowens",
-    "team": "All-Time Boston Celtics",
-    "overall": 95,
-    "type": "allt"
-  },
-  {
-    "name": "Jo Jo White",
-    "team": "All-Time Boston Celtics",
-    "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Paul Pierce",
-    "team": "All-Time Boston Celtics",
-    "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Robert Parish",
-    "team": "All-Time Boston Celtics",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Jayson Tatum",
-    "team": "All-Time Boston Celtics",
-    "overall": 92,
-    "type": "allt"
-  },
-  {
-    "name": "Bill Sharman",
-    "team": "All-Time Boston Celtics",
-    "overall": 92,
-    "type": "allt"
-  },
-  {
-    "name": "Kevin Garnett",
-    "team": "All-Time Boston Celtics",
-    "overall": 92,
-    "type": "allt"
-  },
-  {
-    "name": "Rajon Rondo",
-    "team": "All-Time Boston Celtics",
-    "overall": 90,
-    "type": "allt"
-  },
-  {
-    "name": "Tom Heinsohn",
-    "team": "All-Time Boston Celtics",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Ray Allen",
-    "team": "All-Time Boston Celtics",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Kawhi Leonard",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 95,
-    "type": "allt"
-  },
-  {
-    "name": "Bob McAdoo",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Chris Paul",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Elton Brand",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 90,
-    "type": "allt"
-  },
-  {
-    "name": "Blake Griffin",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 90,
-    "type": "allt"
-  },
-  {
-    "name": "Ron Harper",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "World B. Free",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "DeAndre Jordan",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Danny Manning",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Chris Kaman",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Norm Nixon",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Corey Maggette",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Swen Nater",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "JJ Redick",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 83,
-    "type": "allt"
-  },
-  {
-    "name": "Lamar Odom",
-    "team": "All-Time Los Angeles Clippers",
-    "overall": 82,
-    "type": "allt"
-  },
-  {
-    "name": "John Stockton",
-    "team": "All-Time Utah Jazz",
-    "overall": 97,
-    "type": "allt"
-  },
-  {
-    "name": "Karl Malone",
-    "team": "All-Time Utah Jazz",
-    "overall": 97,
-    "type": "allt"
-  },
-  {
-    "name": "Pete Maravich",
-    "team": "All-Time Utah Jazz",
-    "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Adrian Dantley",
-    "team": "All-Time Utah Jazz",
-    "overall": 91,
-    "type": "allt"
-  },
-  {
-    "name": "Mark Eaton",
-    "team": "All-Time Utah Jazz",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Andrei Kirilenko",
-    "team": "All-Time Utah Jazz",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Rudy Gobert",
-    "team": "All-Time Utah Jazz",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Gordon Hayward",
-    "team": "All-Time Utah Jazz",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Carlos Boozer",
-    "team": "All-Time Utah Jazz",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Donovan Mitchell",
-    "team": "All-Time Utah Jazz",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Deron Williams",
-    "team": "All-Time Utah Jazz",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Darrel Griffith",
-    "team": "All-Time Utah Jazz",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Thurl Bailey",
-    "team": "All-Time Utah Jazz",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Truck Robinson",
-    "team": "All-Time Utah Jazz",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Jeff Hornacek",
-    "team": "All-Time Utah Jazz",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "LeBron James",
-    "team": "All-Time Miami Heat",
+    "name": "Michael Jordan",
+    "team": "All-Time Chicago Bulls",
     "overall": 99,
     "type": "allt"
   },
   {
-    "name": "Dwyane Wade",
-    "team": "All-Time Miami Heat",
+    "name": "Scottie Pippen",
+    "team": "All-Time Chicago Bulls",
     "overall": 97,
     "type": "allt"
   },
   {
-    "name": "Alonzo Mourning",
-    "team": "All-Time Miami Heat",
-    "overall": 94,
+    "name": "Derrick Rose",
+    "team": "All-Time Chicago Bulls",
+    "overall": 95,
     "type": "allt"
   },
   {
-    "name": "Jimmy Butler",
-    "team": "All-Time Miami Heat",
+    "name": "Dennis Rodman",
+    "team": "All-Time Chicago Bulls",
     "overall": 93,
     "type": "allt"
   },
   {
-    "name": "Tim Hardaway",
-    "team": "All-Time Miami Heat",
+    "name": "Artis Gilmore",
+    "team": "All-Time Chicago Bulls",
+    "overall": 93,
+    "type": "allt"
+  },
+  {
+    "name": "Jimmy Butler",
+    "team": "All-Time Chicago Bulls",
+    "overall": 91,
+    "type": "allt"
+  },
+  {
+    "name": "Jerry Sloan",
+    "team": "All-Time Chicago Bulls",
     "overall": 89,
     "type": "allt"
   },
   {
-    "name": "Shaquille O’Neal",
-    "team": "All-Time Miami Heat",
+    "name": "Bob Love",
+    "team": "All-Time Chicago Bulls",
     "overall": 89,
     "type": "allt"
   },
   {
-    "name": "Chris Bosh",
-    "team": "All-Time Miami Heat",
-    "overall": 88,
+    "name": "B.J. Armstrong",
+    "team": "All-Time Chicago Bulls",
+    "overall": 87,
     "type": "allt"
   },
   {
-    "name": "Glen Rice",
-    "team": "All-Time Miami Heat",
-    "overall": 88,
+    "name": "Joakim Noah",
+    "team": "All-Time Chicago Bulls",
+    "overall": 87,
     "type": "allt"
   },
   {
-    "name": "Bam Adebayo",
-    "team": "All-Time Miami Heat",
+    "name": "Reggie Theus",
+    "team": "All-Time Chicago Bulls",
     "overall": 86,
     "type": "allt"
   },
   {
-    "name": "Rony Seikaly",
-    "team": "All-Time Miami Heat",
+    "name": "Zach LaVine",
+    "team": "All-Time Chicago Bulls",
     "overall": 86,
     "type": "allt"
   },
   {
-    "name": "Goran Dragic",
-    "team": "All-Time Miami Heat",
+    "name": "Toni Kukoc",
+    "team": "All-Time Chicago Bulls",
     "overall": 85,
     "type": "allt"
   },
   {
-    "name": "Steve Smith",
-    "team": "All-Time Miami Heat",
+    "name": "Horace Grant",
+    "team": "All-Time Chicago Bulls",
     "overall": 85,
     "type": "allt"
   },
   {
-    "name": "Eddie Jones",
-    "team": "All-Time Miami Heat",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Udonis Haslem",
-    "team": "All-Time Miami Heat",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "Tyler Herro",
-    "team": "All-Time Miami Heat",
-    "overall": 83,
+    "name": "Kirk Hinrich",
+    "team": "All-Time Chicago Bulls",
+    "overall": 82,
     "type": "allt"
   },
   {
@@ -906,186 +1896,6 @@
     "type": "allt"
   },
   {
-    "name": "Julius Erving",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 97,
-    "type": "allt"
-  },
-  {
-    "name": "Kevin Durant",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 96,
-    "type": "allt"
-  },
-  {
-    "name": "Jason Kidd",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 95,
-    "type": "allt"
-  },
-  {
-    "name": "Drazen Petrovic",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 90,
-    "type": "allt"
-  },
-  {
-    "name": "James Harden",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Kyrie Irving",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Vince Carter",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Buck Williams",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Derrick Coleman",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Kenny Anderson",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Richard Jefferson",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Kenyon Martin",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Brook Lopez",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Keith Van Horn",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Otis Birdsong",
-    "team": "All-Time Brooklyn Nets",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Michael Jordan",
-    "team": "All-Time Chicago Bulls",
-    "overall": 99,
-    "type": "allt"
-  },
-  {
-    "name": "Scottie Pippen",
-    "team": "All-Time Chicago Bulls",
-    "overall": 97,
-    "type": "allt"
-  },
-  {
-    "name": "Derrick Rose",
-    "team": "All-Time Chicago Bulls",
-    "overall": 95,
-    "type": "allt"
-  },
-  {
-    "name": "Dennis Rodman",
-    "team": "All-Time Chicago Bulls",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Artis Gilmore",
-    "team": "All-Time Chicago Bulls",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Jimmy Butler",
-    "team": "All-Time Chicago Bulls",
-    "overall": 91,
-    "type": "allt"
-  },
-  {
-    "name": "Jerry Sloan",
-    "team": "All-Time Chicago Bulls",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Bob Love",
-    "team": "All-Time Chicago Bulls",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "B.J. Armstrong",
-    "team": "All-Time Chicago Bulls",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Joakim Noah",
-    "team": "All-Time Chicago Bulls",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Reggie Theus",
-    "team": "All-Time Chicago Bulls",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Zach LaVine",
-    "team": "All-Time Chicago Bulls",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Toni Kukoc",
-    "team": "All-Time Chicago Bulls",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Horace Grant",
-    "team": "All-Time Chicago Bulls",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Kirk Hinrich",
-    "team": "All-Time Chicago Bulls",
-    "overall": 82,
-    "type": "allt"
-  },
-  {
     "name": "Glen Rice",
     "team": "All-Time Charlotte Hornets",
     "overall": 90,
@@ -1176,363 +1986,93 @@
     "type": "allt"
   },
   {
-    "name": "Kevin Durant",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 97,
+    "name": "Tim Duncan",
+    "team": "All-Time San Antonio Spurs",
+    "overall": 98,
     "type": "allt"
   },
   {
-    "name": "Russell Westbrook",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 95,
+    "name": "David Robinson",
+    "team": "All-Time San Antonio Spurs",
+    "overall": 96,
     "type": "allt"
   },
   {
-    "name": "Gary Payton",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 95,
-    "type": "allt"
-  },
-  {
-    "name": "Ray Allen",
-    "team": "All-Time Oklahoma City Thunder",
+    "name": "George Gervin",
+    "team": "All-Time San Antonio Spurs",
     "overall": 94,
     "type": "allt"
   },
   {
-    "name": "Dennis Johnson",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 91,
-    "type": "allt"
-  },
-  {
-    "name": "Paul George",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 91,
-    "type": "allt"
-  },
-  {
-    "name": "Shawn Kemp",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 90,
-    "type": "allt"
-  },
-  {
-    "name": "Rashard Lewis",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Gus Williams",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Jack Sikma",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Spencer Haywood",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Fred Brown",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Dale Ellis",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Detlef Schrempf",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Xavier McDaniel",
-    "team": "All-Time Oklahoma City Thunder",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
     "name": "Kawhi Leonard",
-    "team": "All-Time Toronto Raptors",
-    "overall": 96,
+    "team": "All-Time San Antonio Spurs",
+    "overall": 94,
     "type": "allt"
   },
   {
-    "name": "Vince Carter",
-    "team": "All-Time Toronto Raptors",
-    "overall": 96,
+    "name": "Tony Parker",
+    "team": "All-Time San Antonio Spurs",
+    "overall": 94,
     "type": "allt"
   },
   {
-    "name": "Chris Bosh",
-    "team": "All-Time Toronto Raptors",
+    "name": "Manu Ginobili",
+    "team": "All-Time San Antonio Spurs",
     "overall": 90,
     "type": "allt"
   },
   {
-    "name": "Kyle Lowry",
-    "team": "All-Time Toronto Raptors",
+    "name": "Louie Dampier",
+    "team": "All-Time San Antonio Spurs",
     "overall": 89,
     "type": "allt"
   },
   {
-    "name": "DeMar DeRozan",
-    "team": "All-Time Toronto Raptors",
-    "overall": 89,
+    "name": "Larry Kenon",
+    "team": "All-Time San Antonio Spurs",
+    "overall": 88,
     "type": "allt"
   },
   {
-    "name": "Pascal Siakam",
-    "team": "All-Time Toronto Raptors",
+    "name": "Sean Elliott",
+    "team": "All-Time San Antonio Spurs",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "LaMarcus Aldridge",
+    "team": "All-Time San Antonio Spurs",
     "overall": 86,
     "type": "allt"
   },
   {
-    "name": "Damon Stoudamire",
-    "team": "All-Time Toronto Raptors",
+    "name": "James Silas",
+    "team": "All-Time San Antonio Spurs",
     "overall": 86,
     "type": "allt"
   },
   {
-    "name": "Tracy McGrady",
-    "team": "All-Time Toronto Raptors",
+    "name": "Bruce Bowen",
+    "team": "All-Time San Antonio Spurs",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Artis Gilmore",
+    "team": "All-Time San Antonio Spurs",
     "overall": 85,
     "type": "allt"
   },
   {
-    "name": "Morris Peterson",
-    "team": "All-Time Toronto Raptors",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Antonio Davis",
-    "team": "All-Time Toronto Raptors",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Andrea Bargnani",
-    "team": "All-Time Toronto Raptors",
+    "name": "Johnny Moore",
+    "team": "All-Time San Antonio Spurs",
     "overall": 84,
     "type": "allt"
   },
   {
-    "name": "Doug Christie",
-    "team": "All-Time Toronto Raptors",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "Fred VanVleet",
-    "team": "All-Time Toronto Raptors",
-    "overall": 83,
-    "type": "allt"
-  },
-  {
-    "name": "Jonas Valanciunas",
-    "team": "All-Time Toronto Raptors",
-    "overall": 81,
-    "type": "allt"
-  },
-  {
-    "name": "Serge Ibaka",
-    "team": "All-Time Toronto Raptors",
-    "overall": 81,
-    "type": "allt"
-  },
-  {
-    "name": "Kareem Abdul-Jabbar",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 99,
-    "type": "allt"
-  },
-  {
-    "name": "Giannis Antetokounmpo",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 97,
-    "type": "allt"
-  },
-  {
-    "name": "Oscar Robertson",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 96,
-    "type": "allt"
-  },
-  {
-    "name": "Sidney Moncrief",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Marques Johnson",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 92,
-    "type": "allt"
-  },
-  {
-    "name": "Ray Allen",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 91,
-    "type": "allt"
-  },
-  {
-    "name": "Michael Redd",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Bob Dandridge",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Khris Middleton",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Vin Baker",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Terry Cummings",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Junior Bridgeman",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Glenn Robinson",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Brian Winters",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Paul Pressey",
-    "team": "All-Time Milwaukee Bucks",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "Paul George",
-    "team": "All-Time Indiana Pacers",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Mel Daniels",
-    "team": "All-Time Indiana Pacers",
-    "overall": 92,
-    "type": "allt"
-  },
-  {
-    "name": "Jermaine O’Neal",
-    "team": "All-Time Indiana Pacers",
-    "overall": 91,
-    "type": "allt"
-  },
-  {
-    "name": "Freddie Lewis",
-    "team": "All-Time Indiana Pacers",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "George McGinnis",
-    "team": "All-Time Indiana Pacers",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Ron Artest",
-    "team": "All-Time Indiana Pacers",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Victor Oladipo",
-    "team": "All-Time Indiana Pacers",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Danny Granger",
-    "team": "All-Time Indiana Pacers",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Bob Netolicky",
-    "team": "All-Time Indiana Pacers",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Rik Smits",
-    "team": "All-Time Indiana Pacers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Don Buse",
-    "team": "All-Time Indiana Pacers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Chuck Person",
-    "team": "All-Time Indiana Pacers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Domantas Sabonis",
-    "team": "All-Time Indiana Pacers",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Roy Hibbert",
-    "team": "All-Time Indiana Pacers",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Mark Jackson",
-    "team": "All-Time Indiana Pacers",
-    "overall": 85,
+    "name": "Avery Johnson",
+    "team": "All-Time San Antonio Spurs",
+    "overall": 82,
     "type": "allt"
   },
   {
@@ -1626,183 +2166,93 @@
     "type": "allt"
   },
   {
-    "name": "LeBron James",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 99,
+    "name": "Kawhi Leonard",
+    "team": "All-Time Los Angeles Clippers",
+    "overall": 95,
     "type": "allt"
   },
   {
-    "name": "Kyrie Irving",
-    "team": "All-Time Cleveland Cavaliers",
+    "name": "Bob McAdoo",
+    "team": "All-Time Los Angeles Clippers",
     "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Mark Price",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Brad Daugherty",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 90,
-    "type": "allt"
-  },
-  {
-    "name": "Larry Nance",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Zydrunas Ilgauskas",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Terrell Brandon",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "World B. Free",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Kevin Love",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Campy Russell",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Austin Carr",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Hot Rod Williams",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Bingo Smith",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "Jim Chones",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "Anderson Varejao",
-    "team": "All-Time Cleveland Cavaliers",
-    "overall": 84,
     "type": "allt"
   },
   {
     "name": "Chris Paul",
-    "team": "All-Time New Orleans Pelicans",
-    "overall": 97,
+    "team": "All-Time Los Angeles Clippers",
+    "overall": 93,
     "type": "allt"
   },
   {
-    "name": "Anthony Davis",
-    "team": "All-Time New Orleans Pelicans",
-    "overall": 94,
+    "name": "Elton Brand",
+    "team": "All-Time Los Angeles Clippers",
+    "overall": 90,
     "type": "allt"
   },
   {
-    "name": "Baron Davis",
-    "team": "All-Time New Orleans Pelicans",
-    "overall": 92,
+    "name": "Blake Griffin",
+    "team": "All-Time Los Angeles Clippers",
+    "overall": 90,
     "type": "allt"
   },
   {
-    "name": "Jamal Mashburn",
-    "team": "All-Time New Orleans Pelicans",
+    "name": "Ron Harper",
+    "team": "All-Time Los Angeles Clippers",
     "overall": 89,
     "type": "allt"
   },
   {
-    "name": "Zion Williamson",
-    "team": "All-Time New Orleans Pelicans",
-    "overall": 88,
+    "name": "World B. Free",
+    "team": "All-Time Los Angeles Clippers",
+    "overall": 89,
     "type": "allt"
   },
   {
-    "name": "David West",
-    "team": "All-Time New Orleans Pelicans",
-    "overall": 88,
+    "name": "DeAndre Jordan",
+    "team": "All-Time Los Angeles Clippers",
+    "overall": 87,
     "type": "allt"
   },
   {
-    "name": "Jrue Holiday",
-    "team": "All-Time New Orleans Pelicans",
+    "name": "Danny Manning",
+    "team": "All-Time Los Angeles Clippers",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Chris Kaman",
+    "team": "All-Time Los Angeles Clippers",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Norm Nixon",
+    "team": "All-Time Los Angeles Clippers",
     "overall": 86,
     "type": "allt"
   },
   {
-    "name": "Brandon Ingram",
-    "team": "All-Time New Orleans Pelicans",
-    "overall": 85,
+    "name": "Corey Maggette",
+    "team": "All-Time Los Angeles Clippers",
+    "overall": 86,
     "type": "allt"
   },
   {
-    "name": "DeMarcus Cousins",
-    "team": "All-Time New Orleans Pelicans",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "David Wesley",
-    "team": "All-Time New Orleans Pelicans",
+    "name": "Swen Nater",
+    "team": "All-Time Los Angeles Clippers",
     "overall": 84,
     "type": "allt"
   },
   {
-    "name": "Tyson Chandler",
-    "team": "All-Time New Orleans Pelicans",
+    "name": "JJ Redick",
+    "team": "All-Time Los Angeles Clippers",
     "overall": 83,
     "type": "allt"
   },
   {
-    "name": "Julius Randle",
-    "team": "All-Time New Orleans Pelicans",
-    "overall": 83,
-    "type": "allt"
-  },
-  {
-    "name": "Lonzo Ball",
-    "team": "All-Time New Orleans Pelicans",
+    "name": "Lamar Odom",
+    "team": "All-Time Los Angeles Clippers",
     "overall": 82,
-    "type": "allt"
-  },
-  {
-    "name": "Peja Stojakovic",
-    "team": "All-Time New Orleans Pelicans",
-    "overall": 82,
-    "type": "allt"
-  },
-  {
-    "name": "Eric Gordon",
-    "team": "All-Time New Orleans Pelicans",
-    "overall": 81,
     "type": "allt"
   },
   {
@@ -1896,6 +2346,96 @@
     "type": "allt"
   },
   {
+    "name": "John Stockton",
+    "team": "All-Time Utah Jazz",
+    "overall": 97,
+    "type": "allt"
+  },
+  {
+    "name": "Karl Malone",
+    "team": "All-Time Utah Jazz",
+    "overall": 97,
+    "type": "allt"
+  },
+  {
+    "name": "Pete Maravich",
+    "team": "All-Time Utah Jazz",
+    "overall": 94,
+    "type": "allt"
+  },
+  {
+    "name": "Adrian Dantley",
+    "team": "All-Time Utah Jazz",
+    "overall": 91,
+    "type": "allt"
+  },
+  {
+    "name": "Mark Eaton",
+    "team": "All-Time Utah Jazz",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Andrei Kirilenko",
+    "team": "All-Time Utah Jazz",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Rudy Gobert",
+    "team": "All-Time Utah Jazz",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Gordon Hayward",
+    "team": "All-Time Utah Jazz",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Carlos Boozer",
+    "team": "All-Time Utah Jazz",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Donovan Mitchell",
+    "team": "All-Time Utah Jazz",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Deron Williams",
+    "team": "All-Time Utah Jazz",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Darrel Griffith",
+    "team": "All-Time Utah Jazz",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Thurl Bailey",
+    "team": "All-Time Utah Jazz",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Truck Robinson",
+    "team": "All-Time Utah Jazz",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Jeff Hornacek",
+    "team": "All-Time Utah Jazz",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
     "name": "Walt Frazier",
     "team": "All-Time New York Knicks",
     "overall": 97,
@@ -1986,723 +2526,183 @@
     "type": "allt"
   },
   {
-    "name": "Kevin Garnett",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 98,
+    "name": "Kareem Abdul-Jabbar",
+    "team": "All-Time Milwaukee Bucks",
+    "overall": 99,
     "type": "allt"
   },
   {
-    "name": "Kevin Love",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 91,
+    "name": "Giannis Antetokounmpo",
+    "team": "All-Time Milwaukee Bucks",
+    "overall": 97,
     "type": "allt"
   },
   {
-    "name": "Karl-Anthony Towns",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Tom Gugliotta",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Sam Cassell",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Jimmy Butler",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Stephon Marbury",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Terrell Brandon",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Doug West",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Christian Laettner",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Ricky Rubio",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Wally Szczerbiak",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Isaiah Rider",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "Andrew Wiggins",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 83,
-    "type": "allt"
-  },
-  {
-    "name": "Latrell Sprewell",
-    "team": "All-Time Minnesota Timberwolves",
-    "overall": 83,
-    "type": "allt"
-  },
-  {
-    "name": "Tracy McGrady",
-    "team": "All-Time Orlando Magic",
-    "overall": 95,
-    "type": "allt"
-  },
-  {
-    "name": "Penny Hardaway",
-    "team": "All-Time Orlando Magic",
-    "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Shaquille O’Neal",
-    "team": "All-Time Orlando Magic",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Dwight Howard",
-    "team": "All-Time Orlando Magic",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Rashard Lewis",
-    "team": "All-Time Orlando Magic",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Hedo Turkoglu",
-    "team": "All-Time Orlando Magic",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Grant Hill",
-    "team": "All-Time Orlando Magic",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Nikola Vucevic",
-    "team": "All-Time Orlando Magic",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Nick Anderson",
-    "team": "All-Time Orlando Magic",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Steve Francis",
-    "team": "All-Time Orlando Magic",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Scott Skiles",
-    "team": "All-Time Orlando Magic",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "Dennis Scott",
-    "team": "All-Time Orlando Magic",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "Horace Grant",
-    "team": "All-Time Orlando Magic",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "Jameer Nelson",
-    "team": "All-Time Orlando Magic",
-    "overall": 83,
-    "type": "allt"
-  },
-  {
-    "name": "Darrell Armstrong",
-    "team": "All-Time Orlando Magic",
-    "overall": 83,
-    "type": "allt"
-  },
-  {
-    "name": "Clyde Drexler",
-    "team": "All-Time Portland Trail Blazers",
+    "name": "Oscar Robertson",
+    "team": "All-Time Milwaukee Bucks",
     "overall": 96,
     "type": "allt"
   },
   {
-    "name": "Bill Walton",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 95,
+    "name": "Sidney Moncrief",
+    "team": "All-Time Milwaukee Bucks",
+    "overall": 93,
     "type": "allt"
   },
   {
-    "name": "Damian Lillard",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Brandon Roy",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 91,
-    "type": "allt"
-  },
-  {
-    "name": "Maurice Lucas",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 90,
-    "type": "allt"
-  },
-  {
-    "name": "LaMarcus Aldridge",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Arvydas Sabonis",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Geoff Petrie",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Jerome Kersey",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Terry Porter",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Sidney Wicks",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Kiki Vandeweghe",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "C.J. McCollum",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Kevin Duckworth",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Jim Paxson",
-    "team": "All-Time Portland Trail Blazers",
-    "overall": 85,
-    "type": "allt"
-  },
-  {
-    "name": "Wilt Chamberlain",
-    "team": "All-Time Golden State Warriors",
-    "overall": 98,
-    "type": "allt"
-  },
-  {
-    "name": "Stephen Curry",
-    "team": "All-Time Golden State Warriors",
-    "overall": 97,
-    "type": "allt"
-  },
-  {
-    "name": "Kevin Durant",
-    "team": "All-Time Golden State Warriors",
-    "overall": 97,
-    "type": "allt"
-  },
-  {
-    "name": "Rick Barry",
-    "team": "All-Time Golden State Warriors",
-    "overall": 95,
-    "type": "allt"
-  },
-  {
-    "name": "Chris Mullin",
-    "team": "All-Time Golden State Warriors",
-    "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Nate Thurmond",
-    "team": "All-Time Golden State Warriors",
+    "name": "Marques Johnson",
+    "team": "All-Time Milwaukee Bucks",
     "overall": 92,
     "type": "allt"
   },
   {
-    "name": "Paul Arizin",
-    "team": "All-Time Golden State Warriors",
+    "name": "Ray Allen",
+    "team": "All-Time Milwaukee Bucks",
     "overall": 91,
     "type": "allt"
   },
   {
-    "name": "Baron Davis",
-    "team": "All-Time Golden State Warriors",
-    "overall": 91,
+    "name": "Michael Redd",
+    "team": "All-Time Milwaukee Bucks",
+    "overall": 88,
     "type": "allt"
   },
   {
-    "name": "Klay Thompson",
-    "team": "All-Time Golden State Warriors",
-    "overall": 91,
+    "name": "Bob Dandridge",
+    "team": "All-Time Milwaukee Bucks",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Khris Middleton",
+    "team": "All-Time Milwaukee Bucks",
+    "overall": 88,
+    "type": "allt"
+  },
+  {
+    "name": "Vin Baker",
+    "team": "All-Time Milwaukee Bucks",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Terry Cummings",
+    "team": "All-Time Milwaukee Bucks",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Junior Bridgeman",
+    "team": "All-Time Milwaukee Bucks",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Glenn Robinson",
+    "team": "All-Time Milwaukee Bucks",
+    "overall": 87,
+    "type": "allt"
+  },
+  {
+    "name": "Brian Winters",
+    "team": "All-Time Milwaukee Bucks",
+    "overall": 86,
+    "type": "allt"
+  },
+  {
+    "name": "Paul Pressey",
+    "team": "All-Time Milwaukee Bucks",
+    "overall": 84,
+    "type": "allt"
+  },
+  {
+    "name": "LeBron James",
+    "team": "All-Time Miami Heat",
+    "overall": 99,
+    "type": "allt"
+  },
+  {
+    "name": "Dwyane Wade",
+    "team": "All-Time Miami Heat",
+    "overall": 97,
+    "type": "allt"
+  },
+  {
+    "name": "Alonzo Mourning",
+    "team": "All-Time Miami Heat",
+    "overall": 94,
+    "type": "allt"
+  },
+  {
+    "name": "Jimmy Butler",
+    "team": "All-Time Miami Heat",
+    "overall": 93,
     "type": "allt"
   },
   {
     "name": "Tim Hardaway",
-    "team": "All-Time Golden State Warriors",
-    "overall": 90,
-    "type": "allt"
-  },
-  {
-    "name": "Draymond Green",
-    "team": "All-Time Golden State Warriors",
+    "team": "All-Time Miami Heat",
     "overall": 89,
     "type": "allt"
   },
   {
-    "name": "Sleepy Floyd",
-    "team": "All-Time Golden State Warriors",
+    "name": "Shaquille O’Neal",
+    "team": "All-Time Miami Heat",
+    "overall": 89,
+    "type": "allt"
+  },
+  {
+    "name": "Chris Bosh",
+    "team": "All-Time Miami Heat",
     "overall": 88,
     "type": "allt"
   },
   {
-    "name": "Jason Richardson",
-    "team": "All-Time Golden State Warriors",
-    "overall": 87,
+    "name": "Glen Rice",
+    "team": "All-Time Miami Heat",
+    "overall": 88,
     "type": "allt"
   },
   {
-    "name": "Purvis Short",
-    "team": "All-Time Golden State Warriors",
+    "name": "Bam Adebayo",
+    "team": "All-Time Miami Heat",
     "overall": 86,
     "type": "allt"
   },
   {
-    "name": "Andre Iguodala",
-    "team": "All-Time Golden State Warriors",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "Elvin Hayes",
-    "team": "All-Time Washington Wizards",
-    "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Wes Unseld",
-    "team": "All-Time Washington Wizards",
-    "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Gilbert Arenas",
-    "team": "All-Time Washington Wizards",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "John Wall",
-    "team": "All-Time Washington Wizards",
-    "overall": 90,
-    "type": "allt"
-  },
-  {
-    "name": "Earl Monroe",
-    "team": "All-Time Washington Wizards",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Moses Malone",
-    "team": "All-Time Washington Wizards",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Bradley Beal",
-    "team": "All-Time Washington Wizards",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Caron Butler",
-    "team": "All-Time Washington Wizards",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Phil Chenier",
-    "team": "All-Time Washington Wizards",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Don Ohl",
-    "team": "All-Time Washington Wizards",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Jeff Ruland",
-    "team": "All-Time Washington Wizards",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Antawn Jamison",
-    "team": "All-Time Washington Wizards",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Bernard King",
-    "team": "All-Time Washington Wizards",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Jeff Malone",
-    "team": "All-Time Washington Wizards",
+    "name": "Rony Seikaly",
+    "team": "All-Time Miami Heat",
     "overall": 86,
     "type": "allt"
   },
   {
-    "name": "Jack Marin",
-    "team": "All-Time Washington Wizards",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Dirk Nowitzki",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 98,
-    "type": "allt"
-  },
-  {
-    "name": "Luka Doncic",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Derek Harper",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Mark Aguirre",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Jim Jackson",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Michael Finley",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Jamal Mashburn",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Rolando Blackman",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Steve Nash",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Jason Kidd",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Jason Terry",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "James Donaldson",
-    "team": "All-Time Dallas Mavericks",
+    "name": "Goran Dragic",
+    "team": "All-Time Miami Heat",
     "overall": 85,
     "type": "allt"
   },
   {
-    "name": "Brad Davis",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 84,
-    "type": "allt"
-  },
-  {
-    "name": "Shawn Bradley",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 82,
-    "type": "allt"
-  },
-  {
-    "name": "Tyson Chandler",
-    "team": "All-Time Dallas Mavericks",
-    "overall": 82,
-    "type": "allt"
-  },
-  {
-    "name": "Isiah Thomas",
-    "team": "All-Time Detroit Pistons",
-    "overall": 95,
-    "type": "allt"
-  },
-  {
-    "name": "Chauncey Billups",
-    "team": "All-Time Detroit Pistons",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Joe Dumars",
-    "team": "All-Time Detroit Pistons",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Grant Hill",
-    "team": "All-Time Detroit Pistons",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Bob Lanier",
-    "team": "All-Time Detroit Pistons",
-    "overall": 93,
-    "type": "allt"
-  },
-  {
-    "name": "Dave Bing",
-    "team": "All-Time Detroit Pistons",
-    "overall": 90,
-    "type": "allt"
-  },
-  {
-    "name": "Dennis Rodman",
-    "team": "All-Time Detroit Pistons",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Richard Hamilton",
-    "team": "All-Time Detroit Pistons",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Ben Wallace",
-    "team": "All-Time Detroit Pistons",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Jerry Stackhouse",
-    "team": "All-Time Detroit Pistons",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Dave Debusschere",
-    "team": "All-Time Detroit Pistons",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Bailey Howell",
-    "team": "All-Time Detroit Pistons",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Bill Laimbeer",
-    "team": "All-Time Detroit Pistons",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "Kelly Tripucka",
-    "team": "All-Time Detroit Pistons",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Andre Drummond",
-    "team": "All-Time Detroit Pistons",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Tim Duncan",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 98,
-    "type": "allt"
-  },
-  {
-    "name": "David Robinson",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 96,
-    "type": "allt"
-  },
-  {
-    "name": "George Gervin",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Kawhi Leonard",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Tony Parker",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 94,
-    "type": "allt"
-  },
-  {
-    "name": "Manu Ginobili",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 90,
-    "type": "allt"
-  },
-  {
-    "name": "Louie Dampier",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 89,
-    "type": "allt"
-  },
-  {
-    "name": "Larry Kenon",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 88,
-    "type": "allt"
-  },
-  {
-    "name": "Sean Elliott",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 87,
-    "type": "allt"
-  },
-  {
-    "name": "LaMarcus Aldridge",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "James Silas",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Bruce Bowen",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 86,
-    "type": "allt"
-  },
-  {
-    "name": "Artis Gilmore",
-    "team": "All-Time San Antonio Spurs",
+    "name": "Steve Smith",
+    "team": "All-Time Miami Heat",
     "overall": 85,
     "type": "allt"
   },
   {
-    "name": "Johnny Moore",
-    "team": "All-Time San Antonio Spurs",
+    "name": "Eddie Jones",
+    "team": "All-Time Miami Heat",
+    "overall": 85,
+    "type": "allt"
+  },
+  {
+    "name": "Udonis Haslem",
+    "team": "All-Time Miami Heat",
     "overall": 84,
     "type": "allt"
   },
   {
-    "name": "Avery Johnson",
-    "team": "All-Time San Antonio Spurs",
-    "overall": 82,
+    "name": "Tyler Herro",
+    "team": "All-Time Miami Heat",
+    "overall": 83,
     "type": "allt"
   }
 ]
