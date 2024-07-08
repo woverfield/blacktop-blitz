@@ -14,6 +14,7 @@ function App() {
         <Routes>
           <>
             <Route exact path="/" element={<MainMenu />} />
+            <Route path="/blacktop-blitz" element={<MainMenu />} />
             <Route path="/qplay" element={<SizeSelection />} />
             <Route path="/qplay/1" element={<TeamSelection size={1} />} />
             <Route path="/qplay/2" element={<TeamSelection size={2} />} />
