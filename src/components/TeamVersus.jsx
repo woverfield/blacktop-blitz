@@ -1,8 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Card from "@mui/material/Card";
-import CardContent from "@mui/material/CardContent";
-import CardMedia from "@mui/material/CardMedia";
 import PlayerCard from "./PlayerCard";
 
 export default function TeamVersus({ teamOne, teamTwo }) {

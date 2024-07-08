@@ -1,0 +1,3188 @@
+[
+  {
+    "name": "Trae Young",
+    "team": "Atlanta Hawks",
+    "overall": 89,
+    "type": "curr"
+  },
+  {
+    "name": "Dejounte Murray",
+    "team": "Atlanta Hawks",
+    "overall": 87,
+    "type": "curr"
+  },
+  {
+    "name": "Clint Capela",
+    "team": "Atlanta Hawks",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Onyeka Okongwu",
+    "team": "Atlanta Hawks",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Jalen Johnson",
+    "team": "Atlanta Hawks",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Bogdan Bogdanovic",
+    "team": "Atlanta Hawks",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "De'Andre Hunter",
+    "team": "Atlanta Hawks",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Saddiq Bey",
+    "team": "Atlanta Hawks",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "AJ Griffin",
+    "team": "Atlanta Hawks",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Bruno Fernando",
+    "team": "Atlanta Hawks",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Kobe Bufkin",
+    "team": "Atlanta Hawks",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Wesley Matthews",
+    "team": "Atlanta Hawks",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Dylan Windler",
+    "team": "Atlanta Hawks",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Garrison Mathews",
+    "team": "Atlanta Hawks",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Vit Krejci",
+    "team": "Atlanta Hawks",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Trent Forrest",
+    "team": "Atlanta Hawks",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Mouhamed Gueye",
+    "team": "Atlanta Hawks",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Seth Lundy",
+    "team": "Atlanta Hawks",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Jayson Tatum",
+    "team": "Boston Celtics",
+    "overall": 94,
+    "type": "curr"
+  },
+  {
+    "name": "Jaylen Brown",
+    "team": "Boston Celtics",
+    "overall": 90,
+    "type": "curr"
+  },
+  {
+    "name": "Kristaps Porzingis",
+    "team": "Boston Celtics",
+    "overall": 88,
+    "type": "curr"
+  },
+  {
+    "name": "Derrick White",
+    "team": "Boston Celtics",
+    "overall": 87,
+    "type": "curr"
+  },
+  {
+    "name": "Jrue Holiday",
+    "team": "Boston Celtics",
+    "overall": 86,
+    "type": "curr"
+  },
+  {
+    "name": "Al Horford",
+    "team": "Boston Celtics",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Payton Pritchard",
+    "team": "Boston Celtics",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Luke Kornet",
+    "team": "Boston Celtics",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Xavier Tillman",
+    "team": "Boston Celtics",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Sam Hauser",
+    "team": "Boston Celtics",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Sviatoslav Mykhailiuk",
+    "team": "Boston Celtics",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Oshae Brissett",
+    "team": "Boston Celtics",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Jaden Springer",
+    "team": "Boston Celtics",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Neemias Queta",
+    "team": "Boston Celtics",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Jordan Walsh",
+    "team": "Boston Celtics",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Drew Peterson",
+    "team": "Boston Celtics",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "JD Davison",
+    "team": "Boston Celtics",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "Mikal Bridges",
+    "team": "Brooklyn Nets",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Nicolas Claxton",
+    "team": "Brooklyn Nets",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Cam Thomas",
+    "team": "Brooklyn Nets",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Cameron Johnson",
+    "team": "Brooklyn Nets",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Dennis Schroder",
+    "team": "Brooklyn Nets",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Ben Simmons",
+    "team": "Brooklyn Nets",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "team": "Brooklyn Nets",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Day'Ron Sharpe",
+    "team": "Brooklyn Nets",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Noah Clowney",
+    "team": "Brooklyn Nets",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Lonnie Walker IV",
+    "team": "Brooklyn Nets",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Dennis Smith Jr.",
+    "team": "Brooklyn Nets",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Trendon Watford",
+    "team": "Brooklyn Nets",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Keita Bates-Diop",
+    "team": "Brooklyn Nets",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Jacob Gilyard",
+    "team": "Brooklyn Nets",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Jalen Wilson",
+    "team": "Brooklyn Nets",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Dariq Whitehead",
+    "team": "Brooklyn Nets",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Keon Johnson",
+    "team": "Brooklyn Nets",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Jaylen Martin",
+    "team": "Brooklyn Nets",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "LaMelo Ball",
+    "team": "Charlotte Hornets",
+    "overall": 88,
+    "type": "curr"
+  },
+  {
+    "name": "Brandon Miller",
+    "team": "Charlotte Hornets",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Mark Williams",
+    "team": "Charlotte Hornets",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Miles Bridges",
+    "team": "Charlotte Hornets",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Nick Richards",
+    "team": "Charlotte Hornets",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Tre Mann",
+    "team": "Charlotte Hornets",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Grant Williams",
+    "team": "Charlotte Hornets",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Cody Martin",
+    "team": "Charlotte Hornets",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Vasilije Micic",
+    "team": "Charlotte Hornets",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Seth Curry",
+    "team": "Charlotte Hornets",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Davis Bertans",
+    "team": "Charlotte Hornets",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Nick Smith Jr.",
+    "team": "Charlotte Hornets",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Aleksej Pokusevski",
+    "team": "Charlotte Hornets",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Bryce McGowens",
+    "team": "Charlotte Hornets",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "J.T. Thor",
+    "team": "Charlotte Hornets",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Leaky Black",
+    "team": "Charlotte Hornets",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Amari Bailey",
+    "team": "Charlotte Hornets",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "Marques Bolden",
+    "team": "Charlotte Hornets",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "DeMar DeRozan",
+    "team": "Chicago Bulls",
+    "overall": 88,
+    "type": "curr"
+  },
+  {
+    "name": "Zach LaVine",
+    "team": "Chicago Bulls",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Nikola Vucevic",
+    "team": "Chicago Bulls",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Coby White",
+    "team": "Chicago Bulls",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Lonzo Ball",
+    "team": "Chicago Bulls",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Alex Caruso",
+    "team": "Chicago Bulls",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Andre Drummond",
+    "team": "Chicago Bulls",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Ayo Dosunmu",
+    "team": "Chicago Bulls",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Patrick Williams",
+    "team": "Chicago Bulls",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Javonte Green",
+    "team": "Chicago Bulls",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Dalen Terry",
+    "team": "Chicago Bulls",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Torrey Craig",
+    "team": "Chicago Bulls",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Jevon Carter",
+    "team": "Chicago Bulls",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Julian Phillips",
+    "team": "Chicago Bulls",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Onuralp Bitim",
+    "team": "Chicago Bulls",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Adama Sanogo",
+    "team": "Chicago Bulls",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Andrew Funk",
+    "team": "Chicago Bulls",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Henri Drell",
+    "team": "Chicago Bulls",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Donovan Mitchell",
+    "team": "Cleveland Cavaliers",
+    "overall": 92,
+    "type": "curr"
+  },
+  {
+    "name": "Jarrett Allen",
+    "team": "Cleveland Cavaliers",
+    "overall": 86,
+    "type": "curr"
+  },
+  {
+    "name": "Evan Mobley",
+    "team": "Cleveland Cavaliers",
+    "overall": 85,
+    "type": "curr"
+  },
+  {
+    "name": "Darius Garland",
+    "team": "Cleveland Cavaliers",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Caris LeVert",
+    "team": "Cleveland Cavaliers",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Max Strus",
+    "team": "Cleveland Cavaliers",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Isaac Okoro",
+    "team": "Cleveland Cavaliers",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Sam Merrill",
+    "team": "Cleveland Cavaliers",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Craig Porter",
+    "team": "Cleveland Cavaliers",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Marcus Morris Sr.",
+    "team": "Cleveland Cavaliers",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Tristan Thompson",
+    "team": "Cleveland Cavaliers",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Ty Jerome",
+    "team": "Cleveland Cavaliers",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Georges Niang",
+    "team": "Cleveland Cavaliers",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Dean Wade",
+    "team": "Cleveland Cavaliers",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Damian Jones",
+    "team": "Cleveland Cavaliers",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Isaiah Mobley",
+    "team": "Cleveland Cavaliers",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Pete Nance",
+    "team": "Cleveland Cavaliers",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Emoni Bates",
+    "team": "Cleveland Cavaliers",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Luka Doncic",
+    "team": "Dallas Mavericks",
+    "overall": 97,
+    "type": "curr"
+  },
+  {
+    "name": "Kyrie Irving",
+    "team": "Dallas Mavericks",
+    "overall": 93,
+    "type": "curr"
+  },
+  {
+    "name": "Daniel Gafford",
+    "team": "Dallas Mavericks",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Dereck Lively II",
+    "team": "Dallas Mavericks",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "P.J. Washington",
+    "team": "Dallas Mavericks",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Dante Exum",
+    "team": "Dallas Mavericks",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Josh Green",
+    "team": "Dallas Mavericks",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Derrick Jones Jr.",
+    "team": "Dallas Mavericks",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Tim Hardaway Jr.",
+    "team": "Dallas Mavericks",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Maxi Kleber",
+    "team": "Dallas Mavericks",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Jaden Hardy",
+    "team": "Dallas Mavericks",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Dwight Powell",
+    "team": "Dallas Mavericks",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Oliver-Maxence Prosper",
+    "team": "Dallas Mavericks",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Markieff Morris",
+    "team": "Dallas Mavericks",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Greg Brown",
+    "team": "Dallas Mavericks",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "A.J. Lawson",
+    "team": "Dallas Mavericks",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Brandon Williams",
+    "team": "Dallas Mavericks",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Alex Fudge",
+    "team": "Dallas Mavericks",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Nikola Jokic",
+    "team": "Denver Nuggets",
+    "overall": 98,
+    "type": "curr"
+  },
+  {
+    "name": "Jamal Murray",
+    "team": "Denver Nuggets",
+    "overall": 89,
+    "type": "curr"
+  },
+  {
+    "name": "Michael Porter Jr.",
+    "team": "Denver Nuggets",
+    "overall": 86,
+    "type": "curr"
+  },
+  {
+    "name": "Aaron Gordon",
+    "team": "Denver Nuggets",
+    "overall": 85,
+    "type": "curr"
+  },
+  {
+    "name": "Kentavious Caldwell-Pope",
+    "team": "Denver Nuggets",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Christian Braun",
+    "team": "Denver Nuggets",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Peyton Watson",
+    "team": "Denver Nuggets",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "DeAndre Jordan",
+    "team": "Denver Nuggets",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Reggie Jackson",
+    "team": "Denver Nuggets",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Justin Holiday",
+    "team": "Denver Nuggets",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Julian Strawther",
+    "team": "Denver Nuggets",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Zeke Nnaji",
+    "team": "Denver Nuggets",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Vlatko Cancar",
+    "team": "Denver Nuggets",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Hunter Tyson",
+    "team": "Denver Nuggets",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Jalen Pickett",
+    "team": "Denver Nuggets",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Collin Gillespie",
+    "team": "Denver Nuggets",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "Jay Huff",
+    "team": "Denver Nuggets",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Braxton Key",
+    "team": "Denver Nuggets",
+    "overall": 66,
+    "type": "curr"
+  },
+  {
+    "name": "Cade Cunningham",
+    "team": "Detroit Pistons",
+    "overall": 86,
+    "type": "curr"
+  },
+  {
+    "name": "Jalen Duren",
+    "team": "Detroit Pistons",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Ausar Thompson",
+    "team": "Detroit Pistons",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Jaden Ivey",
+    "team": "Detroit Pistons",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Simone Fontecchio",
+    "team": "Detroit Pistons",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "James Wiseman",
+    "team": "Detroit Pistons",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Isaiah Stewart",
+    "team": "Detroit Pistons",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Quentin Grimes",
+    "team": "Detroit Pistons",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Chimezie Metu",
+    "team": "Detroit Pistons",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Marcus Sasser",
+    "team": "Detroit Pistons",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Evan Fournier",
+    "team": "Detroit Pistons",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Malachi Flynn",
+    "team": "Detroit Pistons",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Taj Gibson",
+    "team": "Detroit Pistons",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Troy Brown Jr.",
+    "team": "Detroit Pistons",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Jared Rhoden",
+    "team": "Detroit Pistons",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Stanley Umude",
+    "team": "Detroit Pistons",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Tosan Evbuomwan",
+    "team": "Detroit Pistons",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Buddy Boeheim",
+    "team": "Detroit Pistons",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Stephen Curry",
+    "team": "Golden State Warriors",
+    "overall": 95,
+    "type": "curr"
+  },
+  {
+    "name": "Draymond Green",
+    "team": "Golden State Warriors",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Klay Thompson",
+    "team": "Golden State Warriors",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Jonathan Kuminga",
+    "team": "Golden State Warriors",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Chris Paul",
+    "team": "Golden State Warriors",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Andrew Wiggins",
+    "team": "Golden State Warriors",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Brandin Podziemski",
+    "team": "Golden State Warriors",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Trayce Jackson-Davis",
+    "team": "Golden State Warriors",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Gary Payton II",
+    "team": "Golden State Warriors",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Moses Moody",
+    "team": "Golden State Warriors",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Dario Saric",
+    "team": "Golden State Warriors",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Kevon Looney",
+    "team": "Golden State Warriors",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Usman Garuba",
+    "team": "Golden State Warriors",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Gui Santos",
+    "team": "Golden State Warriors",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Lester Quinones",
+    "team": "Golden State Warriors",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Jerome Robinson",
+    "team": "Golden State Warriors",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "Pat Spencer",
+    "team": "Golden State Warriors",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Alperen Sengun",
+    "team": "Houston Rockets",
+    "overall": 86,
+    "type": "curr"
+  },
+  {
+    "name": "Jalen Green",
+    "team": "Houston Rockets",
+    "overall": 85,
+    "type": "curr"
+  },
+  {
+    "name": "Fred VanVleet",
+    "team": "Houston Rockets",
+    "overall": 85,
+    "type": "curr"
+  },
+  {
+    "name": "Amen Thompson",
+    "team": "Houston Rockets",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Jabari Smith Jr.",
+    "team": "Houston Rockets",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Tari Eason",
+    "team": "Houston Rockets",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Steven Adams",
+    "team": "Houston Rockets",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Dillon Brooks",
+    "team": "Houston Rockets",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Cam Whitmore",
+    "team": "Houston Rockets",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Jock Landale",
+    "team": "Houston Rockets",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Jeff Green",
+    "team": "Houston Rockets",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Jae'Sean Tate",
+    "team": "Houston Rockets",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Aaron Holiday",
+    "team": "Houston Rockets",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Boban Marjanovic",
+    "team": "Houston Rockets",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Reggie Bullock",
+    "team": "Houston Rockets",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Nate Williams",
+    "team": "Houston Rockets",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Jermaine Samuels Jr.",
+    "team": "Houston Rockets",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Nate Hinton",
+    "team": "Houston Rockets",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Tyrese Haliburton",
+    "team": "Indiana Pacers",
+    "overall": 91,
+    "type": "curr"
+  },
+  {
+    "name": "Pascal Siakam",
+    "team": "Indiana Pacers",
+    "overall": 88,
+    "type": "curr"
+  },
+  {
+    "name": "Myles Turner",
+    "team": "Indiana Pacers",
+    "overall": 85,
+    "type": "curr"
+  },
+  {
+    "name": "Bennedict Mathurin",
+    "team": "Indiana Pacers",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Obi Toppin",
+    "team": "Indiana Pacers",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "T.J. McConnell",
+    "team": "Indiana Pacers",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Aaron Nesmith",
+    "team": "Indiana Pacers",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Jalen Smith",
+    "team": "Indiana Pacers",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Isaiah Jackson",
+    "team": "Indiana Pacers",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Andrew Nembhard",
+    "team": "Indiana Pacers",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Jarace Walker",
+    "team": "Indiana Pacers",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Doug McDermott",
+    "team": "Indiana Pacers",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Ben Sheppard",
+    "team": "Indiana Pacers",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "James Johnson",
+    "team": "Indiana Pacers",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Oscar Tshiebwe",
+    "team": "Indiana Pacers",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "Kendall Brown",
+    "team": "Indiana Pacers",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "Isaiah Wong",
+    "team": "Indiana Pacers",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Quenton Jackson",
+    "team": "Indiana Pacers",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Kawhi Leonard",
+    "team": "Los Angeles Clippers",
+    "overall": 92,
+    "type": "curr"
+  },
+  {
+    "name": "Paul George",
+    "team": "Los Angeles Clippers",
+    "overall": 89,
+    "type": "curr"
+  },
+  {
+    "name": "James Harden",
+    "team": "Los Angeles Clippers",
+    "overall": 85,
+    "type": "curr"
+  },
+  {
+    "name": "Ivica Zubac",
+    "team": "Los Angeles Clippers",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Norman Powell",
+    "team": "Los Angeles Clippers",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Russell Westbrook",
+    "team": "Los Angeles Clippers",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Mason Plumlee",
+    "team": "Los Angeles Clippers",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Terance Mann",
+    "team": "Los Angeles Clippers",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Bones Hyland",
+    "team": "Los Angeles Clippers",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Daniel Theis",
+    "team": "Los Angeles Clippers",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Amir Coffey",
+    "team": "Los Angeles Clippers",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "P.J. Tucker",
+    "team": "Los Angeles Clippers",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Brandon Boston Jr.",
+    "team": "Los Angeles Clippers",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Kobe Brown",
+    "team": "Los Angeles Clippers",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Kai Jones",
+    "team": "Los Angeles Clippers",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Moussa Diabate",
+    "team": "Los Angeles Clippers",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Jordan Miller",
+    "team": "Los Angeles Clippers",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Xavier Moon",
+    "team": "Los Angeles Clippers",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "overall": 96,
+    "type": "curr"
+  },
+  {
+    "name": "Anthony Davis",
+    "team": "Los Angeles Lakers",
+    "overall": 95,
+    "type": "curr"
+  },
+  {
+    "name": "D'Angelo Russell",
+    "team": "Los Angeles Lakers",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Austin Reaves",
+    "team": "Los Angeles Lakers",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Rui Hachimura",
+    "team": "Los Angeles Lakers",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Jarred Vanderbilt",
+    "team": "Los Angeles Lakers",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Christian Wood",
+    "team": "Los Angeles Lakers",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Taurean Prince",
+    "team": "Los Angeles Lakers",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Spencer Dinwiddie",
+    "team": "Los Angeles Lakers",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Gabe Vincent",
+    "team": "Los Angeles Lakers",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Jaxson Hayes",
+    "team": "Los Angeles Lakers",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Max Christie",
+    "team": "Los Angeles Lakers",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Cam Reddish",
+    "team": "Los Angeles Lakers",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Skylar Mays",
+    "team": "Los Angeles Lakers",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Jalen Hood-Schifino",
+    "team": "Los Angeles Lakers",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Harry Giles III",
+    "team": "Los Angeles Lakers",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Maxwell Lewis",
+    "team": "Los Angeles Lakers",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "Colin Castleton",
+    "team": "Los Angeles Lakers",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Ja Morant",
+    "team": "Memphis Grizzlies",
+    "overall": 93,
+    "type": "curr"
+  },
+  {
+    "name": "Jaren Jackson Jr.",
+    "team": "Memphis Grizzlies",
+    "overall": 87,
+    "type": "curr"
+  },
+  {
+    "name": "Desmond Bane",
+    "team": "Memphis Grizzlies",
+    "overall": 85,
+    "type": "curr"
+  },
+  {
+    "name": "Marcus Smart",
+    "team": "Memphis Grizzlies",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "G.G. Jackson",
+    "team": "Memphis Grizzlies",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Brandon Clarke",
+    "team": "Memphis Grizzlies",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Vince Williams Jr.",
+    "team": "Memphis Grizzlies",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Santi Aldama",
+    "team": "Memphis Grizzlies",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Luke Kennard",
+    "team": "Memphis Grizzlies",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Derrick Rose",
+    "team": "Memphis Grizzlies",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Scotty Pippen Jr.",
+    "team": "Memphis Grizzlies",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Jake LaRavia",
+    "team": "Memphis Grizzlies",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Jordan Goodwin",
+    "team": "Memphis Grizzlies",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Lamar Stevens",
+    "team": "Memphis Grizzlies",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Ziaire Williams",
+    "team": "Memphis Grizzlies",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Trey Jemison",
+    "team": "Memphis Grizzlies",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "John Konchar",
+    "team": "Memphis Grizzlies",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Yuta Watanabe",
+    "team": "Memphis Grizzlies",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Jimmy Butler",
+    "team": "Miami Heat",
+    "overall": 93,
+    "type": "curr"
+  },
+  {
+    "name": "Bam Adebayo",
+    "team": "Miami Heat",
+    "overall": 88,
+    "type": "curr"
+  },
+  {
+    "name": "Tyler Herro",
+    "team": "Miami Heat",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Terry Rozier III",
+    "team": "Miami Heat",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Jaime Jaquez Jr.",
+    "team": "Miami Heat",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Duncan Robinson",
+    "team": "Miami Heat",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Kevin Love",
+    "team": "Miami Heat",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Nikola Jovic",
+    "team": "Miami Heat",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Caleb Martin",
+    "team": "Miami Heat",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Josh Richardson",
+    "team": "Miami Heat",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Haywood Highsmith",
+    "team": "Miami Heat",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Delon Wright",
+    "team": "Miami Heat",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Thomas Bryant",
+    "team": "Miami Heat",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Orlando Robinson",
+    "team": "Miami Heat",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Patty Mills",
+    "team": "Miami Heat",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Jamal Cain",
+    "team": "Miami Heat",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Alondes Williams",
+    "team": "Miami Heat",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Cole Swider",
+    "team": "Miami Heat",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "overall": 97,
+    "type": "curr"
+  },
+  {
+    "name": "Damian Lillard",
+    "team": "Milwaukee Bucks",
+    "overall": 89,
+    "type": "curr"
+  },
+  {
+    "name": "Khris Middleton",
+    "team": "Milwaukee Bucks",
+    "overall": 87,
+    "type": "curr"
+  },
+  {
+    "name": "Bobby Portis Jr.",
+    "team": "Milwaukee Bucks",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Brook Lopez",
+    "team": "Milwaukee Bucks",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Patrick Beverley",
+    "team": "Milwaukee Bucks",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Danilo Gallinari",
+    "team": "Milwaukee Bucks",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Malik Beasley",
+    "team": "Milwaukee Bucks",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "MarJon Beauchamp",
+    "team": "Milwaukee Bucks",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Jae Crowder",
+    "team": "Milwaukee Bucks",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Andre Jackson Jr.",
+    "team": "Milwaukee Bucks",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Pat Connaughton",
+    "team": "Milwaukee Bucks",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "TyTy Washington Jr.",
+    "team": "Milwaukee Bucks",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "A.J. Green",
+    "team": "Milwaukee Bucks",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Ryan Rollins",
+    "team": "Milwaukee Bucks",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Thanasis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Chris Livingston",
+    "team": "Milwaukee Bucks",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "Jaylin Galloway",
+    "team": "Milwaukee Bucks",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Anthony Edwards",
+    "team": "Minnesota Timberwolves",
+    "overall": 95,
+    "type": "curr"
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "team": "Minnesota Timberwolves",
+    "overall": 88,
+    "type": "curr"
+  },
+  {
+    "name": "Rudy Gobert",
+    "team": "Minnesota Timberwolves",
+    "overall": 86,
+    "type": "curr"
+  },
+  {
+    "name": "Mike Conley",
+    "team": "Minnesota Timberwolves",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Naz Reid",
+    "team": "Minnesota Timberwolves",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Jaden McDaniels",
+    "team": "Minnesota Timberwolves",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Kyle Anderson",
+    "team": "Minnesota Timberwolves",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Monte Morris",
+    "team": "Minnesota Timberwolves",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Nickeil Alexander-Walker",
+    "team": "Minnesota Timberwolves",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Jordan McLaughlin",
+    "team": "Minnesota Timberwolves",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "T.J. Warren",
+    "team": "Minnesota Timberwolves",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Luka Garza",
+    "team": "Minnesota Timberwolves",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Wendell Moore Jr.",
+    "team": "Minnesota Timberwolves",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Leonard Miller",
+    "team": "Minnesota Timberwolves",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Josh Minott",
+    "team": "Minnesota Timberwolves",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Daishen Nix",
+    "team": "Minnesota Timberwolves",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Jaylen Clark",
+    "team": "Minnesota Timberwolves",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Zion Williamson",
+    "team": "New Orleans Pelicans",
+    "overall": 88,
+    "type": "curr"
+  },
+  {
+    "name": "Brandon Ingram",
+    "team": "New Orleans Pelicans",
+    "overall": 86,
+    "type": "curr"
+  },
+  {
+    "name": "C.J. McCollum",
+    "team": "New Orleans Pelicans",
+    "overall": 85,
+    "type": "curr"
+  },
+  {
+    "name": "Jonas Valanciunas",
+    "team": "New Orleans Pelicans",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Herbert Jones",
+    "team": "New Orleans Pelicans",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Trey Murphy III",
+    "team": "New Orleans Pelicans",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "team": "New Orleans Pelicans",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Jose Alvarado",
+    "team": "New Orleans Pelicans",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Naji Marshall",
+    "team": "New Orleans Pelicans",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Dyson Daniels",
+    "team": "New Orleans Pelicans",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Jordan Hawkins",
+    "team": "New Orleans Pelicans",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Jeremiah Robinson-Earl",
+    "team": "New Orleans Pelicans",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Cody Zeller",
+    "team": "New Orleans Pelicans",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Matt Ryan",
+    "team": "New Orleans Pelicans",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "E.J. Liddell",
+    "team": "New Orleans Pelicans",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Malcolm Hill",
+    "team": "New Orleans Pelicans",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Dereon Seabron",
+    "team": "New Orleans Pelicans",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Jalen Brunson",
+    "team": "New York Knicks",
+    "overall": 94,
+    "type": "curr"
+  },
+  {
+    "name": "Julius Randle",
+    "team": "New York Knicks",
+    "overall": 86,
+    "type": "curr"
+  },
+  {
+    "name": "Josh Hart",
+    "team": "New York Knicks",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "OG Anunoby",
+    "team": "New York Knicks",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Mitchell Robinson",
+    "team": "New York Knicks",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Isaiah Hartenstein",
+    "team": "New York Knicks",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Donte DiVincenzo",
+    "team": "New York Knicks",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Bojan Bogdanovic",
+    "team": "New York Knicks",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Precious Achiuwa",
+    "team": "New York Knicks",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Miles McBride",
+    "team": "New York Knicks",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Alec Burks",
+    "team": "New York Knicks",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Shake Milton",
+    "team": "New York Knicks",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Jericho Sims",
+    "team": "New York Knicks",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Duane Washington Jr.",
+    "team": "New York Knicks",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "DaQuan Jeffries",
+    "team": "New York Knicks",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Mamadi Diakite",
+    "team": "New York Knicks",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "Charles Brown Jr.",
+    "team": "New York Knicks",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Jacob Toppin",
+    "team": "New York Knicks",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Shai Gilgeous-Alexander",
+    "team": "Oklahoma City Thunder",
+    "overall": 97,
+    "type": "curr"
+  },
+  {
+    "name": "Jalen Williams",
+    "team": "Oklahoma City Thunder",
+    "overall": 88,
+    "type": "curr"
+  },
+  {
+    "name": "Chet Holmgren",
+    "team": "Oklahoma City Thunder",
+    "overall": 87,
+    "type": "curr"
+  },
+  {
+    "name": "Josh Giddey",
+    "team": "Oklahoma City Thunder",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Luguentz Dort",
+    "team": "Oklahoma City Thunder",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Aaron Wiggins",
+    "team": "Oklahoma City Thunder",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Isaiah Joe",
+    "team": "Oklahoma City Thunder",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Gordon Hayward",
+    "team": "Oklahoma City Thunder",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Cason Wallace",
+    "team": "Oklahoma City Thunder",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Jaylin Williams",
+    "team": "Oklahoma City Thunder",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Kenrich Williams",
+    "team": "Oklahoma City Thunder",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Lindy Waters III",
+    "team": "Oklahoma City Thunder",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Ousmane Dieng",
+    "team": "Oklahoma City Thunder",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Bismack Biyombo",
+    "team": "Oklahoma City Thunder",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Mike Muscala",
+    "team": "Oklahoma City Thunder",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Keyontae Johnson",
+    "team": "Oklahoma City Thunder",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Olivier Sarr",
+    "team": "Oklahoma City Thunder",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Adam Flagler",
+    "team": "Oklahoma City Thunder",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Paolo Banchero",
+    "team": "Orlando Magic",
+    "overall": 89,
+    "type": "curr"
+  },
+  {
+    "name": "Franz Wagner",
+    "team": "Orlando Magic",
+    "overall": 86,
+    "type": "curr"
+  },
+  {
+    "name": "Jalen Suggs",
+    "team": "Orlando Magic",
+    "overall": 84,
+    "type": "curr"
+  },
+  {
+    "name": "Wendell Carter Jr.",
+    "team": "Orlando Magic",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Cole Anthony",
+    "team": "Orlando Magic",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Jonathan Isaac",
+    "team": "Orlando Magic",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Moritz Wagner",
+    "team": "Orlando Magic",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Markelle Fultz",
+    "team": "Orlando Magic",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Gary Harris",
+    "team": "Orlando Magic",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Anthony Black",
+    "team": "Orlando Magic",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Goga Bitadze",
+    "team": "Orlando Magic",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Joe Ingles",
+    "team": "Orlando Magic",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Caleb Houstan",
+    "team": "Orlando Magic",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Jett Howard",
+    "team": "Orlando Magic",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Admiral Schofield",
+    "team": "Orlando Magic",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Kevon Harris",
+    "team": "Orlando Magic",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "Trevelin Queen",
+    "team": "Orlando Magic",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Joel Embiid",
+    "team": "Philadelphia 76ers",
+    "overall": 98,
+    "type": "curr"
+  },
+  {
+    "name": "Tyrese Maxey",
+    "team": "Philadelphia 76ers",
+    "overall": 89,
+    "type": "curr"
+  },
+  {
+    "name": "Tobias Harris",
+    "team": "Philadelphia 76ers",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Buddy Hield",
+    "team": "Philadelphia 76ers",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Kelly Oubre Jr.",
+    "team": "Philadelphia 76ers",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Paul Reed",
+    "team": "Philadelphia 76ers",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Kyle Lowry",
+    "team": "Philadelphia 76ers",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "De'Anthony Melton",
+    "team": "Philadelphia 76ers",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Cameron Payne",
+    "team": "Philadelphia 76ers",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Robert Covington",
+    "team": "Philadelphia 76ers",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Nicolas Batum",
+    "team": "Philadelphia 76ers",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Kenyon Martin Jr.",
+    "team": "Philadelphia 76ers",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Mo Bamba",
+    "team": "Philadelphia 76ers",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Ricky Council IV",
+    "team": "Philadelphia 76ers",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Jeff Dowtin",
+    "team": "Philadelphia 76ers",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Terquavion Smith",
+    "team": "Philadelphia 76ers",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Kevin Durant",
+    "team": "Phoenix Suns",
+    "overall": 96,
+    "type": "curr"
+  },
+  {
+    "name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "overall": 95,
+    "type": "curr"
+  },
+  {
+    "name": "Bradley Beal",
+    "team": "Phoenix Suns",
+    "overall": 86,
+    "type": "curr"
+  },
+  {
+    "name": "Jusuf Nurkic",
+    "team": "Phoenix Suns",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Grayson Allen",
+    "team": "Phoenix Suns",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Bol Bol",
+    "team": "Phoenix Suns",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Royce O'Neal",
+    "team": "Brooklyn Nets",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Eric Gordon",
+    "team": "Phoenix Suns",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Drew Eubanks",
+    "team": "Phoenix Suns",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Damion Lee",
+    "team": "Phoenix Suns",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Josh Okogie",
+    "team": "Phoenix Suns",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "David Roddy",
+    "team": "Phoenix Suns",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Thaddeus Young",
+    "team": "Phoenix Suns",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Nassir Little",
+    "team": "Phoenix Suns",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Ish Wainright",
+    "team": "Phoenix Suns",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Isaiah Thomas",
+    "team": "Phoenix Suns",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Udoka Azubuike",
+    "team": "Phoenix Suns",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Saben Lee",
+    "team": "Phoenix Suns",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "Deandre Ayton",
+    "team": "Portland Trail Blazers",
+    "overall": 85,
+    "type": "curr"
+  },
+  {
+    "name": "Anfernee Simons",
+    "team": "Portland Trail Blazers",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Jerami Grant",
+    "team": "Portland Trail Blazers",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Robert Williams III",
+    "team": "Portland Trail Blazers",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "team": "Portland Trail Blazers",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Shaedon Sharpe",
+    "team": "Portland Trail Blazers",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Scoot Henderson",
+    "team": "Portland Trail Blazers",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Toumani Camara",
+    "team": "Portland Trail Blazers",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Jabari Walker",
+    "team": "Portland Trail Blazers",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Duop Reath",
+    "team": "Portland Trail Blazers",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Dalano Banton",
+    "team": "Portland Trail Blazers",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Matisse Thybulle",
+    "team": "Portland Trail Blazers",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Kris Murray",
+    "team": "Portland Trail Blazers",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Moses Brown",
+    "team": "Portland Trail Blazers",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Rayan Rupert",
+    "team": "Portland Trail Blazers",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Ashton Hagans",
+    "team": "Portland Trail Blazers",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Justin Minaya",
+    "team": "Portland Trail Blazers",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "Ibou Badji",
+    "team": "Portland Trail Blazers",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Domantas Sabonis",
+    "team": "Sacramento Kings",
+    "overall": 90,
+    "type": "curr"
+  },
+  {
+    "name": "De'Aaron Fox",
+    "team": "Sacramento Kings",
+    "overall": 89,
+    "type": "curr"
+  },
+  {
+    "name": "Keegan Murray",
+    "team": "Sacramento Kings",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Malik Monk",
+    "team": "Sacramento Kings",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Harrison Barnes",
+    "team": "Sacramento Kings",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Kevin Huerter",
+    "team": "Sacramento Kings",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Keon Ellis",
+    "team": "Sacramento Kings",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Trey Lyles",
+    "team": "Sacramento Kings",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "JaVale McGee",
+    "team": "Sacramento Kings",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Sasha Vezenkov",
+    "team": "Sacramento Kings",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Chris Duarte",
+    "team": "Sacramento Kings",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Davion Mitchell",
+    "team": "Sacramento Kings",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Colby Jones",
+    "team": "Sacramento Kings",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Alex Len",
+    "team": "Sacramento Kings",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Kessler Edwards",
+    "team": "Sacramento Kings",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Mason Jones",
+    "team": "Sacramento Kings",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Jalen Slawson",
+    "team": "Sacramento Kings",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Jordan Ford",
+    "team": "Sacramento Kings",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Victor Wembanyama",
+    "team": "San Antonio Spurs",
+    "overall": 89,
+    "type": "curr"
+  },
+  {
+    "name": "Devin Vassell",
+    "team": "San Antonio Spurs",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Keldon Johnson",
+    "team": "San Antonio Spurs",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Tre Jones",
+    "team": "San Antonio Spurs",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Zach Collins",
+    "team": "San Antonio Spurs",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Jeremy Sochan",
+    "team": "San Antonio Spurs",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Malaki Branham",
+    "team": "San Antonio Spurs",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Charles Bassey",
+    "team": "San Antonio Spurs",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Cedi Osman",
+    "team": "San Antonio Spurs",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Sandro Mamukelashvili",
+    "team": "San Antonio Spurs",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Julian Champagnie",
+    "team": "San Antonio Spurs",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Blake Wesley",
+    "team": "San Antonio Spurs",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Dominick Barlow",
+    "team": "San Antonio Spurs",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Devonte' Graham",
+    "team": "San Antonio Spurs",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Sidy Cissoko",
+    "team": "San Antonio Spurs",
+    "overall": 71,
+    "type": "curr"
+  },
+  {
+    "name": "David Duke Jr.",
+    "team": "San Antonio Spurs",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Raiquan Gray",
+    "team": "San Antonio Spurs",
+    "overall": 69,
+    "type": "curr"
+  },
+  {
+    "name": "Jamaree Bouyea",
+    "team": "San Antonio Spurs",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Scottie Barnes",
+    "team": "Toronto Raptors",
+    "overall": 85,
+    "type": "curr"
+  },
+  {
+    "name": "R.J. Barrett",
+    "team": "Toronto Raptors",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Immanuel Quickley",
+    "team": "Toronto Raptors",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Jakob Poeltl",
+    "team": "Toronto Raptors",
+    "overall": 82,
+    "type": "curr"
+  },
+  {
+    "name": "Kelly Olynyk",
+    "team": "Toronto Raptors",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Gary Trent Jr.",
+    "team": "Toronto Raptors",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Bruce Brown",
+    "team": "Toronto Raptors",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Gradey Dick",
+    "team": "Toronto Raptors",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Jordan Nwora",
+    "team": "Toronto Raptors",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Chris Boucher",
+    "team": "Toronto Raptors",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Ochai Agbaji",
+    "team": "Toronto Raptors",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Jalen McDaniels",
+    "team": "Toronto Raptors",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Javon Freeman-Liberty",
+    "team": "Toronto Raptors",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Garrett Temple",
+    "team": "Toronto Raptors",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Malik Williams",
+    "team": "Toronto Raptors",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "D.J. Carton",
+    "team": "Toronto Raptors",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Mouhamadou Gueye",
+    "team": "Toronto Raptors",
+    "overall": 67,
+    "type": "curr"
+  },
+  {
+    "name": "Lauri Markkanen",
+    "team": "Utah Jazz",
+    "overall": 86,
+    "type": "curr"
+  },
+  {
+    "name": "Collin Sexton",
+    "team": "Utah Jazz",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Walker Kessler",
+    "team": "Utah Jazz",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "John Collins",
+    "team": "Utah Jazz",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Keyonte George",
+    "team": "Utah Jazz",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Jordan Clarkson",
+    "team": "Utah Jazz",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Taylor Hendricks",
+    "team": "Utah Jazz",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Talen Horton-Tucker",
+    "team": "Utah Jazz",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Kris Dunn",
+    "team": "Utah Jazz",
+    "overall": 76,
+    "type": "curr"
+  },
+  {
+    "name": "Darius Bazley",
+    "team": "Utah Jazz",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Omer Yurtseven",
+    "team": "Utah Jazz",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Kenneth Lofton Jr.",
+    "team": "Utah Jazz",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Brice Sensabaugh",
+    "team": "Utah Jazz",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Kira Lewis Jr.",
+    "team": "Utah Jazz",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Luka Samanic",
+    "team": "Utah Jazz",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Jason Preston",
+    "team": "Utah Jazz",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Johnny Juzang",
+    "team": "Utah Jazz",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Micah Potter",
+    "team": "Utah Jazz",
+    "overall": 68,
+    "type": "curr"
+  },
+  {
+    "name": "Kyle Kuzma",
+    "team": "Washington Wizards",
+    "overall": 83,
+    "type": "curr"
+  },
+  {
+    "name": "Deni Avdija",
+    "team": "Washington Wizards",
+    "overall": 81,
+    "type": "curr"
+  },
+  {
+    "name": "Jordan Poole",
+    "team": "Washington Wizards",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Tyus Jones",
+    "team": "Washington Wizards",
+    "overall": 80,
+    "type": "curr"
+  },
+  {
+    "name": "Corey Kispert",
+    "team": "Washington Wizards",
+    "overall": 79,
+    "type": "curr"
+  },
+  {
+    "name": "Marvin Bagley III",
+    "team": "Washington Wizards",
+    "overall": 78,
+    "type": "curr"
+  },
+  {
+    "name": "Bilal Coulibaly",
+    "team": "Washington Wizards",
+    "overall": 77,
+    "type": "curr"
+  },
+  {
+    "name": "Richaun Holmes",
+    "team": "Washington Wizards",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Landry Shamet",
+    "team": "Washington Wizards",
+    "overall": 75,
+    "type": "curr"
+  },
+  {
+    "name": "Tristan Vukcevic",
+    "team": "Washington Wizards",
+    "overall": 74,
+    "type": "curr"
+  },
+  {
+    "name": "Jared Butler",
+    "team": "Washington Wizards",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Justin Champagnie",
+    "team": "Washington Wizards",
+    "overall": 73,
+    "type": "curr"
+  },
+  {
+    "name": "Patrick Baldwin Jr.",
+    "team": "Washington Wizards",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Anthony Gill",
+    "team": "Washington Wizards",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Eugene Omoruyi",
+    "team": "Washington Wizards",
+    "overall": 72,
+    "type": "curr"
+  },
+  {
+    "name": "Johnny Davis",
+    "team": "Washington Wizards",
+    "overall": 70,
+    "type": "curr"
+  },
+  {
+    "name": "Jules Bernard",
+    "team": "Washington Wizards",
+    "overall": 70,
+    "type": "curr"
+  }
+]
