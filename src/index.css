@@ -51,7 +51,7 @@ code {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 600px;
+  width: 400px;
   height: 400px;
   margin-bottom: 2rem;
 }
@@ -87,12 +87,27 @@ code {
 }
 
 .arrow-left {
-  margin-right: 50rem;
+  margin-right: 45rem;
 }
 
 .arrow-right {
-  margin-left: 50rem;
+  margin-left: 45rem;
 }
+
+
+/* @media (max-width: 768px) {
+  .arrow {
+    bottom: 1.3rem;
+  }
+
+  .arrow-left {
+    margin-right: 10rem;
+  }
+  
+  .arrow-right {
+    margin-left: 10rem;
+  }
+} */
 
 .indicators {
   display: flex;

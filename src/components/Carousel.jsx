@@ -15,7 +15,7 @@ export default function Carousel() {
   };
 
   return (
-    <div className="carousel container mx-auto">
+    <div className="carousel container mx-auto flex">
       <BsArrowLeftCircleFill className="arrow arrow-left" onClick={prevSlide} />
       {slides.slides.map((item, idx) => {
         return (

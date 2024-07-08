@@ -7,9 +7,9 @@ export default function MainMenu({}) {
   return (
     <main className="flex h-full flex-col justify-center">
       {/*Title*/}
-      <div className="container mx-auto flex flex-col items-center gap-5">
-        <img src={BlacktopText} alt="" className="max-w-xl" />
-        <img src={BlitzText} alt="" className="max-w-lg" />
+      <div className="container mx-auto flex flex-col items-center gap-5 max-w-2xl p-3">
+        <img src={BlacktopText} alt="" className="w-full" />
+        <img src={BlitzText} alt="" className="w-7/12" />
       </div>
       {/*Buttons*/}
       <div className="flex justify-center text-black gap-20 my-20 font-medium flex-wrap">
@@ -18,9 +18,6 @@ export default function MainMenu({}) {
             <h3>QUICK PLAY</h3>
           </button>
         </Link>
-        <button className="menu-btn bg-white p-5 px-10 text-xl">
-          <h3>TOURNAMENT</h3>
-        </button>
       </div>
     </main>
   );

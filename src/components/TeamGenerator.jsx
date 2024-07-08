@@ -37,7 +37,7 @@ export default function TeamGenerator({
 
   const possiblePlayers = allPlayers.filter(fitsQuery);
 
-  const isValidQuery = possiblePlayers.length >= 3;
+  const isValidQuery = possiblePlayers.length >= 6;
 
   return (
     <div className="flex flex-col justify-center">
@@ -68,9 +68,10 @@ export default function TeamGenerator({
         onClose={handleClose}
         aria-labelledby="modal-modal-title"
         aria-describedby="modal-modal-description"
+        className="overflow-auto"
       >
-        <div className="flex h-full flex-col justify-center items-center ">
-          <div className="flex flex-col container justify-center mx-auto bg-white">
+        <div className="flex h-full flex-col justify-center items-center overflow-auto">
+          <div className="flex flex-col container justify-center mx-auto bg-white overflow-auto p-10">
             <PlayerOptions
               size={size}
               formData={formData}

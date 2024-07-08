@@ -50,7 +50,7 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
 
   return (
     <main className="container flex justify-center items-center text-white">
-      <div className="section query">
+      <div className="section query p-3">
         <h3 className="bg-white p-5 px-10 text-xl">QUERY</h3>
         <form onSubmit={validate}>
           <ul className="mt-10">
