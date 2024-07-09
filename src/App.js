@@ -15,14 +15,14 @@ function App() {
           <>
             <Route exact path="/" element={<MainMenu />} />
             <Route exact path="/blacktop-blitz" element={<MainMenu />} />
-            <Route path="/qplay" element={<SizeSelection />} />
-            <Route path="/qplay/1" element={<TeamSelection size={1} />} />
-            <Route path="/qplay/2" element={<TeamSelection size={2} />} />
-            <Route path="/qplay/3" element={<TeamSelection size={3} />} />
-            <Route path="/qplay/4" element={<TeamSelection size={4} />} />
-            <Route path="/qplay/5" element={<TeamSelection size={5} />} />
-            <Route path="/about" element={<About />}/>
-            <Route path="/feedback" element={<Feedback />} />
+            <Route path="/blacktop-blitz/qplay" element={<SizeSelection />} />
+            <Route path="/blacktop-blitz/qplay/1" element={<TeamSelection size={1} />} />
+            <Route path="/blacktop-blitz/qplay/2" element={<TeamSelection size={2} />} />
+            <Route path="/blacktop-blitz/qplay/3" element={<TeamSelection size={3} />} />
+            <Route path="/blacktop-blitz/qplay/4" element={<TeamSelection size={4} />} />
+            <Route path="/blacktop-blitz/qplay/5" element={<TeamSelection size={5} />} />
+            <Route path="/blacktop-blitz/about" element={<About />} />
+            <Route path="/blacktop-blitz/feedback" element={<Feedback />} />
           </>
         </Routes>
       </div>

@@ -24,7 +24,7 @@ export default function Navigation() {
 
   return (
     <nav className="container mx-auto flex items-center justify-between mt-5">
-      <Link to="/" className="shrink-0">
+      <Link to="/blacktop-blitz" className="shrink-0">
         <button className="logo">
           <img src={Logo} alt="Logo" />
         </button>
