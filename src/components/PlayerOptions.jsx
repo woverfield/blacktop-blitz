@@ -18,12 +18,12 @@ export default function PlayerOptions({
   const [teamTwoInner, setTeamTwoInner] = useState([]);
 
   const getOptions = () => {
-    const options = [];
-    for (let i = 0; i < 3; i++) {
+    const options = new Set();
+    while (options.size < 3) {
       const playerIdx = Math.floor(Math.random() * possiblePlayers.length);
-      options.push(possiblePlayers[playerIdx]);
+      options.add(possiblePlayers[playerIdx]);
     }
-    return options;
+    return Array.from(options);
   };
 
   const [p1options, setp1Options] = useState(getOptions());
