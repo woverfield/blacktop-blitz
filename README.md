@@ -9,6 +9,10 @@ Blacktop Blitz is a React application designed to help NBA 2K players quickly ge
 - **Customizable Draft Settings:** Adjust draft parameters such as team size and player pool.
 - **Responsive Design:** Works seamlessly on desktop and mobile devices.
 
+## Scripts
+
+There are some web scraping scripts that I made to get player data: https://github.com/woverfield/2k-web-scraping. I also included the files in this repo alongside with some other scripts to update the players and combine the 3 rosters (current, classic, all-time) into one json file.
+
 ## Installation
 
 To run Blacktop Blitz locally, follow these steps:
