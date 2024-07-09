@@ -32,7 +32,9 @@ const main = async () => {
 
     for (const { scriptPath, outputPath } of scripts) {
       const scriptOutput = await runScript(scriptPath);
-      await writeToJson(outputPath, scriptOutput);
+      if (scriptOutput.length > 1) {
+        await writeToJson(outputPath, scriptOutput);
+      }
     }
   } catch (error) {
     console.error(`Error during execution: ${error}`);

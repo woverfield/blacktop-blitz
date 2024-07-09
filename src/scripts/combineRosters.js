@@ -1,19 +1,5 @@
 const { exec } = require("child_process");
 
-const runScript = (scriptPath) => {
-  return new Promise((resolve, reject) => {
-    exec(`node ${scriptPath}`, (error, stdout, stderr) => {
-      if (error) {
-        console.error(`Error executing script: ${error}`);
-        reject(error);
-      }
-      resolve(stdout.trim());
-    });
-  });
-};
-
-runScript("./updatePlayers.js");
-
 const classplayersJSON = require("../data/classplayers.json");
 const alltplayersJSON = require("../data/alltplayers.json");
 const currplayersJSON = require("../data/currplayers.json");

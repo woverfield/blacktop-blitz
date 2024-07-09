@@ -1,15 +1,61 @@
-import React from 'react'
+import React from "react";
 
-export default function PlayerCard({player, finalized}) {
+export default function PlayerCard({ player, finalized }) {
+  const getCardType = (overall) => {
+    if (overall == 99) {
+      return "overall-box dark-matter";
+    } else if (overall >= 97) {
+      return "overall-box galaxy-opal";
+    } else if (overall >= 95) {
+      return "overall-box pink-diamond";
+    } else if (overall >= 92) {
+      return "overall-box diamond";
+    } else if (overall >= 90) {
+      return "overall-box amethyst";
+    } else if (overall >= 87) {
+      return "overall-box ruby";
+    } else if (overall >= 84) {
+      return "overall-box sapphire";
+    } else if (overall >= 80) {
+      return "overall-box emerald";
+    } else if (overall >= 75) {
+      return "overall-box gold";
+    } else if (overall >= 70) {
+      return "overall-box silver";
+    } else {
+      return "overall-box bronze";
+    }
+  };
+
   return (
-    <div className={finalized === true ? 'finalized player-card flex flex-col h-72 w-44 justify-between' : 'player-card flex flex-col h-72 w-44 justify-between'} style={player.img ? {backgroundImage: `url(${player.img})`} : null}>
-        <header className='p-header'>
-            <p className='text-xl font-bold'>{player.overall}</p>
-        </header>
-        <footer className='p-footer'>
-            <p className='text-lg font-bold'>{player.name}</p>
-            <p className='text-sm'>{player.team}</p>
-        </footer>
+    <div
+      className={
+        finalized === true
+          ? "finalized player-card flex flex-col h-72 w-44 justify-between"
+          : "player-card flex flex-col h-72 w-44 justify-between"
+      }
+      style={
+        player.img
+          ? { backgroundImage: `url(${player.img})` }
+          : { backgroundColor: "black" }
+      }
+    >
+      <header className="p-header">
+        <div className="flex flex-col items-end gap-2">
+          <div className={getCardType(player.overall)}>
+            <p className="text-xl font-bold">{player.overall}</p>
+          </div>
+          <div className="-mr-1">
+            <img className="w-12" src={player.teamImg} alt="" />
+          </div>
+        </div>
+      </header>
+      <footer className="p-footer">
+        <div className="footer-text">
+          <p className="text-lg font-bold">{player.name}</p>
+          <p className="text-sm">{player.team}</p>
+        </div>
+      </footer>
     </div>
-  )
+  );
 }
