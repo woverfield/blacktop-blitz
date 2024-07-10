@@ -207,6 +207,19 @@ code {
   }
 }
 
+.p-footer-photo {
+  border-radius: 0 0 1rem 1rem;
+  background: rgba(0, 0, 0, 0.5);
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-bottom: 0.5rem;
+  p {
+    color: white;
+    text-align: center;
+    opacity: none;
+  }
+}
+
 .player-card:hover {
   filter: none;
   scale: 1.05;
@@ -215,6 +228,10 @@ code {
 .focus-btn {
   .player-card {
     background-color: grey;
+    border: 2px solid red;
+  }
+  .player-card-photo {
+    border: 2px solid red;
   }
 }
 

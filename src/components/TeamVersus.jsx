@@ -9,7 +9,11 @@ export default function TeamVersus({ teamOne, teamTwo }) {
       <div className="row flex items-center justify-end">
         <div className="flex justify-center items-center gap-10 flex-wrap">
           {teamOne.map((player, idx) => {
-            return <PlayerCardNoImage player={player} />;
+            return player.playerImg ? (
+              <PlayerCard player={player} />
+            ) : (
+              <PlayerCardNoImage player={player} />
+            );
           })}
         </div>
         <h1 className="text-5xl ml-5">TEAM ONE</h1>
@@ -19,8 +23,13 @@ export default function TeamVersus({ teamOne, teamTwo }) {
         <h1 className="text-5xl mr-5">TEAM TWO</h1>
         <div className="row flex justify-center items-center gap-10 flex-wrap">
           {teamTwo.map((player, idx) => {
-            return <PlayerCardNoImage player={player} />;
+            return player.playerImg ? (
+              <PlayerCard player={player} />
+            ) : (
+              <PlayerCardNoImage player={player} />
+            );
           })}
+          ;
         </div>
       </div>
       <div className="flex justify-center items-center">
