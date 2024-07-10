@@ -101,31 +101,35 @@ export default function PlayerOptions({
           </ul>
         </div>
         <div className="flex flex-col items-center">
-          <h2 className="options-text text-center">
-            ROUND {round} {round === size && "(FINAL)"}
-          </h2>
-          <p className="text-center">Each Person Draft One Player</p>
-          <button className="mt-10" onClick={refreshOptions}>
-            <RefreshIcon fontSize="large" />
-          </button>
-          {round < size && p1Ready === true && p2Ready === true && (
-            <button
-              className="next-btn bg-black p-5 px-10 text-xl my-5 text-white self-center"
-              type="submit"
-              onClick={handleNext}
-            >
-              NEXT
+          <div>
+            <h2 className="options-text text-center">
+              ROUND {round} {round === size && "(FINAL)"}
+            </h2>
+            <p className="text-center">Each Person Draft One Player</p>
+          </div>
+          <div className="flex flex-col h-full justify-between">
+            <button className="mt-10" onClick={refreshOptions}>
+              <RefreshIcon fontSize="large" />
             </button>
-          )}
-          {round === size && p1Ready === true && p2Ready === true && (
-            <button
-              className="done-btn bg-black p-5 px-10 text-xl my-5 text-white self-center"
-              type="submit"
-              onClick={handleDone}
-            >
-              DONE
-            </button>
-          )}
+            {round < size && p1Ready === true && p2Ready === true && (
+              <button
+                className="next-btn bg-black p-5 px-10 text-xl my-5 text-white self-center"
+                type="submit"
+                onClick={handleNext}
+              >
+                NEXT
+              </button>
+            )}
+            {round === size && p1Ready === true && p2Ready === true && (
+              <button
+                className="done-btn bg-black p-5 px-10 text-xl my-5 text-white self-center"
+                type="submit"
+                onClick={handleDone}
+              >
+                DONE
+              </button>
+            )}
+          </div>
         </div>
         <div className="pt-10">
           <h2 className="text-center options-text">Player 2 Options:</h2>

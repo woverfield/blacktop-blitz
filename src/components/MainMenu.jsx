@@ -14,7 +14,7 @@ export default function MainMenu({}) {
       {/*Buttons*/}
       <div className="flex justify-center text-black gap-20 my-20 font-medium flex-wrap">
         <Link to="/blacktop-blitz/qplay">
-          <button className="menu-btn bg-white p-5 px-28 mx-2 text-xl rounded-2xl">
+          <button className="menu-btn bg-white py-5 px-28 mx-2 text-xl rounded-2xl">
             <h3>QUICK PLAY</h3>
           </button>
         </Link>

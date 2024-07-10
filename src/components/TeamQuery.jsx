@@ -52,7 +52,7 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
     <main className="container flex justify-center items-center text-white">
       <div className="section query p-3">
         <h3 className="bg-white p-5 px-10 text-xl rounded-2xl">QUERY</h3>
-        <form onSubmit={validate}>
+        <form onSubmit={validate} autoComplete="off">
           <ul className="mt-10">
             <li>
               <label>Min Overall:</label>
