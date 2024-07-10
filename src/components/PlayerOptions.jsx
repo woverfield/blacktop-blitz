@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import RefreshIcon from "@mui/icons-material/Refresh";
 import PlayerCard from "./PlayerCard";
+import PlayerCardNoImage from "./PlayerCardNoImage";
 
 export default function PlayerOptions({
   size,
@@ -94,7 +95,11 @@ export default function PlayerOptions({
                   }
                   onClick={() => handleChange(1, idx + 1)}
                 >
+                  {player.playerImg ? (
                   <PlayerCard player={player} />
+                ) : (
+                  <PlayerCardNoImage player={player} />
+                )}
                 </button>
               );
             })}
@@ -143,7 +148,11 @@ export default function PlayerOptions({
                   }
                   onClick={() => handleChange(2, idx + 1)}
                 >
+                  {player.playerImg ? (
                   <PlayerCard player={player} />
+                ) : (
+                  <PlayerCardNoImage player={player} />
+                )}
                 </button>
               );
             })}

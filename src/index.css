@@ -162,26 +162,6 @@ code {
   }
 }
 
-.focus-btn {
-  .MuiPaper-root {
-    border: 2px solid black;
-  }
-  img {
-    filter: none;
-  }
-}
-
-.spotify-btn {
-  margin: 1rem;
-  padding: 1rem;
-  border-radius: 1rem;
-}
-
-.spotify-btn:hover {
-  background-color: black;
-  color: white;
-}
-
 .menu-btn:hover {
   background-color: black;
   color: white;
@@ -202,6 +182,8 @@ code {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-color: white;
+  border: 1px solid black;
   .p-header {
     align-self: flex-end;
     margin-right: 0.5rem;
@@ -212,13 +194,14 @@ code {
   }
   .p-footer {
     border-radius: 0 0 1rem 1rem;
+    border: 1px solid black;
     background: rgba(204, 204, 204, 0.5);
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     padding-bottom: 0.5rem;
     p {
-      color: white;
-      text-align: left;
+      color: black;
+      text-align: center;
       opacity: none;
     }
   }
@@ -231,8 +214,7 @@ code {
 
 .focus-btn {
   .player-card {
-    border: 2px solid rgb(226, 78, 78);
-    filter: none;
+    background-color: grey;
   }
 }
 

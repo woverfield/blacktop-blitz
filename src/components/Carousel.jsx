@@ -19,7 +19,7 @@ export default function Carousel() {
       <BsArrowLeftCircleFill className="arrow arrow-left" onClick={prevSlide} />
       {slides.slides.map((item, idx) => {
         return (
-          <Link to={(idx + 1).toString()} className="flex justify-center">
+          <Link key={idx} to={(idx + 1).toString()} className="flex justify-center">
             <div className={
                   slide === idx
                     ? "ps-" + (idx + 1) + " player-slide"
