@@ -43,7 +43,7 @@ export default function TeamGenerator({
     <div className="flex flex-col justify-center">
       {isValidQuery ? (
         <button
-          className="submit-btn bg-black p-5 px-10 text-xl flex items-center justify-center"
+          className="submit-btn bg-black p-5 px-10 text-xl flex items-center justify-center rounded-2xl"
           type="submit"
           onClick={handleOpen}
         >

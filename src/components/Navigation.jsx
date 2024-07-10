@@ -15,8 +15,8 @@ export default function Navigation() {
   };
 
   useEffect(() => {
-    handleResize(); 
-    window.addEventListener("resize", handleResize); 
+    handleResize();
+    window.addEventListener("resize", handleResize);
     return () => {
       window.removeEventListener("resize", handleResize);
     };
@@ -33,12 +33,20 @@ export default function Navigation() {
         <MobileMenu />
       ) : (
         <ul className="flex gap-10 text-white text-3xl font-medium">
-          <li className="p-2">
-            <h3>ABOUT</h3>
-          </li>
-          <li className="p-2">
-            <h3>FEEDBACK</h3>
-          </li>
+          <Link to="/blacktop-blitz/about">
+            <button>
+              <li className="p-2">
+                <h3>ABOUT</h3>
+              </li>
+            </button>
+          </Link>
+          <Link to="/blacktop-blitz/feedback">
+            <button>
+              <li className="p-2">
+                <h3>FEEDBACK</h3>
+              </li>
+            </button>
+          </Link>
         </ul>
       )}
     </nav>

@@ -23,9 +23,9 @@ export default function TeamVersus({ teamOne, teamTwo }) {
         </div>
       </div>
       <div className="flex justify-center items-center">
-        <Link to="/">
+        <Link to="/blacktop-blitz/qplay">
           <button
-            className="done-btn bg-white rounded-md p-5 px-10 text-xl my-5 text-black self-center"
+            className="done-btn bg-white rounded-2xl p-5 px-10 text-xl my-5 text-black self-center"
             type="submit"
           >
             PLAY AGAIN?
