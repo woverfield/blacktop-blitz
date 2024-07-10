@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function PlayerCard({ player }) {
+export default function PlayerCardNoImage({ player }) {
   const getCardType = (overall) => {
     if (overall == 99) {
       return "overall-box dark-matter";
@@ -28,26 +28,23 @@ export default function PlayerCard({ player }) {
   };
 
   return (
-    <div
-      className={"player-card player-card-photo flex flex-col h-72 w-44 justify-between"}
-      style={{ backgroundImage: `url(${player.playerImg})` }}
-    >
-      <header className="p-header">
-        <div className="flex flex-col items-end gap-2">
-          <div className={getCardType(player.overall)}>
-            <p className="text-xl font-bold">{player.overall}</p>
+    <div className={"player-card flex flex-col justify-center gap-2"}>
+        <header className="p-header w-full flex justify-center">
+          <div className="flex items-center gap-2">
+            <div className={getCardType(player.overall)}>
+              <p className="text-xl font-bold">{player.overall}</p>
+            </div>
+            <div className="-mr-1">
+              <img className="w-12" src={player.teamImg} alt="" />
+            </div>
           </div>
-          <div className="-mr-1">
-            <img className="w-12" src={player.teamImg} alt="" />
+        </header>
+        <footer className="p-footer">
+          <div className="footer-text">
+            <p className="text-lg font-bold">{player.name}</p>
+            <p className="text-sm">{player.team}</p>
           </div>
-        </div>
-      </header>
-      <footer className="p-footer-photo">
-        <div className="footer-text">
-          <p className="text-lg font-bold">{player.name}</p>
-          <p className="text-sm">{player.team}</p>
-        </div>
-      </footer>
+        </footer>
     </div>
   );
 }

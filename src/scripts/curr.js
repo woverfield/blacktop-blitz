@@ -43,6 +43,7 @@ const scrapeTeam = async (url, teamName, teamImg, players) => {
         overall: parseInt(playerOvr),
         type: "curr",
         teamImg: teamImg,
+        playerImg: '',
       });
     }
   });
