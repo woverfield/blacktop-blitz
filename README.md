@@ -2,6 +2,8 @@
 
 Blacktop Blitz is a React application designed to help NBA 2K players quickly generate and draft teams for the Blacktop game mode. Whether you're playing solo or with friends, Blacktop Blitz makes team creation fast and efficient.
 
+Site: https://woverfield.github.io/blacktop-blitz/
+
 ## Features
 
 - **Random Team Generation:** Generate random teams based on selected criteria.
