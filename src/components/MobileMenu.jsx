@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { IoMenu } from "react-icons/io5";
-import { IoMdClose } from "react-icons/io";
 
 export default function MobileMenu() {
   const [isOpen, setIsOpen] = useState(false);
