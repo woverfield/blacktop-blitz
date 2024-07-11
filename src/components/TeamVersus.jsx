@@ -18,7 +18,7 @@ export default function TeamVersus({ teamOne, teamTwo }) {
   return (
     <main className="container mx-auto h-full flex flex-col justify-evenly text-white">
       <div className="row flex items-center justify-end">
-        <div className="flex flex-row-reverse items-center gap-10 flex-wrap">
+        <div className="flex flex-row-reverse justify-center items-center gap-10 flex-wrap">
           {teamOne.map((player, idx) => (
             <motion.div
               key={idx}
