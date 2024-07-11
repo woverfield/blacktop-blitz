@@ -81,7 +81,6 @@ code {
 }
 
 .arrow {
-  position: absolute;
   width: 2rem;
   height: 2rem;
   color: white;
@@ -92,32 +91,8 @@ code {
   cursor: pointer;
 }
 
-.arrow-left {
-  margin-right: 45rem;
-}
-
-.arrow-right {
-  margin-left: 45rem;
-}
-
-@media (max-width: 768px) {
-  .arrow {
-    bottom: 1.3rem;
-  }
-
-  .arrow-left {
-    margin-right: 10rem;
-  }
-  
-  .arrow-right {
-    margin-left: 10rem;
-  }
-}
-
 .indicators {
   display: flex;
-  position: absolute;
-  bottom: 1rem;
   background-color: white;
   border: 1px solid white;
   padding: 1rem;
@@ -160,6 +135,14 @@ code {
   img {
     filter: none;
   }
+}
+
+.carousel-nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  position: absolute;
+  bottom: 7rem;
 }
 
 .menu-btn:hover {

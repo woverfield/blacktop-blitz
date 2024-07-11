@@ -15,16 +15,21 @@ export default function Carousel() {
   };
 
   return (
-    <div className="carousel container mx-auto flex">
-      <BsArrowLeftCircleFill className="arrow arrow-left" onClick={prevSlide} />
+    <div className="carousel container mx-auto flex flex-col">
       {slides.slides.map((item, idx) => {
         return (
-          <Link key={idx} to={(idx + 1).toString()} className="flex justify-center">
-            <div className={
-                  slide === idx
-                    ? "ps-" + (idx + 1) + " player-slide"
-                    : "ps-" + (idx + 1) + " player-slide hidden"
-                }>
+          <Link
+            key={idx}
+            to={(idx + 1).toString()}
+            className="flex justify-center"
+          >
+            <div
+              className={
+                slide === idx
+                  ? "ps-" + (idx + 1) + " player-slide"
+                  : "ps-" + (idx + 1) + " player-slide hidden"
+              }
+            >
               <h1
                 className={
                   slide === idx
@@ -56,23 +61,30 @@ export default function Carousel() {
           </Link>
         );
       })}
-      <BsArrowRightCircleFill
-        className="arrow arrow-right"
-        onClick={nextSlide}
-      />
-      <span className="indicators">
-        {slides.slides.map((_, idx) => {
-          return (
-            <button
-              key={idx}
-              onClick={() => setSlide(idx)}
-              className={
-                slide === idx ? "indicator" : "indicator indicator-inactive"
-              }
-            ></button>
-          );
-        })}
-      </span>
+
+      <div className="carousel-nav">
+        <BsArrowLeftCircleFill
+          className="arrow arrow-left"
+          onClick={prevSlide}
+        />
+        <span className="indicators">
+          {slides.slides.map((_, idx) => {
+            return (
+              <button
+                key={idx}
+                onClick={() => setSlide(idx)}
+                className={
+                  slide === idx ? "indicator" : "indicator indicator-inactive"
+                }
+              ></button>
+            );
+          })}
+        </span>
+        <BsArrowRightCircleFill
+          className="arrow arrow-right"
+          onClick={nextSlide}
+        />
+      </div>
     </div>
   );
 }
