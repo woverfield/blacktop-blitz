@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import TeamGenerator from "./TeamGenerator";
+import { motion } from "framer-motion";
 
 export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
   const [formInfo, setFormInfo] = useState(new Map());
@@ -50,64 +51,70 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
 
   return (
     <main className="container flex justify-center items-center text-white">
-      <div className="section query p-3">
-        <h3 className="bg-white p-5 px-10 text-xl rounded-2xl">QUERY</h3>
-        <form onSubmit={validate} autoComplete="off">
-          <ul className="mt-10">
-            <li>
-              <label>Min Overall:</label>
-              <input
-                name="min"
-                type="text"
-                className="text-black"
-                placeholder="60"
-                required
-              />
-            </li>
-            <li>
-              <label>Max Overall:</label>
-              <input
-                name="max"
-                type="text"
-                className="text-black"
-                placeholder="99"
-                required
-              />
-            </li>
-            <li>
-              <label>Current</label>
-              <input name="curr" type="checkbox" className="text-black" />
-            </li>
-            <li>
-              <label>Classic</label>
-              <input name="class" type="checkbox" className="text-black" />
-            </li>
-            <li>
-              <label>All-Time</label>
-              <input name="allt" type="checkbox" className="text-black" />
-            </li>
-          </ul>
-          <div className="flex flex-col justify-center">
-            {formSubmitted === false && (
-              <button
-                className="form-submit submit-btn bg-white p-5 px-10 text-xl text-black rounded-2xl"
-                type="submit"
-              >
-                SUBMIT
-              </button>
-            )}
-          </div>
-        </form>
-        {formSubmitted === true && (
-          <TeamGenerator
-            formData={formInfo}
-            size={size}
-            handleReset={() => handleReset()}
-            setTeamOne={setTeamOne}
-            setTeamTwo={setTeamTwo}
-          />
-        )}
-      </div>
+      <motion.div
+        initial={{ opacity: 0, scale: 0.5 }}
+        animate={{ opacity: 1, scale: 1 }}
+        transition={{ duration: 0.5 }}
+      >
+        <div className="section query p-3">
+          <h3 className="bg-white p-5 px-10 text-xl rounded-2xl">QUERY</h3>
+          <form onSubmit={validate} autoComplete="off">
+            <ul className="mt-10">
+              <li>
+                <label>Min Overall:</label>
+                <input
+                  name="min"
+                  type="text"
+                  className="text-black"
+                  placeholder="60"
+                  required
+                />
+              </li>
+              <li>
+                <label>Max Overall:</label>
+                <input
+                  name="max"
+                  type="text"
+                  className="text-black"
+                  placeholder="99"
+                  required
+                />
+              </li>
+              <li>
+                <label>Current</label>
+                <input name="curr" type="checkbox" className="text-black" />
+              </li>
+              <li>
+                <label>Classic</label>
+                <input name="class" type="checkbox" className="text-black" />
+              </li>
+              <li>
+                <label>All-Time</label>
+                <input name="allt" type="checkbox" className="text-black" />
+              </li>
+            </ul>
+            <div className="flex flex-col justify-center">
+              {formSubmitted === false && (
+                <button
+                  className="form-submit submit-btn bg-white p-5 px-10 text-xl text-black rounded-2xl"
+                  type="submit"
+                >
+                  SUBMIT
+                </button>
+              )}
+            </div>
+          </form>
+          {formSubmitted === true && (
+            <TeamGenerator
+              formData={formInfo}
+              size={size}
+              handleReset={() => handleReset()}
+              setTeamOne={setTeamOne}
+              setTeamTwo={setTeamTwo}
+            />
+          )}
+        </div>
+      </motion.div>
     </main>
   );
 }

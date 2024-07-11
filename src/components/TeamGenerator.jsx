@@ -3,6 +3,7 @@ import Modal from "@mui/material/Modal";
 import { GrNext } from "react-icons/gr";
 import PlayerOptions from "./PlayerOptions";
 import allPlayers from "../data/players.json";
+import { motion } from "framer-motion";
 
 export default function TeamGenerator({
   size,
@@ -40,48 +41,59 @@ export default function TeamGenerator({
   const isValidQuery = possiblePlayers.length >= 6;
 
   return (
-    <div className="flex flex-col justify-center">
-      {isValidQuery ? (
-        <button
-          className="submit-btn bg-black p-5 px-10 text-xl flex items-center justify-center rounded-2xl"
-          type="submit"
-          onClick={handleOpen}
-        >
-          CONTINUE
-          <GrNext />
-        </button>
-      ) : (
-        <>
-          
+    <motion.div
+      initial={{ opacity: 0, scale: 0.5 }}
+      animate={{ opacity: 1, scale: 1 }}
+      transition={{ duration: 0.5 }}
+    >
+      <div className="flex flex-col justify-center">
+        {isValidQuery ? (
           <button
-            className="reset-btn bg-red-700 p-5 px-10 text-xl"
-            type="button"
-            onClick={() => handleReset()}
+            className="submit-btn bg-black p-5 px-10 text-xl flex items-center justify-center rounded-2xl"
+            type="submit"
+            onClick={handleOpen}
           >
-            <p>Query did not return enough players</p>
-            <p>CLICK TO RESET</p>
+            CONTINUE
+            <GrNext />
           </button>
-        </>
-      )}
-      <Modal
-        open={open}
-        onClose={handleClose}
-        aria-labelledby="modal-modal-title"
-        aria-describedby="modal-modal-description"
-        className="overflow-auto"
-      >
-        <div className="flex h-full flex-col justify-center items-center overflow-auto">
-          <div className="flex flex-col container justify-center mx-auto bg-white overflow-auto p-10">
-            <PlayerOptions
-              size={size}
-              formData={formData}
-              possiblePlayers={possiblePlayers}
-              setTeamOne={setTeamOne}
-              setTeamTwo={setTeamTwo}
-            />
+        ) : (
+          <>
+            <button
+              className="reset-btn bg-red-700 p-5 px-10 text-xl"
+              type="button"
+              onClick={() => handleReset()}
+            >
+              <p>Query did not return enough players</p>
+              <p>CLICK TO RESET</p>
+            </button>
+          </>
+        )}
+        <Modal
+          open={open}
+          onClose={handleClose}
+          aria-labelledby="modal-modal-title"
+          aria-describedby="modal-modal-description"
+          className="overflow-auto"
+        >
+          <div className="flex h-full flex-col justify-center items-center overflow-auto">
+            <motion.div
+              initial={{ opacity: 0, scale: 0.5 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ duration: 0.5 }}
+            >
+              <div className="flex flex-col container justify-center mx-auto bg-white overflow-auto p-10">
+                <PlayerOptions
+                  size={size}
+                  formData={formData}
+                  possiblePlayers={possiblePlayers}
+                  setTeamOne={setTeamOne}
+                  setTeamTwo={setTeamTwo}
+                />
+              </div>
+            </motion.div>
           </div>
-        </div>
-      </Modal>
-    </div>
+        </Modal>
+      </div>
+    </motion.div>
   );
 }

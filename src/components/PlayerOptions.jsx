@@ -118,7 +118,7 @@ export default function PlayerOptions({
             </button>
             {round < size && p1Ready === true && p2Ready === true && (
               <button
-                className="next-btn bg-black p-5 px-10 text-xl my-5 text-white self-center"
+                className="next-btn bg-black p-5 px-10 text-xl my-5 text-white self-center rounded-2xl"
                 type="submit"
                 onClick={handleNext}
               >
@@ -127,7 +127,7 @@ export default function PlayerOptions({
             )}
             {round === size && p1Ready === true && p2Ready === true && (
               <button
-                className="done-btn bg-black p-5 px-10 text-xl my-5 text-white self-center"
+                className="done-btn bg-black p-5 px-10 text-xl my-5 text-white self-center rounded-2xl"
                 type="submit"
                 onClick={handleDone}
               >
