@@ -2,12 +2,18 @@ import React, { useState } from "react";
 import slides from "../data/carousel.json";
 import { BsArrowLeftCircleFill, BsArrowRightCircleFill } from "react-icons/bs";
 import { Link } from "react-router-dom";
+import { motion } from "framer-motion";
+
+const variants = {
+  visible: { opacity: 1, x: 0 },
+  hidden: { opacity: 0, x: "-100%" },
+};
 
 export default function Carousel() {
   const [slide, setSlide] = useState(0);
 
   const nextSlide = () => {
-    setSlide(slide === slides.slides.length - 1 ? 0 : slide + 1);
+    setSlide((slide + 1) % slides.slides.length);
   };
 
   const prevSlide = () => {
@@ -16,51 +22,37 @@ export default function Carousel() {
 
   return (
     <div className="carousel container mx-auto flex flex-col">
-      {slides.slides.map((item, idx) => {
-        return (
-          <Link
-            key={idx}
-            to={(idx + 1).toString()}
-            className="flex justify-center"
+      {slides.slides.map((item, idx) => (
+        <div
+          key={idx}
+          className={
+            slide === idx
+              ? `ps-${idx + 1} player-slide`
+              : `ps-${idx + 1} player-slide hidden`
+          }
+        >
+          <motion.div
+            className="motion-container"
+            initial="hidden"
+            animate={slide === idx ? "visible" : "hidden"}
+            variants={variants}
+            transition={{ duration: 0.5 }}
           >
-            <div
-              className={
-                slide === idx
-                  ? "ps-" + (idx + 1) + " player-slide"
-                  : "ps-" + (idx + 1) + " player-slide hidden"
-              }
-            >
-              <h1
-                className={
-                  slide === idx
-                    ? "carousel-heading bg-white p-3 px-10 text-3xl"
-                    : "hidden"
-                }
-              >
+            <Link to={(idx + 1).toString()} className="flex flex-col justify-center">
+              <h1 className="carousel-heading bg-white p-3 px-10 text-3xl">
                 {idx + 1} vs. {idx + 1}
               </h1>
-              <button
-                className={
-                  slide === idx
-                    ? "btn-" + (idx + 1) + " size-btn"
-                    : "btn-" + (idx + 1) + " size-btn hidden"
-                }
-              >
+              <button className={`btn-${idx + 1} size-btn`}>
                 <img
                   src={item.src}
                   alt={item.alt}
-                  key={idx}
-                  className={
-                    slide === idx
-                      ? "slide-" + (idx + 1) + " slide"
-                      : "slide-" + (idx + 1) + " slide hidden"
-                  }
+                  className={`slide-${idx + 1} slide`}
                 />
               </button>
-            </div>
-          </Link>
-        );
-      })}
+            </Link>
+          </motion.div>
+        </div>
+      ))}
 
       <div className="carousel-nav">
         <BsArrowLeftCircleFill
@@ -68,17 +60,15 @@ export default function Carousel() {
           onClick={prevSlide}
         />
         <span className="indicators">
-          {slides.slides.map((_, idx) => {
-            return (
-              <button
-                key={idx}
-                onClick={() => setSlide(idx)}
-                className={
-                  slide === idx ? "indicator" : "indicator indicator-inactive"
-                }
-              ></button>
-            );
-          })}
+          {slides.slides.map((_, idx) => (
+            <button
+              key={idx}
+              onClick={() => setSlide(idx)}
+              className={`indicator ${
+                slide === idx ? "" : "indicator-inactive"
+              }`}
+            />
+          ))}
         </span>
         <BsArrowRightCircleFill
           className="arrow arrow-right"
