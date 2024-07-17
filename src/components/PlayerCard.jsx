@@ -27,9 +27,16 @@ export default function PlayerCard({ player }) {
     }
   };
 
+  const formatMiscInfo = (playerMisc) => {
+    let formattedInfo = playerMisc.join(" | ");
+    return formattedInfo;
+  };
+
   return (
     <div
-      className={"player-card player-card-photo flex flex-col h-72 w-44 justify-between"}
+      className={
+        "player-card player-card-photo flex flex-col h-72 w-44 justify-between"
+      }
       style={{ backgroundImage: `url(${player.playerImg})` }}
     >
       <header className="p-header">
@@ -45,6 +52,7 @@ export default function PlayerCard({ player }) {
       <footer className="p-footer-photo">
         <div className="footer-text">
           <p className="text-lg font-bold">{player.name}</p>
+          <p>{formatMiscInfo(player.playerMisc)}</p>
           <p className="text-sm">{player.team}</p>
         </div>
       </footer>

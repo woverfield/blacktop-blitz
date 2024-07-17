@@ -55,6 +55,7 @@ const scrapeTeam = async (url, teamName, teamImg, players) => {
         type: "curr",
         teamImg: teamImg,
         playerMisc: playerMisc,
+        playerImg: ''
       });
     }
   });
