@@ -55,6 +55,18 @@ code {
   margin-bottom: 2rem;
 }
 
+@media screen and (max-height: 768px) {
+  .carousel {
+    width: 500px;
+  }
+}
+
+@media screen and (max-height: 576px) {
+  .carousel {
+    width: 400px;
+  }
+}
+
 .carousel-heading {
   display: flex;
   justify-content: center;
@@ -140,8 +152,6 @@ code {
   display: flex;
   align-items: center;
   gap: 1rem;
-  position: absolute;
-  bottom: 5rem;
 }
 
 .menu-btn:hover {
