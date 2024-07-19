@@ -24,7 +24,7 @@ export default function Navigation() {
 
   return (
     <nav className="container mx-auto flex items-center justify-between mt-5 font-serif">
-      <Link to="/blacktop-blitz" className="shrink-0">
+      <Link to="/" className="shrink-0">
         <button className="logo">
           <img src={Logo} alt="Logo" />
         </button>
@@ -33,14 +33,14 @@ export default function Navigation() {
         <MobileMenu />
       ) : (
         <ul className="flex gap-10 text-white text-3xl font-medium">
-          <Link to="/blacktop-blitz/about">
+          <Link to="/about">
             <button>
               <li className="p-2">
                 <h3>ABOUT</h3>
               </li>
             </button>
           </Link>
-          <Link to="/blacktop-blitz/feedback">
+          <Link to="/feedback">
             <button>
               <li className="p-2">
                 <h3>FEEDBACK</h3>

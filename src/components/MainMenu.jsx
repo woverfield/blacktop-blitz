@@ -19,7 +19,7 @@ export default function MainMenu({}) {
         </div>
         {/*Buttons*/}
         <div className="flex justify-center text-black gap-20 my-20 font-medium flex-wrap">
-          <Link to="/blacktop-blitz/qplay">
+          <Link to="/qplay">
             <motion.button className="menu-btn bg-white py-5 px-28 mx-2 text-xl rounded-2xl" initial={{ opacity: 0, y: 100 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5, delay: 0.5, ease: "easeOut" }}>
