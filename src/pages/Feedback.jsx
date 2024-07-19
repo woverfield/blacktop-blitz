@@ -11,7 +11,7 @@ export default function Feedback() {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
         >
-          <h1 className="md:text-7xl text-5xl">FEEDBACK</h1>
+          <h1 className="md:text-7xl text-5xl font-serif">FEEDBACK</h1>
           <br />
           <p className="md:text-2xl text-xl">
             First, thank you for checking out my application! Feedback is

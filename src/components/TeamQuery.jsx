@@ -57,7 +57,7 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
         transition={{ duration: 0.5 }}
       >
         <div className="section query p-3">
-          <h3 className="bg-white p-5 px-10 text-xl rounded-2xl">QUERY</h3>
+          <h3 className="p-5 px-10 text-7xl text-white rounded-2xl font-serif">QUERY</h3>
           <form onSubmit={validate} autoComplete="off">
             <ul className="mt-10">
               <li>

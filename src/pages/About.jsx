@@ -11,7 +11,7 @@ export default function About() {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
         >
-          <h1 className="md:text-7xl text-5xl">ABOUT</h1>
+          <h1 className="md:text-7xl text-5xl font-serif">ABOUT</h1>
           <br />
           <p className="md:text-2xl text-xl">
             This is a little project I put together that started with my love

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import RefreshIcon from "@mui/icons-material/Refresh";
+import { IoMdClose } from "react-icons/io";
 import PlayerCard from "./PlayerCard";
 import PlayerCardNoImage from "./PlayerCardNoImage";
 
@@ -8,8 +9,8 @@ export default function PlayerOptions({
   possiblePlayers,
   setTeamOne,
   setTeamTwo,
+  handleClose
 }) {
-  // round selection state
   const [p1Ready, setp1Ready] = useState(false);
   const [p2Ready, setp2Ready] = useState(false);
   const [p1Focus, setp1Focus] = useState(0);
@@ -81,84 +82,85 @@ export default function PlayerOptions({
   };
 
   return (
-    <div className="flex flex-col p-5 overflow-auto">
-      <div className="flex justify-around">
-        <div className="pt-10">
-          <h2 className="text-center options-text">Player 1 Options:</h2>
-          <ul className="flex gap-5 flex-wrap justify-center pt-2">
-            {p1options.map((player, idx) => {
-              return (
-                <button
-                  key={idx}
-                  className={
-                    p1Focus === idx + 1 ? "player-btn focus-btn" : "player-btn"
-                  }
-                  onClick={() => handleChange(1, idx + 1)}
-                >
-                  {player.playerImg ? (
+    <div className="text-white flex flex-col items-center overflow-y-auto h-screen p-5 justify-center">
+      <div className="flex items-center justify-between w-full mb-4">
+        <button className="" onClick={refreshOptions}>
+          <RefreshIcon fontSize="large" />
+        </button>
+        <div>
+          <h2 className="options-text text-center font-serif text-4xl">
+            ROUND {round} {round === size && "(FINAL)"}
+          </h2>
+          <p className="text-center">Each Person Draft One Player</p>
+        </div>
+        <button className="" onClick={handleClose}>
+          <IoMdClose size="35" />
+        </button>
+      </div>
+      <div className="player-options flex gap-36 flex-wrap justify-center overflow-y-auto">
+        <div className="p1-options">
+          <h2 className="text-center options-text font-serif text-2xl mb-2">
+            Player 1 Options:
+          </h2>
+          <ul className="flex flex-col gap-5">
+            {p1options.map((player, idx) => (
+              <button
+                key={idx}
+                className={
+                  p1Focus === idx + 1 ? "player-btn focus-btn" : "player-btn"
+                }
+                onClick={() => handleChange(1, idx + 1)}
+              >
+                {player.playerImg ? (
                   <PlayerCard player={player} />
                 ) : (
                   <PlayerCardNoImage player={player} />
                 )}
-                </button>
-              );
-            })}
+              </button>
+            ))}
           </ul>
         </div>
-        <div className="flex flex-col items-center">
-          <div>
-            <h2 className="options-text text-center">
-              ROUND {round} {round === size && "(FINAL)"}
-            </h2>
-            <p className="text-center">Each Person Draft One Player</p>
-          </div>
-          <div className="flex flex-col h-full justify-between">
-            <button className="mt-10" onClick={refreshOptions}>
-              <RefreshIcon fontSize="large" />
-            </button>
-            {round < size && p1Ready === true && p2Ready === true && (
+        <div className="p2-options">
+          <h2 className="text-center options-text font-serif text-2xl mb-2">
+            Player 2 Options:
+          </h2>
+          <ul className="flex flex-col gap-5">
+            {p2options.map((player, idx) => (
               <button
-                className="next-btn bg-black p-5 px-10 text-xl my-5 text-white self-center rounded-2xl"
-                type="submit"
-                onClick={handleNext}
+                key={idx}
+                className={
+                  p2Focus === idx + 1 ? "player-btn focus-btn" : "player-btn"
+                }
+                onClick={() => handleChange(2, idx + 1)}
               >
-                NEXT
-              </button>
-            )}
-            {round === size && p1Ready === true && p2Ready === true && (
-              <button
-                className="done-btn bg-black p-5 px-10 text-xl my-5 text-white self-center rounded-2xl"
-                type="submit"
-                onClick={handleDone}
-              >
-                DONE
-              </button>
-            )}
-          </div>
-        </div>
-        <div className="pt-10">
-          <h2 className="text-center options-text">Player 2 Options:</h2>
-          <ul className="flex gap-5 flex-wrap justify-center pt-2">
-            {p2options.map((player, idx) => {
-              return (
-                <button
-                  key={idx}
-                  className={
-                    p2Focus === idx + 1 ? "player-btn focus-btn" : "player-btn"
-                  }
-                  onClick={() => handleChange(2, idx + 1)}
-                >
-                  {player.playerImg ? (
+                {player.playerImg ? (
                   <PlayerCard player={player} />
                 ) : (
                   <PlayerCardNoImage player={player} />
                 )}
-                </button>
-              );
-            })}
+              </button>
+            ))}
           </ul>
         </div>
       </div>
+      {round < size && p1Ready && p2Ready && (
+        <button
+          className="next-btn bg-white p-5 px-10 text-xl my-5 text-black self-center rounded-2xl"
+          type="submit"
+          onClick={handleNext}
+        >
+          NEXT
+        </button>
+      )}
+      {round === size && p1Ready && p2Ready && (
+        <button
+          className="done-btn bg-white p-5 px-10 text-xl my-5 text-black self-center rounded-2xl"
+          type="submit"
+          onClick={handleDone}
+        >
+          DONE
+        </button>
+      )}
     </div>
   );
 }
