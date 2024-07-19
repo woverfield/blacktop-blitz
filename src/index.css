@@ -20,15 +20,6 @@ code {
   height: 100vh;
 }
 
-.section {
-  text-align: center;
-  h3 {
-    font-size: 2.25rem;
-    line-height: 2.5rem;
-    color: black;
-  }
-}
-
 .query {
   text-align: center;
   li {
@@ -154,9 +145,12 @@ code {
   color: white;
 }
 
+.next-btn:hover {
+  scale: 1.05;
+}
+
 .done-btn:hover {
-  background-color: black;
-  color: white;
+  scale: 1.05;
 }
 
 .player-card {
@@ -202,11 +196,6 @@ code {
   }
 }
 
-.player-card:hover {
-  filter: none;
-  scale: 1.05;
-}
-
 .focus-btn {
   .player-card {
     background-color: grey;
@@ -215,10 +204,6 @@ code {
   .player-card-photo {
     border: 2px solid red;
   }
-}
-
-.options-text {
-  font-size: 1.5rem;
 }
 
 .finalized {

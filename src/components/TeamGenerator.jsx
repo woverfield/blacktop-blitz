@@ -81,13 +81,14 @@ export default function TeamGenerator({
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.5 }}
             >
-              <div className="flex flex-col container justify-center mx-auto bg-white overflow-auto p-10">
+              <div className="flex flex-col container justify-center mx-auto overflow-auto p-10">
                 <PlayerOptions
                   size={size}
                   formData={formData}
                   possiblePlayers={possiblePlayers}
                   setTeamOne={setTeamOne}
                   setTeamTwo={setTeamTwo}
+                  handleClose={handleClose}
                 />
               </div>
             </motion.div>
