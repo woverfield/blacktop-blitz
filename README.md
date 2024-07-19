@@ -48,6 +48,7 @@ To run Blacktop Blitz locally, follow these steps:
 - React and its vibrant community for providing excellent tools and libraries.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/0ebfa2aa-606e-4110-95e2-d99a937e5ab0)
+![image](https://github.com/user-attachments/assets/aa619ca9-0da1-4d1f-9580-fc97030256b1)
+
 ![image](https://github.com/user-attachments/assets/2ba5a489-f881-4629-9ec5-9eb2af110dde)
 
