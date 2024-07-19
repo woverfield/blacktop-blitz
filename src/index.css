@@ -92,7 +92,7 @@ code {
   height: 100%;
   -webkit-filter: grayscale() blur(1px);
           filter: grayscale() blur(1px);
-  border-radius: 0 0 1rem 1rem;
+  border-radius: 1rem;
 }
 
 .player-slide {
