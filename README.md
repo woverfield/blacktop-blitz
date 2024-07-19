@@ -8,7 +8,7 @@ Site: https://blacktop-blitz.vercel.app/
 
 - **Random Team Generation:** Generate random teams based on selected criteria.
 - **Player Database:** Utilizes Web-Scraped NBA2k player data for accurate ratings and players.
-- **Responsive Design (SOON):** Works seamlessly on desktop and (mobile devices soon).
+- **Responsive Design:** Works seamlessly on desktop and mobile devices.
 
 ## Scripts
 
@@ -48,3 +48,6 @@ To run Blacktop Blitz locally, follow these steps:
 - React and its vibrant community for providing excellent tools and libraries.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/0ebfa2aa-606e-4110-95e2-d99a937e5ab0)
+![image](https://github.com/user-attachments/assets/2ba5a489-f881-4629-9ec5-9eb2af110dde)
+
