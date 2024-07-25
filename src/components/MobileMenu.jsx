@@ -24,10 +24,10 @@ export default function MobileMenu() {
       )}
       {isOpen && (
         <div className="fixed inset-y-0 right-0 flex flex-col items-center bg-white z-50">
-          <a href="/blacktop-blitz/about" className="p-4">
+          <a href="/about" className="p-4">
             ABOUT
           </a>
-          <a href="/blacktop-blitz/feedback" className="p-4">
+          <a href="/feedback" className="p-4">
             FEEDBACK
           </a>
         </div>
