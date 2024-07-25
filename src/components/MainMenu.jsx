@@ -14,8 +14,8 @@ export default function MainMenu({}) {
       >
         {/*Title*/}
         <div className="container mx-auto flex flex-col items-center gap-5 max-w-2xl p-3">
-          <img src={BlacktopText} alt="Blacktop Header" className="w-full" />
-          <img src={BlitzText} alt="Blitz Header" className="w-7/12" />
+          <img fetchpriority="high" src={BlacktopText} alt="Blacktop Header" className="w-full" />
+          <img fetchpriority="high" src={BlitzText} alt="Blitz Header" className="w-7/12" />
         </div>
         {/*Buttons*/}
         <div className="flex justify-center text-black gap-20 my-20 font-medium flex-wrap">
