@@ -21,7 +21,7 @@ To run Blacktop Blitz locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/blacktop-blitz.git
+   git clone https://github.com/woverfield/blacktop-blitz.git
    ```
 
 2. Navigate into the project directory:
