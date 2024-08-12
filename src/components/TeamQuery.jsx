@@ -1,8 +1,10 @@
 import React, { useState } from "react";
 import TeamGenerator from "./TeamGenerator";
 import { motion } from "framer-motion";
+import { ToggleButtonGroup } from "@mui/material";
+import { ToggleButton } from "@mui/material";
 
-export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
+export default function TeamQuery({setTeamOne, setTeamTwo }) {
   const [formInfo, setFormInfo] = useState(new Map());
   const [formSubmitted, setFormSubmitted] = useState(false);
 
@@ -49,6 +51,14 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
     setFormSubmitted(false);
   };
 
+  const [alignment, setAlignment] = React.useState("1");
+
+  const handleChange = (event, newAlignment) => {
+    if (newAlignment !== null) {
+      setAlignment(newAlignment);
+    }
+  };
+
   return (
     <main className="container flex justify-center items-center text-white">
       <motion.div
@@ -57,7 +67,9 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
         transition={{ duration: 0.5 }}
       >
         <div className="section query p-3">
-          <h3 className="p-5 px-10 text-7xl text-white rounded-2xl font-serif">QUERY</h3>
+          <h3 className="p-5 px-10 text-7xl text-white rounded-2xl font-serif">
+            QUERY
+          </h3>
           <form onSubmit={validate} autoComplete="off">
             <ul className="mt-10">
               <li>
@@ -93,6 +105,74 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
                 <input name="allt" type="checkbox" className="text-black" />
               </li>
             </ul>
+            <ToggleButtonGroup
+              className="toggle-size font-serif"
+              exclusive
+              value={alignment}
+              onChange={handleChange}
+              aria-label="gamesize"
+            >
+              <ToggleButton
+                value="1"
+                aria-label="1v1"
+                sx={{
+                  "&.Mui-selected": {
+                    backgroundColor: alignment === "1" ? "black" : "white",
+                    color: alignment === "1" ? "white" : "",
+                  },
+                }}
+              >
+                <p className="toggle-label">1 v 1</p>
+              </ToggleButton>
+              <ToggleButton
+                value="2"
+                aria-label="2v2"
+                sx={{
+                  "&.Mui-selected": {
+                    backgroundColor: alignment === "2" ? "black" : "white",
+                    color: alignment === "2" ? "white" : "",
+                  },
+                }}
+              >
+                <p className="toggle-label">2 v 2</p>
+              </ToggleButton>
+              <ToggleButton
+                value="3"
+                aria-label="3v3"
+                sx={{
+                  "&.Mui-selected": {
+                    backgroundColor: alignment === "3" ? "black" : "white",
+                    color: alignment === "3" ? "white" : "",
+                  },
+                }}
+              >
+                <p className="toggle-label">3 v 3</p>
+              </ToggleButton>
+              <ToggleButton
+                value="4"
+                aria-label="4v4"
+                sx={{
+                  "&.Mui-selected": {
+                    backgroundColor: alignment === "4" ? "black" : "white",
+                    color: alignment === "4" ? "white" : "",
+                  },
+                }}
+              >
+                <p className="toggle-label">4 v 4</p>
+              </ToggleButton>
+              <ToggleButton
+                value="5"
+                aria-label="5v5"
+                sx={{
+                  "&.Mui-selected": {
+                    backgroundColor: alignment === "5" ? "black" : "white",
+                    color: alignment === "5" ? "white" : "",
+                  },
+                }}
+              >
+                <p className="toggle-label">5 v 5</p>
+              </ToggleButton>
+            </ToggleButtonGroup>
             <div className="flex flex-col justify-center">
               {formSubmitted === false && (
                 <button
@@ -107,7 +187,7 @@ export default function TeamSelection({ size, setTeamOne, setTeamTwo }) {
           {formSubmitted === true && (
             <TeamGenerator
               formData={formInfo}
-              size={size}
+              size={alignment}
               handleReset={() => handleReset()}
               setTeamOne={setTeamOne}
               setTeamTwo={setTeamTwo}

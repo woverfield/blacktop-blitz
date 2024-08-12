@@ -9,7 +9,7 @@ export default function PlayerOptions({
   possiblePlayers,
   setTeamOne,
   setTeamTwo,
-  handleClose
+  handleClose,
 }) {
   const [p1Ready, setp1Ready] = useState(false);
   const [p2Ready, setp2Ready] = useState(false);
@@ -62,16 +62,8 @@ export default function PlayerOptions({
   };
 
   useEffect(() => {
-    if (p1Focus !== 0) {
-      setp1Ready(true);
-    } else {
-      setp1Ready(false);
-    }
-    if (p2Focus !== 0) {
-      setp2Ready(true);
-    } else {
-      setp2Ready(false);
-    }
+    setp1Ready(p1Focus !== 0);
+    setp2Ready(p2Focus !== 0);
   }, [p1Focus, p2Focus]);
 
   const refreshOptions = () => {
@@ -80,6 +72,8 @@ export default function PlayerOptions({
     setp2Focus(0);
     setp2Options(getOptions());
   };
+
+  const isButtonVisible = p1Ready && p2Ready;
 
   return (
     <div className="text-white flex flex-col items-center overflow-y-auto h-screen p-5 justify-center">
@@ -143,24 +137,15 @@ export default function PlayerOptions({
           </ul>
         </div>
       </div>
-      {round < size && p1Ready && p2Ready && (
-        <button
-          className="next-btn bg-white p-5 px-10 text-xl my-5 text-black self-center rounded-2xl"
-          type="submit"
-          onClick={handleNext}
-        >
-          NEXT
-        </button>
-      )}
-      {round === size && p1Ready && p2Ready && (
-        <button
-          className="done-btn bg-white p-5 px-10 text-xl my-5 text-black self-center rounded-2xl"
-          type="submit"
-          onClick={handleDone}
-        >
-          DONE
-        </button>
-      )}
+      <button
+        className={`next-done-btn bg-white p-5 px-10 text-xl my-5 text-black self-center rounded-2xl ${
+          isButtonVisible ? "" : "invisible"
+        }`}
+        type="submit"
+        onClick={round == size ? handleDone : handleNext}
+      >
+        {round == size ? "DONE" : "NEXT"}
+      </button>
     </div>
   );
 }
