@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 export default function Feedback() {
   return (
-    <div className="h-full flex justify-center items-center overflow-auto">
+    <div className="h-full flex justify-center lg:items-center sm:items-start overflow-auto">
       <div className="text-white p-2 text-center md:w-1/2">
         <motion.div
           initial={{ opacity: 0, scale: 0.5 }}

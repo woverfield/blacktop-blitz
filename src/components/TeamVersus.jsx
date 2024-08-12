@@ -4,7 +4,7 @@ import PlayerCard from "./PlayerCard";
 import PlayerCardNoImage from "./PlayerCardNoImage";
 import { motion } from "framer-motion";
 
-export default function TeamVersus({ teamOne, teamTwo }) {
+export default function TeamVersus({ resetTeams, teamOne, teamTwo }) {
   const cardVariantsLTR = {
     hidden: { opacity: 0, x: -50 },
     visible: { opacity: 1, x: 0 },
@@ -16,7 +16,7 @@ export default function TeamVersus({ teamOne, teamTwo }) {
   };
 
   return (
-    <main className="container mx-auto h-full flex flex-col justify-evenly text-white">
+    <main className="container mx-auto h-full flex flex-col justify-evenly text-white px-2">
       <div className="row flex items-center justify-end">
         <div className="flex flex-row-reverse justify-center items-center gap-10 flex-wrap">
           {teamOne.map((player, idx) => (
@@ -61,8 +61,9 @@ export default function TeamVersus({ teamOne, teamTwo }) {
       <div className="flex justify-center items-center">
         <Link to="/qplay">
           <button
-            className="done-btn bg-white rounded-2xl p-5 px-10 text-xl my-5 text-black self-center"
+            className="again-btn bg-white rounded-2xl p-5 px-10 text-xl my-5 text-black self-center"
             type="submit"
+            onClick={resetTeams}
           >
             PLAY AGAIN?
           </button>
