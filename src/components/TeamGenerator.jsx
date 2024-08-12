@@ -73,15 +73,15 @@ export default function TeamGenerator({
           onClose={handleClose}
           aria-labelledby="modal-modal-title"
           aria-describedby="modal-modal-description"
-          className="overflow-auto"
+          className="overflow-y-auto"
         >
-          <div className="flex h-full flex-col justify-center items-center overflow-auto">
+          <div className="flex h-full flex-col justify-center items-center">
             <motion.div
               initial={{ opacity: 0, scale: 0.5 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.5 }}
             >
-              <div className="flex flex-col container justify-center mx-auto overflow-auto p-10">
+              <div className="flex flex-col container justify-center mx-auto p-10">
                 <PlayerOptions
                   size={size}
                   formData={formData}

@@ -60,7 +60,7 @@ export default function TeamQuery({setTeamOne, setTeamTwo }) {
   };
 
   return (
-    <main className="container flex justify-center items-center text-white">
+    <main className="container flex justify-center items-center text-white max-h-screen pt-10">
       <motion.div
         initial={{ opacity: 0, scale: 0.5 }}
         animate={{ opacity: 1, scale: 1 }}
@@ -122,7 +122,7 @@ export default function TeamQuery({setTeamOne, setTeamTwo }) {
                   },
                 }}
               >
-                <p className="toggle-label">1 v 1</p>
+                <p className="toggle-label">1 vs 1</p>
               </ToggleButton>
               <ToggleButton
                 value="2"
@@ -134,7 +134,7 @@ export default function TeamQuery({setTeamOne, setTeamTwo }) {
                   },
                 }}
               >
-                <p className="toggle-label">2 v 2</p>
+                <p className="toggle-label">2 vs 2</p>
               </ToggleButton>
               <ToggleButton
                 value="3"
@@ -146,7 +146,7 @@ export default function TeamQuery({setTeamOne, setTeamTwo }) {
                   },
                 }}
               >
-                <p className="toggle-label">3 v 3</p>
+                <p className="toggle-label">3 vs 3</p>
               </ToggleButton>
               <ToggleButton
                 value="4"
@@ -158,7 +158,7 @@ export default function TeamQuery({setTeamOne, setTeamTwo }) {
                   },
                 }}
               >
-                <p className="toggle-label">4 v 4</p>
+                <p className="toggle-label">4 vs 4</p>
               </ToggleButton>
               <ToggleButton
                 value="5"
@@ -170,7 +170,7 @@ export default function TeamQuery({setTeamOne, setTeamTwo }) {
                   },
                 }}
               >
-                <p className="toggle-label">5 v 5</p>
+                <p className="toggle-label">5 vs 5</p>
               </ToggleButton>
             </ToggleButtonGroup>
             <div className="flex flex-col justify-center">

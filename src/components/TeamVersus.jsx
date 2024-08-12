@@ -16,7 +16,7 @@ export default function TeamVersus({ resetTeams, teamOne, teamTwo }) {
   };
 
   return (
-    <main className="container mx-auto h-full flex flex-col justify-evenly text-white">
+    <main className="container mx-auto h-full flex flex-col justify-evenly text-white px-2">
       <div className="row flex items-center justify-end">
         <div className="flex flex-row-reverse justify-center items-center gap-10 flex-wrap">
           {teamOne.map((player, idx) => (

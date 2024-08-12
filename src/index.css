@@ -49,142 +49,6 @@ code {
   }
 }
 
-.carousel {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  width: 600px;
-  margin-bottom: 2rem;
-}
-
-@media screen and (max-height: 768px) {
-  .carousel {
-    width: 500px;
-  }
-}
-
-@media screen and (max-height: 576px) {
-  .carousel {
-    width: 400px;
-  }
-}
-
-.carousel-heading {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  border-radius: 1rem 1rem 0 0;
-}
-
-.slide {
-  -webkit-box-shadow: 0px 0px 7px #666;
-  box-shadow: 0px 0px 7px #666;
-  width: 100%;
-  height: 100%;
-  -webkit-filter: grayscale() blur(1px);
-  filter: grayscale() blur(1px);
-  border-radius: 1rem;
-}
-
-.player-slide {
-  padding: 1rem;
-}
-
-.player-slide:hover {
-  .slide {
-    -webkit-filter: none;
-    filter: none;
-  }
-}
-
-.arrow {
-  width: 2rem;
-  height: 2rem;
-  color: white;
-  -webkit-filter: drop-shadow(0px 0px 5px #555);
-  filter: drop-shadow(0px 0px 5px #555);
-}
-
-.arrow:hover {
-  cursor: pointer;
-}
-
-.indicators {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  background-color: white;
-  border: 1px solid white;
-  padding: 1rem;
-  border-radius: 1rem;
-}
-
-.indicator {
-  background-color: white;
-  height: 0.5rem;
-  width: 0.5rem;
-  border-radius: 100%;
-  border: none;
-  outline: none;
-  -webkit-box-shadow: 0px 0px 5px #555;
-  box-shadow: 0px 0px 5px #555;
-  margin: 0 0.2rem;
-  cursor: pointer;
-}
-
-.indicator:hover {
-  background-color: black;
-}
-
-.indicator-inactive {
-  background-color: grey;
-}
-
-.ps-1 {
-  width: 80%;
-}
-
-.player-btn {
-  border-radius: 1rem;
-  li {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-  }
-}
-.player-btn:hover {
-  img {
-    -webkit-filter: none;
-    filter: none;
-  }
-}
-
-.carousel-nav {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  gap: 1rem;
-}
-
 .menu-btn:hover {
   background-color: black;
   color: white;
@@ -410,4 +274,8 @@ code {
 .toggle-label {
   font-size: large;
   font-family: "Montserrat", "Helvetica", "sans-serif";
+}
+
+.generator {
+  overflow-y: auto;
 }

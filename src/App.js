@@ -8,7 +8,7 @@ import Feedback from "./pages/Feedback";
 function App() {
   return (
     <Router>
-      <div className="App background flex flex-col overflow-auto">
+      <div className="App background flex flex-col overflow-auto h-screen">
         <Navigation />
         <Routes>
           <>

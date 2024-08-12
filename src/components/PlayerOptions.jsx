@@ -76,7 +76,7 @@ export default function PlayerOptions({
   const isButtonVisible = p1Ready && p2Ready;
 
   return (
-    <div className="text-white flex flex-col items-center overflow-y-auto h-screen p-5 justify-center">
+    <div className="text-white flex flex-col items-center p-5 max-h-screen">
       <div className="flex items-center justify-between w-full mb-4">
         <button className="" onClick={refreshOptions}>
           <RefreshIcon fontSize="large" />
@@ -91,7 +91,7 @@ export default function PlayerOptions({
           <IoMdClose size="35" />
         </button>
       </div>
-      <div className="player-options flex gap-36 flex-wrap justify-center overflow-y-auto">
+      <div className="player-options flex gap-36 flex-wrap justify-center">
         <div className="p1-options">
           <h2 className="text-center options-text font-serif text-2xl mb-2">
             Player 1 Options:
