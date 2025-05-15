@@ -14,6 +14,32 @@ Site: https://blacktopblitz.com/
 
 There are some web scraping scripts that I made to get player data: https://github.com/woverfield/2k-web-scraping. I also included the files in this repo alongside with some other scripts to update the players and combine the 3 rosters (current, classic, all-time) into one json file.
 
+## Updating Player Data
+
+The player data is scraped from https://www.2kratings.com/ using scripts in [2k-web-scraping](https://github.com/woverfield/2k-web-scraping).
+
+**Requirements:**  
+- [Node.js](https://nodejs.org/)  
+- [Playwright](https://playwright.dev/)
+
+**How to update:**
+1. In the 2k-web-scraping directory, run:
+   ```bash
+   npm install playwright
+   node allt.js > alltplayers.json
+   node class.js > classplayers.json
+   node curr.js > currplayers.json
+   ```
+2. Copy the resulting JSON files into `blacktop-blitz/src/data/`.
+3. In the blacktop-blitz directory, run:
+   ```bash
+   node src/scripts/combineRosters.js
+   ```
+   This will generate a combined `players.json` file for use in the app.
+
+**Note:**  
+The scraping scripts now output only clean JSON (no debug logs), and require a visible browser window (`headless: false`) to bypass bot protection.
+
 ## Installation
 
 To run Blacktop Blitz locally, follow these steps:
