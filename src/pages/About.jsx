@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub } from "react-icons/fa";
+import { FaGithub, FaStar, FaHeart } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 export default function About() {
@@ -14,23 +14,33 @@ export default function About() {
           <h1 className="md:text-7xl text-5xl font-serif">ABOUT</h1>
           <br />
           <p className="md:text-2xl text-xl">
-            This is a little project I put together that started with my love
-            for NBA 2k and especially the blacktop gamemode as I have fond
-            memories playing with my brother. We always liked to randomize our
-            teams and make things more interesting so if you enjoy that have fun
-            using this site! This is inspired from another site that used to
-            exist called 2kblacktoprandomizer.com but is no longer active. The
-            project is on my GitHub if you want to check it out more!
+            This is the best free NBA 2K team randomizer for Blacktop mode! I put this together
+            because of my love for NBA 2K and especially the blacktop gamemode. My brother and I
+            always liked to randomize our teams and make things more interesting. This 2K blacktop
+            randomizer is inspired by the old 2kblacktoprandomizer.com site that's no longer active.
+            If you enjoy randomizing your NBA 2K teams, have fun using this site!
           </p>
-          <div className="flex justify-center text-black my-10 font-medium flex-wrap">
-            <a href="https://github.com/woverfield" target="_blank">
+          <div className="flex justify-center text-black my-10 font-medium flex-wrap gap-4">
+            <a href="https://github.com/woverfield/blacktop-blitz" target="_blank" rel="noopener noreferrer">
               <motion.button
-                className="menu-btn bg-white p-5 mx-2 text-xl rounded-2xl"
+                className="menu-btn bg-white p-5 text-xl rounded-2xl flex items-center gap-2"
                 initial={{ opacity: 0, y: 100 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5, delay: 0.5, ease: "easeOut" }}
               >
-                <FaGithub className="size-16" />
+                <FaStar className="size-6" />
+                <span>Star on GitHub</span>
+              </motion.button>
+            </a>
+            <a href="https://buymeacoffee.com/wkoverfield" target="_blank" rel="noopener noreferrer">
+              <motion.button
+                className="menu-btn bg-white p-5 text-xl rounded-2xl flex items-center gap-2"
+                initial={{ opacity: 0, y: 100 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.5, delay: 0.6, ease: "easeOut" }}
+              >
+                <FaHeart className="size-6" />
+                <span>Buy Me a Coffee</span>
               </motion.button>
             </a>
           </div>

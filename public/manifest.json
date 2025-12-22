@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Blacktop Blitz",
+  "name": "Blacktop Blitz - NBA 2K Team Randomizer",
+  "description": "Free NBA 2K team randomizer for Blacktop mode. Generate random teams from current players, legends, and all-time greats.",
   "icons": [
     {
       "src": "favicon.ico",
