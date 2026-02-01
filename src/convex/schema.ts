@@ -14,4 +14,18 @@ export default defineSchema({
   })
     .index("by_upvotes", ["upvotes"])
     .index("by_status", ["status"]),
+
+  analyticsEvents: defineTable({
+    eventType: v.string(),
+    timestamp: v.number(),
+    metadata: v.optional(v.object({
+      gameSize: v.optional(v.string()),      // "1v1", "2v2", etc.
+      queryParams: v.optional(v.string()),   // JSON of filters used
+      roundNumber: v.optional(v.number()),
+      totalRounds: v.optional(v.number()),
+    })),
+  })
+    .index("by_type", ["eventType"])
+    .index("by_timestamp", ["timestamp"])
+    .index("by_type_and_timestamp", ["eventType", "timestamp"]),
 });

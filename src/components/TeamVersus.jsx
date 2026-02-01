@@ -3,8 +3,18 @@ import { Link } from "react-router-dom";
 import PlayerCard from "./PlayerCard";
 import PlayerCardNoImage from "./PlayerCardNoImage";
 import { motion } from "framer-motion";
+import { useMutation } from "convex/react";
+import { api } from "../convex/_generated/api";
 
 export default function TeamVersus({ resetTeams, teamOne, teamTwo }) {
+  const trackEvent = useMutation(api.analytics.trackEvent);
+
+  const handlePlayAgain = () => {
+    // Track game reset
+    trackEvent({ eventType: "game_reset" });
+    resetTeams();
+  };
+
   const cardVariantsLTR = {
     hidden: { opacity: 0, x: -50 },
     visible: { opacity: 1, x: 0 },
@@ -63,7 +73,7 @@ export default function TeamVersus({ resetTeams, teamOne, teamTwo }) {
           <button
             className="again-btn bg-white rounded-2xl p-5 px-10 text-xl my-5 text-black self-center"
             type="submit"
-            onClick={resetTeams}
+            onClick={handlePlayAgain}
           >
             PLAY AGAIN?
           </button>

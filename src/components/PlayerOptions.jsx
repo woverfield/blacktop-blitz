@@ -3,6 +3,8 @@ import RefreshIcon from "@mui/icons-material/Refresh";
 import { IoMdClose } from "react-icons/io";
 import PlayerCard from "./PlayerCard";
 import PlayerCardNoImage from "./PlayerCardNoImage";
+import { useMutation } from "convex/react";
+import { api } from "../convex/_generated/api";
 
 export default function PlayerOptions({
   size,
@@ -11,6 +13,7 @@ export default function PlayerOptions({
   setTeamTwo,
   handleClose,
 }) {
+  const trackEvent = useMutation(api.analytics.trackEvent);
   const [p1Ready, setp1Ready] = useState(false);
   const [p2Ready, setp2Ready] = useState(false);
   const [p1Focus, setp1Focus] = useState(0);
@@ -50,6 +53,16 @@ export default function PlayerOptions({
   const handleNext = () => {
     teamOneInner.push(p1options[p1Focus - 1]);
     teamTwoInner.push(p2options[p2Focus - 1]);
+
+    // Track player selected
+    trackEvent({
+      eventType: "player_selected",
+      metadata: {
+        roundNumber: round,
+        totalRounds: parseInt(size),
+      },
+    });
+
     setRound(round + 1);
     refreshOptions();
   };
@@ -59,6 +72,27 @@ export default function PlayerOptions({
     teamTwoInner.push(p2options[p2Focus - 1]);
     setTeamOne(teamOneInner);
     setTeamTwo(teamTwoInner);
+
+    // Track draft completed
+    trackEvent({
+      eventType: "draft_completed",
+      metadata: {
+        gameSize: `${size}v${size}`,
+        totalRounds: parseInt(size),
+      },
+    });
+  };
+
+  const handleAbandon = () => {
+    // Track draft abandoned
+    trackEvent({
+      eventType: "draft_abandoned",
+      metadata: {
+        roundNumber: round,
+        totalRounds: parseInt(size),
+      },
+    });
+    handleClose();
   };
 
   useEffect(() => {
@@ -87,7 +121,7 @@ export default function PlayerOptions({
           </h2>
           <p className="text-center">Each Person Draft One Player</p>
         </div>
-        <button className="" onClick={handleClose}>
+        <button className="" onClick={handleAbandon}>
           <IoMdClose size="35" />
         </button>
       </div>

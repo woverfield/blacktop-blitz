@@ -4,6 +4,8 @@ import { GrNext } from "react-icons/gr";
 import PlayerOptions from "./PlayerOptions";
 import allPlayers from "../data/players.json";
 import { motion } from "framer-motion";
+import { useMutation } from "convex/react";
+import { api } from "../convex/_generated/api";
 
 export default function TeamGenerator({
   size,
@@ -12,9 +14,18 @@ export default function TeamGenerator({
   setTeamOne,
   setTeamTwo,
 }) {
+  const trackEvent = useMutation(api.analytics.trackEvent);
+
   // modal state
   const [open, setOpen] = useState(false);
-  const handleOpen = () => setOpen(true);
+  const handleOpen = () => {
+    setOpen(true);
+    // Track draft started
+    trackEvent({
+      eventType: "draft_started",
+      metadata: { gameSize: `${size}v${size}` },
+    });
+  };
   const handleClose = () => {
     setOpen(false);
     handleReset();

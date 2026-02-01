@@ -3,10 +3,13 @@ import TeamGenerator from "./TeamGenerator";
 import { motion } from "framer-motion";
 import { ToggleButtonGroup } from "@mui/material";
 import { ToggleButton } from "@mui/material";
+import { useMutation } from "convex/react";
+import { api } from "../convex/_generated/api";
 
 export default function TeamQuery({setTeamOne, setTeamTwo }) {
   const [formInfo, setFormInfo] = useState(new Map());
   const [formSubmitted, setFormSubmitted] = useState(false);
+  const trackEvent = useMutation(api.analytics.trackEvent);
 
   const validate = (form) => {
     form.preventDefault();
@@ -40,6 +43,23 @@ export default function TeamQuery({setTeamOne, setTeamTwo }) {
       newFormInfo.set(checkbox.name, checkbox.checked ? "on" : "off");
     });
     setFormInfo(newFormInfo);
+
+    // Track query executed
+    const queryParams = {
+      min: form.target[0].value,
+      max: form.target[1].value,
+      curr: newFormInfo.get("curr"),
+      class: newFormInfo.get("class"),
+      allt: newFormInfo.get("allt"),
+    };
+    trackEvent({
+      eventType: "query_executed",
+      metadata: {
+        gameSize: `${alignment}v${alignment}`,
+        queryParams: JSON.stringify(queryParams),
+      },
+    });
+
     handleSubmit();
   };
 
