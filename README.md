@@ -73,6 +73,12 @@ To run Blacktop Blitz locally, follow these steps:
 - NBA 2K for inspiring the Blacktop game mode.
 - React and its vibrant community for providing excellent tools and libraries.
 
+## Analytics
+
+Usage tracking added February 2026. Events tracked: query filters, draft starts, player selections, completions, and abandonments.
+
+**Baseline (Feb 2025 - Feb 2026):** ~3,100 unique visitors, ~5,500 drafts started.
+
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/3c532960-4832-4b0f-b6d2-4a2d514f58fa)
 
