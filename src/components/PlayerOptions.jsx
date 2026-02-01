@@ -19,8 +19,8 @@ export default function PlayerOptions({
   const [p1Focus, setp1Focus] = useState(0);
   const [p2Focus, setp2Focus] = useState(0);
   const [round, setRound] = useState(1);
-  const [teamOneInner, setTeamOneInner] = useState([]);
-  const [teamTwoInner, setTeamTwoInner] = useState([]);
+  const [teamOneInner] = useState([]);
+  const [teamTwoInner] = useState([]);
 
   const getOptions = () => {
     const options = new Set();
@@ -176,9 +176,9 @@ export default function PlayerOptions({
           isButtonVisible ? "" : "invisible"
         }`}
         type="submit"
-        onClick={round == size ? handleDone : handleNext}
+        onClick={round === parseInt(size) ? handleDone : handleNext}
       >
-        {round == size ? "DONE" : "NEXT"}
+        {round === parseInt(size) ? "DONE" : "NEXT"}
       </button>
     </div>
   );

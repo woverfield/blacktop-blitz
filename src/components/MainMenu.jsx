@@ -4,7 +4,7 @@ import BlacktopText from "../img/BLACKTOP.svg";
 import BlitzText from "../img/BLITZ.svg";
 import { motion } from "framer-motion";
 
-export default function MainMenu({}) {
+export default function MainMenu() {
   return (
     <main className="flex h-full flex-col justify-center">
       <motion.div

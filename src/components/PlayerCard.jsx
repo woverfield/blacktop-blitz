@@ -2,7 +2,7 @@ import React from "react";
 
 export default function PlayerCard({ player }) {
   const getCardType = (overall) => {
-    if (overall == 99) {
+    if (overall === 99) {
       return "overall-box dark-matter";
     } else if (overall >= 97) {
       return "overall-box galaxy-opal";

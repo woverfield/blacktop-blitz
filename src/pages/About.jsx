@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaStar, FaHeart } from "react-icons/fa";
+import { FaStar, FaHeart } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 export default function About() {

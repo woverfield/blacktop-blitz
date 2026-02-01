@@ -8,6 +8,8 @@
  * @module
  */
 
+import type * as analytics from "../analytics.js";
+import type * as crons from "../crons.js";
 import type * as feedback from "../feedback.js";
 
 import type {
@@ -17,6 +19,8 @@ import type {
 } from "convex/server";
 
 declare const fullApi: ApiFromModules<{
+  analytics: typeof analytics;
+  crons: typeof crons;
   feedback: typeof feedback;
 }>;
 
