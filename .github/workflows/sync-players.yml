@@ -1,0 +1,36 @@
+name: Sync player data
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # 6am UTC daily
+  workflow_dispatch: # manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Sync players from nba2kapi
+        env:
+          NBA2KAPI_KEY: ${{ secrets.NBA2KAPI_KEY }}
+        run: node scripts/sync-players.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "blacktop-blitz-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if [[ -n $(git status --porcelain public/players.json .github/state/players.etag) ]]; then
+            git add public/players.json .github/state/players.etag
+            git commit -m "chore: sync player data from nba2kapi [skip ci]"
+            git push
+          else
+            echo "✓ No roster changes — nothing to commit"
+          fi
