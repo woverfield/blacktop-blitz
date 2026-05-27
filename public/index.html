@@ -10,6 +10,13 @@
   <meta name="keywords" content="NBA 2K randomizer, 2K blacktop randomizer, NBA 2K team generator, blacktop blitz, 2K random teams, NBA 2K25 randomizer, NBA 2K blacktop, random team generator" />
   <meta name="author" content="Wilson Overfield" />
   <meta name="google-site-verification" content="Y7hqlN0W6dInxcEIzad8oAMgsi8WvZXzT9pIzhu4TDA" />
+  <!--
+    Strip Referer on outbound requests so player photos hosted on 2kratings.com
+    pass their hot-link protection (they return 403 when Referer is a third-party
+    site, 200 when Referer is absent). Required for player card images served
+    via nba2kapi to render.
+  -->
+  <meta name="referrer" content="no-referrer" />
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />

@@ -40,7 +40,7 @@ export default function PlayerCardNoImage({ player }) {
               <p className="text-xl font-bold">{player.overall}</p>
             </div>
             <div className="-mr-1">
-              <img className="w-12" src={player.teamImg} alt="" />
+              <img className="w-12" src={player.teamImg} alt="" referrerPolicy="no-referrer" />
             </div>
           </div>
         </header>
