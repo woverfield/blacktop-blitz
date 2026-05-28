@@ -12,33 +12,20 @@ Site: https://blacktopblitz.com/
 
 ## Scripts
 
-There are some web scraping scripts that I made to get player data: https://github.com/woverfield/2k-web-scraping. I also included the files in this repo alongside with some other scripts to update the players and combine the 3 rosters (current, classic, all-time) into one json file.
+## Player Data
 
-## Updating Player Data
+Player data lives in `public/players.json` and is refreshed automatically once a day by `.github/workflows/sync-players.yml`, which pulls from the [nba2kapi](https://github.com/woverfield/nba2kapi) `/api/players/bulk` endpoint. The frontend loads it as a same-origin static file — no API calls from end-user browsers.
 
-The player data is scraped from https://www.2kratings.com/ using scripts in [2k-web-scraping](https://github.com/woverfield/2k-web-scraping).
+**Force a manual sync:**
+```bash
+# from the Actions tab, or via CLI:
+gh workflow run sync-players.yml
+```
 
-**Requirements:**  
-- [Node.js](https://nodejs.org/)  
-- [Playwright](https://playwright.dev/)
-
-**How to update:**
-1. In the 2k-web-scraping directory, run:
-   ```bash
-   npm install playwright
-   node allt.js > alltplayers.json
-   node class.js > classplayers.json
-   node curr.js > currplayers.json
-   ```
-2. Copy the resulting JSON files into `blacktop-blitz/src/data/`.
-3. In the blacktop-blitz directory, run:
-   ```bash
-   node src/scripts/combineRosters.js
-   ```
-   This will generate a combined `players.json` file for use in the app.
-
-**Note:**  
-The scraping scripts now output only clean JSON (no debug logs), and require a visible browser window (`headless: false`) to bypass bot protection.
+**Run the sync locally (rare — only needed if iterating on the sync script):**
+```bash
+NBA2KAPI_KEY="2k_..." node scripts/sync-players.mjs
+```
 
 ## Installation
 
