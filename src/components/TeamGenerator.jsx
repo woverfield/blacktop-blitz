@@ -5,7 +5,7 @@ import PlayerOptions from "./PlayerOptions";
 import { motion } from "framer-motion";
 import { useMutation } from "convex/react";
 import { api } from "../convex/_generated/api";
-import { fetchPlayers, RateLimitError } from "../lib/nba2kapi";
+import { fetchPlayers } from "../lib/nba2kapi";
 
 export default function TeamGenerator({
   size,
@@ -21,11 +21,9 @@ export default function TeamGenerator({
   const [error, setError] = useState(null);
   const [retryNonce, setRetryNonce] = useState(0);
 
-  // modal state
   const [open, setOpen] = useState(false);
   const handleOpen = () => {
     setOpen(true);
-    // Track draft started
     trackEvent({
       eventType: "draft_started",
       metadata: { gameSize: `${size}v${size}` },
@@ -79,24 +77,13 @@ export default function TeamGenerator({
           </div>
         )}
 
-        {!loading && error && error instanceof RateLimitError && (
-          <button
-            className="reset-btn bg-yellow-700 p-5 px-10 text-xl rounded-2xl"
-            type="button"
-            onClick={() => setRetryNonce((n) => n + 1)}
-          >
-            <p>Too many requests. Try again in {error.retryAfter}s.</p>
-            <p className="text-sm mt-2">CLICK TO RETRY</p>
-          </button>
-        )}
-
-        {!loading && error && !(error instanceof RateLimitError) && (
+        {!loading && error && (
           <button
             className="reset-btn bg-red-700 p-5 px-10 text-xl rounded-2xl"
             type="button"
             onClick={() => setRetryNonce((n) => n + 1)}
           >
-            <p>Couldn't reach the player API.</p>
+            <p>Couldn't load the player roster.</p>
             <p className="text-sm mt-2">CLICK TO RETRY</p>
           </button>
         )}
