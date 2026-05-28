@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <link rel="icon" href="%PUBLIC_URL%/bblogo.svg" />
+  <link rel="icon" href="/bblogo.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#000000" />
   <meta name="description" content="Free NBA 2K team randomizer for Blacktop mode. Generate random teams from current players, all-time legends, and classic rosters. The best 2K blacktop randomizer online." />
@@ -23,25 +23,25 @@
   <meta property="og:url" content="https://blacktopblitz.com/" />
   <meta property="og:title" content="Blacktop Blitz - NBA 2K Team Randomizer" />
   <meta property="og:description" content="Free NBA 2K team randomizer for Blacktop mode. Generate random teams from current players, legends, and all-time greats." />
-  <meta property="og:image" content="%PUBLIC_URL%/og-image.png" />
+  <meta property="og:image" content="/og-image.png" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:url" content="https://blacktopblitz.com/" />
   <meta name="twitter:title" content="Blacktop Blitz - NBA 2K Team Randomizer" />
   <meta name="twitter:description" content="Free NBA 2K team randomizer for Blacktop mode. Generate random teams from current players, legends, and all-time greats." />
-  <meta name="twitter:image" content="%PUBLIC_URL%/og-image.png" />
+  <meta name="twitter:image" content="/og-image.png" />
 
-  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <link rel="apple-touch-icon" href="/logo192.png" />
+  <link rel="manifest" href="/manifest.json" />
   <link rel="stylesheet" href="https://use.typekit.net/ggk5lbm.css">
-  <link rel="preload" fetchpriority="high" as="image" href="/src/img/BLACKTOP.svg" type="image/svg">
-  <link rel="preload" fetchpriority="high" as="image" href="/src/img/BLITZ.svg" type="image/svg">
+  <link rel="preload" fetchpriority="high" as="fetch" href="/players.json" crossorigin>
   <title>Blacktop Blitz - NBA 2K Team Randomizer | 2K Blacktop Random Team Generator</title>
 </head>
 
 <body>
   <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
 </body>
 
 </html>
