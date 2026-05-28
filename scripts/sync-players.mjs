@@ -49,7 +49,10 @@ if (res.status === 304) {
 
 if (!res.ok) {
   console.error(`API request failed: HTTP ${res.status}`);
-  console.error(await res.text());
+  // Don't log the raw response body — if the upstream ever echoes the API key
+  // (rare but seen in poorly-designed services), GitHub's secret masking only
+  // catches exact string matches and would miss URL-encoded or partial echoes.
+  console.error("Response body suppressed to avoid leaking secrets in CI logs.");
   process.exit(1);
 }
 
@@ -60,6 +63,19 @@ if (!body.success || !Array.isArray(body.data)) {
 }
 
 console.log(`✓ Fetched ${body.data.length} players`);
+
+// Sanity floor — if the upstream ever returns a much smaller roster than
+// expected (data outage, partial scrape, schema regression), bail before
+// clobbering the live file. Current roster is ~1,872 players across all
+// teamTypes; 500 is well below that floor but well above any single teamType.
+const MIN_EXPECTED = 500;
+if (body.data.length < MIN_EXPECTED) {
+  console.error(
+    `Suspiciously small roster (${body.data.length} < ${MIN_EXPECTED} expected). ` +
+      `Refusing to overwrite ${OUT_FILE}. Investigate the upstream API before forcing a sync.`
+  );
+  process.exit(1);
+}
 
 // Trim each player to the fields blacktop's player cards use. If new card
 // features need extra fields (e.g. attributes for stat filters), extend the

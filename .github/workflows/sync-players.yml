@@ -27,10 +27,23 @@ jobs:
         run: |
           git config user.name "blacktop-blitz-bot"
           git config user.email "bot@users.noreply.github.com"
-          if [[ -n $(git status --porcelain public/players.json .github/state/players.etag) ]]; then
-            git add public/players.json .github/state/players.etag
-            git commit -m "chore: sync player data from nba2kapi [skip ci]"
-            git push
-          else
+          if [[ -z $(git status --porcelain public/players.json .github/state/players.etag) ]]; then
             echo "✓ No roster changes — nothing to commit"
+            exit 0
           fi
+          git add public/players.json .github/state/players.etag
+          git commit -m "chore: sync player data from nba2kapi [skip ci]"
+          # Rebase onto any commits that landed between checkout and push (e.g.
+          # a parallel manual dispatch). If push still fails after rebase, the
+          # step exits non-zero so the run shows red in the Actions UI instead
+          # of silently leaving stale data.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "✓ Pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "Push attempt $attempt rejected; rebasing and retrying"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+          done
+          echo "::error::All push attempts failed — investigate concurrent runs or branch protection"
+          exit 1
