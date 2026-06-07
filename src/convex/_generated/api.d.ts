@@ -11,6 +11,7 @@
 import type * as analytics from "../analytics.js";
 import type * as crons from "../crons.js";
 import type * as feedback from "../feedback.js";
+import type * as siteStats from "../siteStats.js";
 
 import type {
   ApiFromModules,
@@ -22,6 +23,7 @@ declare const fullApi: ApiFromModules<{
   analytics: typeof analytics;
   crons: typeof crons;
   feedback: typeof feedback;
+  siteStats: typeof siteStats;
 }>;
 
 /**

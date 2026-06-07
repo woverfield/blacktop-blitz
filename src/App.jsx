@@ -5,6 +5,7 @@ import MainMenu from "./components/MainMenu";
 import TeamSelection from "./components/TeamSelection";
 import About from "./pages/About";
 import Feedback from "./pages/Feedback";
+import PageviewTracker from "./components/PageviewTracker";
 import { preloadPlayers } from "./lib/nba2kapi";
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
     <Router>
       <div className="App background flex flex-col overflow-auto h-screen">
         <Navigation />
+        <PageviewTracker />
         <Routes>
           <>
             <Route exact path="/" element={<MainMenu />} />
