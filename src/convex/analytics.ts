@@ -21,6 +21,18 @@ export const trackEvent = mutation({
       timestamp: Date.now(),
       metadata,
     });
+
+    // Also maintain a cumulative aggregate per eventType so lifetime totals
+    // survive the 90-day cleanup cron (raw events = rolling detail).
+    const existing = await ctx.db
+      .query("analyticsAggregates")
+      .withIndex("by_type", (q) => q.eq("eventType", eventType))
+      .first();
+    if (existing) {
+      await ctx.db.patch(existing._id, { count: existing.count + 1, lastUpdated: Date.now() });
+    } else {
+      await ctx.db.insert("analyticsAggregates", { eventType, count: 1, lastUpdated: Date.now() });
+    }
   },
 });
 
@@ -117,5 +129,39 @@ export const cleanupOldEvents = internalMutation({
     if (deleted > 0) {
       console.log(`[analytics] Cleaned up ${deleted} events older than ${retentionDays} days`);
     }
+  },
+});
+
+/**
+ * Get all cumulative aggregate counts (lifetime, survives the cleanup cron).
+ */
+export const getAllAggregates = query({
+  args: {},
+  handler: async (ctx) => {
+    const aggs = await ctx.db.query("analyticsAggregates").collect();
+    const result: Record<string, number> = {};
+    for (const a of aggs) result[a.eventType] = a.count;
+    return result;
+  },
+});
+
+/**
+ * Internal: set an aggregate count directly. Used for the one-time backfill/seed
+ * to an honest lifetime floor (max of current 90-day count and the documented
+ * baseline) so totals grow accurately from there.
+ */
+export const setAggregateCount = internalMutation({
+  args: { eventType: v.string(), count: v.number() },
+  handler: async (ctx, { eventType, count }) => {
+    const existing = await ctx.db
+      .query("analyticsAggregates")
+      .withIndex("by_type", (q) => q.eq("eventType", eventType))
+      .first();
+    if (existing) {
+      await ctx.db.patch(existing._id, { count, lastUpdated: Date.now() });
+    } else {
+      await ctx.db.insert("analyticsAggregates", { eventType, count, lastUpdated: Date.now() });
+    }
+    return { eventType, count };
   },
 });

@@ -18,14 +18,33 @@ export default defineSchema({
   analyticsEvents: defineTable({
     eventType: v.string(),
     timestamp: v.number(),
-    metadata: v.optional(v.object({
-      gameSize: v.optional(v.string()),      // "1v1", "2v2", etc.
-      queryParams: v.optional(v.string()),   // JSON of filters used
-      roundNumber: v.optional(v.number()),
-      totalRounds: v.optional(v.number()),
-    })),
+    // Loosely typed: tolerate legacy/ad-hoc fields on old events so the schema
+    // deploys cleanly against existing data. Current code writes structured
+    // metadata (gameSize / queryParams / roundNumber / totalRounds).
+    metadata: v.optional(v.any()),
   })
     .index("by_type", ["eventType"])
     .index("by_timestamp", ["timestamp"])
     .index("by_type_and_timestamp", ["eventType", "timestamp"]),
+
+  // Cumulative per-eventType counts so lifetime totals survive the 90-day
+  // cleanup cron (raw analyticsEvents are pruned; these are not).
+  analyticsAggregates: defineTable({
+    eventType: v.string(),
+    count: v.number(),
+    lastUpdated: v.number(),
+  }).index("by_type", ["eventType"]),
+
+  // --- Site stats (pageview analytics) ---
+  // Cumulative counters keyed by "total" | "path:<p>" | "day:<YYYY-MM-DD>" | "uvday:<YYYY-MM-DD>".
+  pageviewCounters: defineTable({
+    key: v.string(),
+    count: v.number(),
+  }).index("by_key", ["key"]),
+
+  // Per-day unique-visitor dedup rows (pruned > 120 days by cron).
+  pageviewVisits: defineTable({
+    date: v.string(),
+    visitorId: v.string(),
+  }).index("by_date_and_visitor", ["date", "visitorId"]),
 });
