@@ -21,7 +21,7 @@ export default function About() {
             If you enjoy randomizing your NBA 2K teams, have fun using this site!
           </p>
           <div className="flex justify-center text-black my-10 font-medium flex-wrap gap-4">
-            <a href="https://github.com/woverfield/blacktop-blitz" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/wkoverfield/blacktop-blitz" target="_blank" rel="noopener noreferrer">
               <motion.button
                 className="menu-btn bg-white p-5 text-xl rounded-2xl flex items-center gap-2"
                 initial={{ opacity: 0, y: 100 }}

@@ -14,7 +14,7 @@ Site: https://blacktopblitz.com/
 
 ## Player Data
 
-Player data lives in `public/players.json` and is refreshed automatically once a day by `.github/workflows/sync-players.yml`, which pulls from the [nba2kapi](https://github.com/woverfield/nba2kapi) `/api/players/bulk` endpoint. The frontend loads it as a same-origin static file — no API calls from end-user browsers.
+Player data lives in `public/players.json` and is refreshed automatically once a day by `.github/workflows/sync-players.yml`, which pulls from the [nba2kapi](https://github.com/wkoverfield/nba2kapi) `/api/players/bulk` endpoint. The frontend loads it as a same-origin static file — no API calls from end-user browsers.
 
 **Force a manual sync:**
 ```bash
@@ -34,7 +34,7 @@ To run Blacktop Blitz locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/woverfield/blacktop-blitz.git
+   git clone https://github.com/wkoverfield/blacktop-blitz.git
    ```
 
 2. Navigate into the project directory:

@@ -344,7 +344,7 @@ export default function Feedback() {
               You can also join the discussion on GitHub:
             </p>
             <a
-              href="https://github.com/woverfield/blacktop-blitz/discussions"
+              href="https://github.com/wkoverfield/blacktop-blitz/discussions"
               target="_blank"
               rel="noopener noreferrer"
             >

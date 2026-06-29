@@ -11,7 +11,7 @@ draft teams, compare them. Live at https://blacktopblitz.com.
 - **Frontend:** React 18 + Vite, React Router, MUI, Framer Motion
 - **Backend:** Convex (feedback, analytics events, site stats)
 - **Player data:** static `public/players.json`, refreshed daily by
-  `.github/workflows/sync-players.yml` from the [nba2kapi](https://github.com/woverfield/nba2kapi)
+  `.github/workflows/sync-players.yml` from the [nba2kapi](https://github.com/wkoverfield/nba2kapi)
   `/api/players/bulk` endpoint — no API calls from end-user browsers
 - **Hosting:** Vercel · **Analytics:** Vercel Analytics + custom Convex events
 
