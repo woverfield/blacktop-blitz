@@ -23,10 +23,17 @@ export default function PlayerOptions({
   const [teamTwoInner] = useState([]);
 
   const getOptions = () => {
+    // Pull 3 distinct players at random. Guard the loop: if the pool somehow
+    // has fewer than 3 unique entries, an unbounded `while (size < 3)` would
+    // spin forever and lock (white/black-screen) the tab. Cap the attempts and
+    // return whatever we got instead of hanging.
+    const target = Math.min(3, possiblePlayers.length);
     const options = new Set();
-    while (options.size < 3) {
+    let attempts = 0;
+    while (options.size < target && attempts < 100) {
       const playerIdx = Math.floor(Math.random() * possiblePlayers.length);
       options.add(possiblePlayers[playerIdx]);
+      attempts++;
     }
     return Array.from(options);
   };
