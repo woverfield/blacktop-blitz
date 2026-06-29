@@ -8,7 +8,7 @@ A fast NBA 2K Blacktop team randomizer/draft tool. Pick a game size and filters,
 draft teams, compare them. Live at https://blacktopblitz.com.
 
 ## Actual architecture (June 2026)
-- **Frontend:** React 19 + Vite, React Router, MUI, Framer Motion
+- **Frontend:** React 18 + Vite, React Router, MUI, Framer Motion
 - **Backend:** Convex (feedback, analytics events, site stats)
 - **Player data:** static `public/players.json`, refreshed daily by
   `.github/workflows/sync-players.yml` from the [nba2kapi](https://github.com/woverfield/nba2kapi)
@@ -39,7 +39,7 @@ Feb 2026 baseline was 6,210 teams / 3,105 drafts completed — steady growth.
 - **Funnel polish** — `draft_abandoned` (967) vs completed (3,315): investigate
   where the ~25% who start but don't finish drop off
 - **Roster freshness banner** — show "data as of <date>" from players.json
-- **PWA / install** — it's already a single-purpose tool people reopen
+- **Finish PWA / installability** — a `public/manifest.json` already exists; add a service worker so it's truly installable (single-purpose tool people reopen)
 
 ## Design principles
 1. Basketball-first, playground energy
