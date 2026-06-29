@@ -1,4 +1,5 @@
 import React from "react";
+import { reportError } from "../lib/errorLogger";
 
 /**
  * App-wide error boundary.
@@ -21,9 +22,13 @@ export default class ErrorBoundary extends React.Component {
   }
 
   componentDidCatch(error, info) {
-    // Surface it in the console / Vercel logs for debugging. Kept lightweight
-    // on purpose — no external error service wired up yet.
     console.error("Draft crashed:", error, info?.componentStack);
+    // Report so we can actually see device-specific render crashes in analytics.
+    reportError("react-boundary", error, {
+      componentStack: info?.componentStack
+        ? String(info.componentStack).slice(0, 1000)
+        : "",
+    });
   }
 
   handleReset = () => {
@@ -33,7 +38,7 @@ export default class ErrorBoundary extends React.Component {
   render() {
     if (this.state.hasError) {
       return (
-        <div className="h-full w-full flex flex-col items-center justify-center text-white text-center p-8 gap-4">
+        <div className="flex-1 w-full flex flex-col items-center justify-center text-white text-center p-8 gap-4">
           <h1 className="text-4xl font-serif">Something went wrong</h1>
           <p className="max-w-md opacity-80">
             The draft hit a snag on this device. Your picks weren&apos;t saved —
