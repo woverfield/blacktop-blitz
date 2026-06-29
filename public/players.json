@@ -386,6 +386,19 @@
     "height": "6'11\""
   },
   {
+    "name": "Giannis Antetokounmpo",
+    "team": "Miami Heat",
+    "teamType": "curr",
+    "overall": 97,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Miami-Heat-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Giannis-Antetokounmpo-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "height": "6'11\""
+  },
+  {
     "name": "Hakeem Olajuwon",
     "team": "1993-94 Houston Rockets",
     "teamType": "class",
@@ -513,7 +526,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'6\""
+    "height": "6'8\""
   },
   {
     "name": "Michael Jordan",
@@ -744,6 +757,18 @@
       "PF"
     ],
     "height": "6'5\""
+  },
+  {
+    "name": "Jalen Brunson",
+    "team": "New York Knicks",
+    "teamType": "curr",
+    "overall": 96,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/New-York-Knicks-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Jalen-Brunson-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PG"
+    ],
+    "height": "6'2\""
   },
   {
     "name": "John Havlicek",
@@ -1140,8 +1165,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Boston-Celtics-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Jaylen-Brown-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "PF"
+      "SG",
+      "SF"
     ],
     "height": "6'6\""
   },
@@ -1192,7 +1217,7 @@
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Kawhi-Leonard-2K-Photo-1280x720.jpg",
     "positions": [
       "SF",
-      "PF"
+      "SG"
     ],
     "height": "6'7\""
   },
@@ -1452,19 +1477,6 @@
     "height": "6'8\""
   },
   {
-    "name": "Donovan Mitchell",
-    "team": "Cleveland Cavaliers",
-    "teamType": "curr",
-    "overall": 94,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/Cleveland-Cavaliers-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/Donovan-Mitchell-2K-Photo-1280x720.jpg",
-    "positions": [
-      "SG",
-      "PG"
-    ],
-    "height": "6'2\""
-  },
-  {
     "name": "Dwight Howard",
     "team": "All-Time Orlando Magic",
     "teamType": "allt",
@@ -1513,18 +1525,6 @@
       "C"
     ],
     "height": "6'10\""
-  },
-  {
-    "name": "Jalen Brunson",
-    "team": "New York Knicks",
-    "teamType": "curr",
-    "overall": 94,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/New-York-Knicks-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/Jalen-Brunson-2K-Photo-1280x720.jpg",
-    "positions": [
-      "PG"
-    ],
-    "height": "6'2\""
   },
   {
     "name": "Jayson Tatum",
@@ -1932,10 +1932,23 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Phoenix-Suns-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Devin-Booker-2K-Photo-1280x720.jpg",
     "positions": [
-      "PG",
-      "SG"
+      "SG",
+      "PG"
     ],
-    "height": "6'6\""
+    "height": "6'5\""
+  },
+  {
+    "name": "Donovan Mitchell",
+    "team": "Cleveland Cavaliers",
+    "teamType": "curr",
+    "overall": 93,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Cleveland-Cavaliers-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Donovan-Mitchell-2K-Photo-1280x720.jpg",
+    "positions": [
+      "SG",
+      "PG"
+    ],
+    "height": "6'2\""
   },
   {
     "name": "Donovan Mitchell",
@@ -3198,19 +3211,6 @@
     "height": "6'7\""
   },
   {
-    "name": "James Harden",
-    "team": "Cleveland Cavaliers",
-    "teamType": "curr",
-    "overall": 90,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/Cleveland-Cavaliers-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/James-Harden-2K-Photo-1280x720.jpg",
-    "positions": [
-      "PG",
-      "SG"
-    ],
-    "height": "6'5\""
-  },
-  {
     "name": "Jason Kidd",
     "team": "All-Time Phoenix Suns",
     "teamType": "allt",
@@ -3244,8 +3244,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Dallas-Mavericks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Kyrie-Irving-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "PG"
+      "PG",
+      "SG"
     ],
     "height": "6'2\""
   },
@@ -3880,6 +3880,19 @@
     "height": "6'5\""
   },
   {
+    "name": "James Harden",
+    "team": "Cleveland Cavaliers",
+    "teamType": "curr",
+    "overall": 89,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Cleveland-Cavaliers-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/James-Harden-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "height": "6'5\""
+  },
+  {
     "name": "Jerry Sloan",
     "team": "All-Time Chicago Bulls",
     "teamType": "allt",
@@ -4183,7 +4196,7 @@
       "PF",
       "PG"
     ],
-    "height": "6'7\""
+    "height": "6'8\""
   },
   {
     "name": "Scottie Pippen",
@@ -4295,7 +4308,7 @@
     "positions": [
       "PG"
     ],
-    "height": "6'1\""
+    "height": "6'2\""
   },
   {
     "name": "Tyrese Maxey",
@@ -4528,19 +4541,6 @@
     "height": "6'3\""
   },
   {
-    "name": "Chet Holmgren",
-    "team": "Oklahoma City Thunder",
-    "teamType": "curr",
-    "overall": 88,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/Oklahoma-City-Thunder-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/Chet-Holmgren-2K-Photo-1280x720.jpg",
-    "positions": [
-      "PF",
-      "C"
-    ],
-    "height": "7'1\""
-  },
-  {
     "name": "Chris Bosh",
     "team": "All-Time Miami Heat",
     "teamType": "allt",
@@ -4639,9 +4639,9 @@
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Deni-Avdija-2K-Photo-1280x720.jpg",
     "positions": [
       "SF",
-      "PG"
+      "SG"
     ],
-    "height": "6'9\""
+    "height": "6'8\""
   },
   {
     "name": "Derrick Coleman",
@@ -4791,10 +4791,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Golden-State-Warriors-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Jimmy-Butler-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "PF"
     ],
-    "height": "6'7\""
+    "height": "6'6\""
   },
   {
     "name": "Joe Caldwell",
@@ -4853,6 +4853,19 @@
     "teamType": "curr",
     "overall": 88,
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Charlotte-Hornets-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/LaMelo-Ball-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "height": "6'7\""
+  },
+  {
+    "name": "LaMelo Ball",
+    "team": "Minnesota Timberwolves",
+    "teamType": "curr",
+    "overall": 88,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Minnesota-Timberwolves-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/LaMelo-Ball-2K-Photo-1280x720.jpg",
     "positions": [
       "PG",
@@ -5456,6 +5469,19 @@
     "height": "7'0\""
   },
   {
+    "name": "Chet Holmgren",
+    "team": "Oklahoma City Thunder",
+    "teamType": "curr",
+    "overall": 87,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Oklahoma-City-Thunder-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Chet-Holmgren-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "height": "7'1\""
+  },
+  {
     "name": "Chris Kaman",
     "team": "All-Time Los Angeles Clippers",
     "teamType": "allt",
@@ -5530,19 +5556,6 @@
       "SF"
     ],
     "height": "6'4\""
-  },
-  {
-    "name": "De’Aaron Fox",
-    "team": "San Antonio Spurs",
-    "teamType": "curr",
-    "overall": 87,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/San-Antonio-Spurs-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/DeAaron-Fox-2K-Photo-1280x720.jpg",
-    "positions": [
-      "PG",
-      "SG"
-    ],
-    "height": "6'3\""
   },
   {
     "name": "DeAndre Jordan",
@@ -5974,10 +5987,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Utah-Jazz-2K-Roster-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Lauri-Markkanen-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "PF"
     ],
-    "height": "6'11\""
+    "height": "7'1\""
   },
   {
     "name": "Marcus Camby",
@@ -6272,6 +6285,19 @@
     "height": "6'5\""
   },
   {
+    "name": "Tyler Herro",
+    "team": "Milwaukee Bucks",
+    "teamType": "curr",
+    "overall": 87,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Milwaukee-Bucks-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Tyler-Herro-2K-Photo-1280x720.jpg",
+    "positions": [
+      "SG",
+      "PG"
+    ],
+    "height": "6'5\""
+  },
+  {
     "name": "Vin Baker",
     "team": "All-Time Milwaukee Bucks",
     "teamType": "allt",
@@ -6524,6 +6550,19 @@
     "height": "5'10\""
   },
   {
+    "name": "De’Aaron Fox",
+    "team": "San Antonio Spurs",
+    "teamType": "curr",
+    "overall": 86,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/San-Antonio-Spurs-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/DeAaron-Fox-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "height": "6'3\""
+  },
+  {
     "name": "Derrick Coleman",
     "team": "All-Time Charlotte Hornets",
     "teamType": "allt",
@@ -6547,7 +6586,7 @@
       "SG",
       "SF"
     ],
-    "height": "6'5\""
+    "height": "6'6\""
   },
   {
     "name": "Doc Rivers",
@@ -6894,7 +6933,7 @@
       "SF",
       "SG"
     ],
-    "height": "6'7\""
+    "height": "6'6\""
   },
   {
     "name": "LaMarcus Aldridge",
@@ -7295,7 +7334,7 @@
     "teamType": "curr",
     "overall": 86,
     "teamImg": "https://www.2kratings.com/wp-content/uploads/New-Orleans-Pelicans-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/Zion-Williamson-2K-Photo-1280x720.jpg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Zion-Williamson-on-NBA-2K25-711x400.jpg",
     "positions": [
       "PF",
       "PG"
@@ -7488,8 +7527,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Boston-Celtics-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Derrick-White-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "PG"
+      "PG",
+      "SG"
     ],
     "height": "6'4\""
   },
@@ -7518,6 +7557,19 @@
       "SF"
     ],
     "height": "6'6\""
+  },
+  {
+    "name": "Dylan Harper",
+    "team": "San Antonio Spurs",
+    "teamType": "curr",
+    "overall": 85,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/San-Antonio-Spurs-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Dylan-Harper-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "height": "6'5\""
   },
   {
     "name": "Eddie Jones",
@@ -7652,6 +7704,19 @@
     "overall": 85,
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Minnesota-Timberwolves-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Julius-Randle-Timberwolves-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PF",
+      "C"
+    ],
+    "height": "6'9\""
+  },
+  {
+    "name": "Julius Randle",
+    "team": "Brooklyn Nets",
+    "teamType": "curr",
+    "overall": 85,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Brooklyn-Nets-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Julius-Randle-2K-Photo-1-1280x720.jpg",
     "positions": [
       "PF",
       "C"
@@ -7794,8 +7859,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Miami-Heat-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Norman-Powell-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "SG"
+      "SG",
+      "SF"
     ],
     "height": "6'4\""
   },
@@ -8043,7 +8108,7 @@
     "height": "6'4\""
   },
   {
-    "name": "Alexandre Sarr",
+    "name": "Alex Sarr",
     "team": "Washington Wizards",
     "teamType": "curr",
     "overall": 84,
@@ -8151,7 +8216,7 @@
     "playerImage": "https://www.2kratings.com/wp-content/uploads/DeMar-DeRozan-2K-Photo-1280x720.jpg",
     "positions": [
       "SF",
-      "PF"
+      "SG"
     ],
     "height": "6'6\""
   },
@@ -8228,10 +8293,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Phoenix-Suns-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Dillon-Brooks-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "PF"
     ],
-    "height": "6'6\""
+    "height": "6'7\""
   },
   {
     "name": "Doc Rivers",
@@ -8258,19 +8323,6 @@
       "SF"
     ],
     "height": "6'6\""
-  },
-  {
-    "name": "Dylan Harper",
-    "team": "San Antonio Spurs",
-    "teamType": "curr",
-    "overall": 84,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/San-Antonio-Spurs-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/Dylan-Harper-2K-Photo-1280x720.jpg",
-    "positions": [
-      "PG",
-      "SG"
-    ],
-    "height": "6'5\""
   },
   {
     "name": "Gail Goodrich",
@@ -8507,10 +8559,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/New-Orleans-Pelicans-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Saddiq-Bey-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "PF"
     ],
-    "height": "6'7\""
+    "height": "6'8\""
   },
   {
     "name": "Scott Skiles",
@@ -8649,7 +8701,7 @@
       "SG",
       "PG"
     ],
-    "height": "6'5\""
+    "height": "6'4\""
   },
   {
     "name": "Bruce Bowen",
@@ -8665,7 +8717,20 @@
     "height": "6'8\""
   },
   {
-    "name": "C.J. McCollum",
+    "name": "Cason Wallace",
+    "team": "Oklahoma City Thunder",
+    "teamType": "curr",
+    "overall": 83,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Oklahoma-City-Thunder-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Cason-Wallace-2K-Photo-1280x720.jpg",
+    "positions": [
+      "SG",
+      "PG"
+    ],
+    "height": "6'3\""
+  },
+  {
+    "name": "CJ McCollum",
     "team": "Atlanta Hawks",
     "teamType": "curr",
     "overall": 83,
@@ -8748,8 +8813,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Atlanta-Hawks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Dyson-Daniels-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "PG"
+      "SF",
+      "SG"
     ],
     "height": "6'7\""
   },
@@ -8963,8 +9028,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Atlanta-Hawks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Nickeil-Alexander-Walker-2K-Photo-1280x720.jpg",
     "positions": [
-      "PG",
-      "SG"
+      "SG",
+      "PG"
     ],
     "height": "6'5\""
   },
@@ -9019,7 +9084,7 @@
     "height": "6'8\""
   },
   {
-    "name": "R.J. Barrett",
+    "name": "RJ Barrett",
     "team": "Toronto Raptors",
     "teamType": "curr",
     "overall": 83,
@@ -9219,7 +9284,7 @@
     "positions": [
       "C"
     ],
-    "height": "7'4\""
+    "height": "7'2\""
   },
   {
     "name": "Willis Reed",
@@ -9244,6 +9309,19 @@
     "positions": [
       "SG",
       "SF"
+    ],
+    "height": "6'5\""
+  },
+  {
+    "name": "Alex Caruso",
+    "team": "Oklahoma City Thunder",
+    "teamType": "curr",
+    "overall": 82,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Oklahoma-City-Thunder-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Alex-Caruso-2K-Photo-1280x720.jpg",
+    "positions": [
+      "SF",
+      "PG"
     ],
     "height": "6'5\""
   },
@@ -9306,8 +9384,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Los-Angeles-Clippers-Primary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Bennedict-Mathurin-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "SG"
+      "SG",
+      "SF"
     ],
     "height": "6'5\""
   },
@@ -9318,19 +9396,6 @@
     "overall": 82,
     "teamImg": "https://www.2kratings.com/wp-content/uploads/76-01-Los-Angeles-Lakers-Classic-2K.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Byron-Scott.png",
-    "positions": [
-      "SG",
-      "PG"
-    ],
-    "height": "6'3\""
-  },
-  {
-    "name": "Cason Wallace",
-    "team": "Oklahoma City Thunder",
-    "teamType": "curr",
-    "overall": 82,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/Oklahoma-City-Thunder-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/Cason-Wallace-2K-Photo-1280x720.jpg",
     "positions": [
       "SG",
       "PG"
@@ -9438,7 +9503,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'3\""
+    "height": "6'4\""
   },
   {
     "name": "Jabari Smith Jr.",
@@ -9462,7 +9527,7 @@
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Jalen-Green-2K-Photo-1280x720.jpg",
     "positions": [
       "SG",
-      "PG"
+      "SF"
     ],
     "height": "6'4\""
   },
@@ -9556,6 +9621,19 @@
     "height": "6'4\""
   },
   {
+    "name": "Julian Champagnie",
+    "team": "San Antonio Spurs",
+    "teamType": "curr",
+    "overall": 82,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/San-Antonio-Spurs-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Julian-Champagnie-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "height": "6'7\""
+  },
+  {
     "name": "Jusuf Nurkic",
     "team": "Utah Jazz",
     "teamType": "curr",
@@ -9565,7 +9643,7 @@
     "positions": [
       "C"
     ],
-    "height": "7'2\""
+    "height": "6'11\""
   },
   {
     "name": "Keith Van Horn",
@@ -9627,8 +9705,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Washington-Wizards-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/KyShawn-George-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "PF"
+      "PF",
+      "SF"
     ],
     "height": "6'8\""
   },
@@ -9718,7 +9796,7 @@
     "positions": [
       "C"
     ],
-    "height": "7'7\""
+    "height": "7'1\""
   },
   {
     "name": "Matas Buzelis",
@@ -9731,7 +9809,7 @@
       "PF",
       "SF"
     ],
-    "height": "6'10\""
+    "height": "6'8\""
   },
   {
     "name": "Mike Bibby",
@@ -9763,6 +9841,19 @@
     "teamType": "curr",
     "overall": 82,
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Minnesota-Timberwolves-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Naz-Reid-2K-Photo-1280x720.jpg",
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "height": "6'9\""
+  },
+  {
+    "name": "Naz Reid",
+    "team": "Charlotte Hornets",
+    "teamType": "curr",
+    "overall": 82,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Charlotte-Hornets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Naz-Reid-2K-Photo-1280x720.jpg",
     "positions": [
       "C",
@@ -9853,8 +9944,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Milwaukee-Bucks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Ryan-Rollins-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "PG"
+      "PG",
+      "SG"
     ],
     "height": "6'3\""
   },
@@ -9954,10 +10045,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Utah-Jazz-2K-Roster-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Ace-Bailey-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "SG"
+      "SG",
+      "SF"
     ],
-    "height": "6'10\""
+    "height": "6'9\""
   },
   {
     "name": "Andrew Wiggins",
@@ -10006,8 +10097,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Golden-State-Warriors-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Brandin-Podziemski-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "PG"
+      "PG",
+      "SG"
     ],
     "height": "6'4\""
   },
@@ -10019,10 +10110,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Utah-Jazz-2K-Roster-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Brice-Sensabaugh-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "SG"
     ],
-    "height": "6'5\""
+    "height": "6'6\""
   },
   {
     "name": "Cameron Thomas",
@@ -10058,10 +10149,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Charlotte-Hornets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Coby-White-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "PG"
+      "PG",
+      "SG"
     ],
-    "height": "6'5\""
+    "height": "6'4\""
   },
   {
     "name": "Collin Gillespie",
@@ -10083,8 +10174,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Toronto-Raptors-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Collin-Murray-Boyles-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "C"
+      "C",
+      "PF"
     ],
     "height": "6'7\""
   },
@@ -10096,8 +10187,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Chicago-Bulls-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Collin-Sexton-2K-Photo-1280x720.jpg",
     "positions": [
-      "PG",
-      "SG"
+      "SG",
+      "PG"
     ],
     "height": "6'3\""
   },
@@ -10178,6 +10269,19 @@
     "height": "6'4\""
   },
   {
+    "name": "Grayson Allen",
+    "team": "Charlotte Hornets",
+    "teamType": "curr",
+    "overall": 81,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Charlotte-Hornets-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Grayson-Allen-2K-Photo-1280x720.jpg",
+    "positions": [
+      "SG",
+      "SF"
+    ],
+    "height": "6'3\""
+  },
+  {
     "name": "Horace Grant",
     "team": "1988-89 Chicago Bulls",
     "teamType": "class",
@@ -10224,8 +10328,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Indiana-Pacers-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Jarace-Walker-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "PF"
     ],
     "height": "6'7\""
   },
@@ -10250,8 +10354,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Portland-Trail-Blazers-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Jerami-Grant-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "PF"
     ],
     "height": "6'7\""
   },
@@ -10292,6 +10396,19 @@
       "SF"
     ],
     "height": "6'7\""
+  },
+  {
+    "name": "Keldon Johnson",
+    "team": "San Antonio Spurs",
+    "teamType": "curr",
+    "overall": 81,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/San-Antonio-Spurs-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Keldon-Johnson-2K-Photo-1280x720.jpg",
+    "positions": [
+      "SG",
+      "SF"
+    ],
+    "height": "6'6\""
   },
   {
     "name": "Kerry Kittles",
@@ -10370,6 +10487,19 @@
     "height": "6'7\""
   },
   {
+    "name": "Miles Bridges",
+    "team": "Phoenix Suns",
+    "teamType": "curr",
+    "overall": 81,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Phoenix-Suns-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Miles-Bridges-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "height": "6'7\""
+  },
+  {
     "name": "Monta Ellis",
     "team": "2006-07 Golden State Warriors",
     "teamType": "class",
@@ -10389,8 +10519,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Dallas-Mavericks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Naji-Marshall-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "PG"
     ],
     "height": "6'6\""
   },
@@ -10413,6 +10543,18 @@
     "overall": 81,
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Brooklyn-Nets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Nicolas-Claxton-2K-Photo-1280x720.jpg",
+    "positions": [
+      "C"
+    ],
+    "height": "6'11\""
+  },
+  {
+    "name": "Nic Claxton",
+    "team": "Chicago Bulls",
+    "teamType": "curr",
+    "overall": 81,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Chicago-Bulls-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Nic-Claxton-2K-Photo-1280x720.jpg",
     "positions": [
       "C"
     ],
@@ -10479,7 +10621,7 @@
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Santi-Aldama-2K-Photo-1280x720.jpg",
     "positions": [
       "PF",
-      "SF"
+      "C"
     ],
     "height": "6'11\""
   },
@@ -10554,10 +10696,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Washington-Wizards-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Will-Riley-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "SG"
+      "PF",
+      "SF"
     ],
-    "height": "6'8\""
+    "height": "6'9\""
   },
   {
     "name": "Zydrunas Ilgauskas",
@@ -10579,23 +10721,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Indiana-Pacers-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Aaron-Nesmith-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "SG"
     ],
     "height": "6'6\""
-  },
-  {
-    "name": "Alex Caruso",
-    "team": "Oklahoma City Thunder",
-    "teamType": "curr",
-    "overall": 80,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/Oklahoma-City-Thunder-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/Alex-Caruso-2K-Photo-1280x720.jpg",
-    "positions": [
-      "SF",
-      "PG"
-    ],
-    "height": "6'5\""
   },
   {
     "name": "Amar’e Stoudemire",
@@ -10631,8 +10760,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Chicago-Bulls-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Anfernee-Simons-2K-Photo-1280x720.jpg",
     "positions": [
-      "PG",
-      "SG"
+      "SG",
+      "PG"
     ],
     "height": "6'3\""
   },
@@ -10674,6 +10803,19 @@
       "PF"
     ],
     "height": "6'11\""
+  },
+  {
+    "name": "Bobby Portis",
+    "team": "Miami Heat",
+    "teamType": "curr",
+    "overall": 80,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Miami-Heat-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Bobby-Portis-Jr-2K-Photo-1280x720.jpg",
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "height": "6'10\""
   },
   {
     "name": "Bobby Portis Jr.",
@@ -10734,8 +10876,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Memphis-Grizzlies-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Cedric-Coward-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "SG"
+      "SG",
+      "SF"
     ],
     "height": "6'5\""
   },
@@ -10837,10 +10979,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/New-Orleans-Pelicans-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Derik-Queen-2K-Photo-1280x720.jpg",
     "positions": [
-      "C",
-      "PF"
+      "PF",
+      "C"
     ],
-    "height": "6'10\""
+    "height": "6'9\""
   },
   {
     "name": "Dick Barnett",
@@ -10914,8 +11056,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Memphis-Grizzlies-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/GG-Jackson-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "PF"
+      "PF",
+      "SF"
     ],
     "height": "6'9\""
   },
@@ -10927,10 +11069,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Golden-State-Warriors-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Gui-Santos-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "PF"
     ],
-    "height": "6'6\""
+    "height": "6'7\""
   },
   {
     "name": "Henry Bibby",
@@ -10998,6 +11140,19 @@
     "height": "6'6\""
   },
   {
+    "name": "Jaime Jaquez Jr.",
+    "team": "Milwaukee Bucks",
+    "teamType": "curr",
+    "overall": 80,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Milwaukee-Bucks-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Jaime-Jaquez-Jr-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "height": "6'6\""
+  },
+  {
     "name": "Jakob Poeltl",
     "team": "Toronto Raptors",
     "teamType": "curr",
@@ -11019,6 +11174,19 @@
     "positions": [
       "SG",
       "SF"
+    ],
+    "height": "6'3\""
+  },
+  {
+    "name": "Jared McCain",
+    "team": "Oklahoma City Thunder",
+    "teamType": "curr",
+    "overall": 80,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Oklahoma-City-Thunder-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Jared-McCain-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PG",
+      "SG"
     ],
     "height": "6'3\""
   },
@@ -11046,7 +11214,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'4\""
+    "height": "6'3\""
   },
   {
     "name": "Joe Johnson",
@@ -11061,24 +11229,24 @@
     "height": "6'7\""
   },
   {
-    "name": "Julian Champagnie",
-    "team": "San Antonio Spurs",
-    "teamType": "curr",
-    "overall": 80,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/San-Antonio-Spurs-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/Julian-Champagnie-2K-Photo-1280x720.jpg",
-    "positions": [
-      "PF",
-      "SF"
-    ],
-    "height": "6'7\""
-  },
-  {
     "name": "Kel’el Ware",
     "team": "Miami Heat",
     "teamType": "curr",
     "overall": 80,
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Miami-Heat-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Kelel-Ware-2K-Photo-1280x720.jpg",
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "height": "7'5\""
+  },
+  {
+    "name": "Kel’el Ware",
+    "team": "Milwaukee Bucks",
+    "teamType": "curr",
+    "overall": 80,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Milwaukee-Bucks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Kelel-Ware-2K-Photo-1280x720.jpg",
     "positions": [
       "C",
@@ -11107,8 +11275,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Milwaukee-Bucks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Kyle-Kuzma-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "PF"
     ],
     "height": "6'9\""
   },
@@ -11212,7 +11380,7 @@
       "C",
       "PF"
     ],
-    "height": "6'9\""
+    "height": "6'10\""
   },
   {
     "name": "Muggsy Bogues",
@@ -11261,10 +11429,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Dallas-Mavericks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/PJ-Washington-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "PF"
+      "PF",
+      "SF"
     ],
-    "height": "6'6\""
+    "height": "6'7\""
   },
   {
     "name": "Pelle Larsson",
@@ -11274,8 +11442,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Miami-Heat-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Pelle-Larsson-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "SG"
     ],
     "height": "6'5\""
   },
@@ -11444,7 +11612,7 @@
       "C",
       "PF"
     ],
-    "height": "6'9\""
+    "height": "6'8\""
   },
   {
     "name": "Alton Lister",
@@ -11493,10 +11661,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Washington-Wizards-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Bilal-Coulibaly-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "SG"
     ],
-    "height": "6'8\""
+    "height": "6'7\""
   },
   {
     "name": "Buck Williams",
@@ -11532,10 +11700,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Memphis-Grizzlies-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Cam-Spencer-2K-Photo-1280x720.jpg",
     "positions": [
-      "PG",
-      "SG"
+      "SG",
+      "PG"
     ],
-    "height": "6'4\""
+    "height": "6'3\""
   },
   {
     "name": "Caris LeVert",
@@ -11638,7 +11806,7 @@
       "SF",
       "PF"
     ],
-    "height": "6'8\""
+    "height": "6'7\""
   },
   {
     "name": "De’Anthony Melton",
@@ -11651,7 +11819,7 @@
       "SG",
       "PG"
     ],
-    "height": "6'3\""
+    "height": "6'2\""
   },
   {
     "name": "Deandre Ayton",
@@ -11712,7 +11880,7 @@
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Derrick-Jones-Jr-2K-Photo-1280x720.jpg",
     "positions": [
       "PF",
-      "C"
+      "SF"
     ],
     "height": "6'6\""
   },
@@ -11724,8 +11892,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Golden-State-Warriors-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Draymond-Green-2K-Photo-1280x720.jpg",
     "positions": [
-      "C",
-      "PF"
+      "PF",
+      "C"
     ],
     "height": "6'6\""
   },
@@ -11813,9 +11981,22 @@
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Herbert-Jones-2K-Photo-1280x720.jpg",
     "positions": [
       "SF",
-      "PF"
+      "SG"
     ],
     "height": "6'7\""
+  },
+  {
+    "name": "Isaiah Joe",
+    "team": "Detroit Pistons",
+    "teamType": "curr",
+    "overall": 79,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Detroit-Pistons-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Isaiah-Joe-2K-Photo-1280x720.jpg",
+    "positions": [
+      "SG",
+      "PG"
+    ],
+    "height": "6'4\""
   },
   {
     "name": "J.R. Smith",
@@ -11867,7 +12048,7 @@
       "C",
       "PF"
     ],
-    "height": "6'9\""
+    "height": "6'8\""
   },
   {
     "name": "Jamal Mashburn",
@@ -11881,19 +12062,6 @@
       "PF"
     ],
     "height": "6'8\""
-  },
-  {
-    "name": "Jared McCain",
-    "team": "Oklahoma City Thunder",
-    "teamType": "curr",
-    "overall": 79,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/Oklahoma-City-Thunder-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/Jared-McCain-2K-Photo-1280x720.jpg",
-    "positions": [
-      "PG",
-      "SG"
-    ],
-    "height": "6'3\""
   },
   {
     "name": "Jaxson Hayes",
@@ -11997,19 +12165,6 @@
     "height": "6'8\""
   },
   {
-    "name": "Keldon Johnson",
-    "team": "San Antonio Spurs",
-    "teamType": "curr",
-    "overall": 79,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/San-Antonio-Spurs-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/Keldon-Johnson-2K-Photo-1280x720.jpg",
-    "positions": [
-      "SG",
-      "SF"
-    ],
-    "height": "6'6\""
-  },
-  {
     "name": "Kendall Gill",
     "team": "1992-93 Charlotte Hornets",
     "teamType": "class",
@@ -12056,8 +12211,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Utah-Jazz-2K-Roster-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Kyle-Filipowski-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "C"
+      "C",
+      "PF"
     ],
     "height": "6'11\""
   },
@@ -12084,7 +12239,7 @@
       "C",
       "PF"
     ],
-    "height": "6'10\""
+    "height": "6'11\""
   },
   {
     "name": "Max Strus",
@@ -12148,7 +12303,7 @@
     "positions": [
       "C"
     ],
-    "height": "6'10\""
+    "height": "6'9\""
   },
   {
     "name": "Paul Reed",
@@ -12222,8 +12377,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Toronto-Raptors-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Sandro-Mamukelashvili-2K-Photo-1280x720.jpg",
     "positions": [
-      "C",
-      "PF"
+      "PF",
+      "C"
     ],
     "height": "6'9\""
   },
@@ -12274,8 +12429,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Houston-Rockets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Tari-Eason-2K-Photo-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "SG"
     ],
     "height": "6'8\""
   },
@@ -12515,10 +12670,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Brooklyn-Nets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Egor-Demin-2K-Photo-1280x720.jpg",
     "positions": [
-      "PG",
-      "SG"
+      "SG",
+      "PG"
     ],
-    "height": "6'9\""
+    "height": "6'8\""
   },
   {
     "name": "Etan Thomas",
@@ -12531,19 +12686,6 @@
       "C"
     ],
     "height": "6'11\""
-  },
-  {
-    "name": "Harrison Barnes",
-    "team": "San Antonio Spurs",
-    "teamType": "curr",
-    "overall": 78,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/San-Antonio-Spurs-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/Harrison-Barnes-2K-Photo-1280x720.jpg",
-    "positions": [
-      "PF",
-      "SF"
-    ],
-    "height": "6'7\""
   },
   {
     "name": "Hersey Hawkins",
@@ -12585,6 +12727,19 @@
     "height": "6'8\""
   },
   {
+    "name": "Isaiah Stewart",
+    "team": "Memphis Grizzlies",
+    "teamType": "curr",
+    "overall": 78,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Memphis-Grizzlies-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Isaiah-Stewart-2K-Photo-1280x720.jpg",
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "height": "6'8\""
+  },
+  {
     "name": "Ja’Kobe Walter",
     "team": "Toronto Raptors",
     "teamType": "curr",
@@ -12595,7 +12750,7 @@
       "SG",
       "SF"
     ],
-    "height": "6'5\""
+    "height": "6'4\""
   },
   {
     "name": "Jamal Shead",
@@ -12758,8 +12913,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Dallas-Mavericks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Klay-Thompson-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "SG"
+      "SG",
+      "SF"
     ],
     "height": "6'5\""
   },
@@ -12784,7 +12939,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Boston-Celtics-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Luka-Garza-2K-Photo-1280x720.jpg",
     "positions": [
-      "C"
+      "C",
+      "PF"
     ],
     "height": "6'10\""
   },
@@ -12846,8 +13002,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Memphis-Grizzlies-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Olivier-Maxence-Prosper-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "C"
+      "C",
+      "PF"
     ],
     "height": "6'7\""
   },
@@ -12904,7 +13060,7 @@
     "height": "6'7\""
   },
   {
-    "name": "Ron Holland",
+    "name": "Ronald Holland II",
     "team": "Detroit Pistons",
     "teamType": "curr",
     "overall": 78,
@@ -12924,8 +13080,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Boston-Celtics-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Sam-Hauser-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "PF"
     ],
     "height": "6'7\""
   },
@@ -13028,9 +13184,9 @@
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Tre-Johnson-2K-Photo-1280x720.jpg",
     "positions": [
       "SG",
-      "SF"
+      "PG"
     ],
-    "height": "6'6\""
+    "height": "6'5\""
   },
   {
     "name": "Tristan da Silva",
@@ -13271,7 +13427,7 @@
       "PF",
       "SF"
     ],
-    "height": "7'2\""
+    "height": "6'11\""
   },
   {
     "name": "David West",
@@ -13383,9 +13539,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Sacramento-Kings-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Dylan-Cardwell-2K-Photo-1280x720.jpg",
     "positions": [
-      "C"
+      "C",
+      "PF"
     ],
-    "height": "6'11\""
+    "height": "6'10\""
   },
   {
     "name": "Ed Davis",
@@ -13423,7 +13580,20 @@
     "positions": [
       "C"
     ],
-    "height": "6'10\""
+    "height": "6'11\""
+  },
+  {
+    "name": "Harrison Barnes",
+    "team": "San Antonio Spurs",
+    "teamType": "curr",
+    "overall": 77,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/San-Antonio-Spurs-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Harrison-Barnes-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "height": "6'7\""
   },
   {
     "name": "Hubert Davis",
@@ -13449,7 +13619,7 @@
       "SF",
       "SG"
     ],
-    "height": "6'5\""
+    "height": "6'4\""
   },
   {
     "name": "Isaiah Jackson",
@@ -13487,7 +13657,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'2\""
+    "height": "6'1\""
   },
   {
     "name": "Jaylon Tyson",
@@ -13536,10 +13706,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Phoenix-Suns-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Jordan-Goodwin-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "PG",
+      "SG"
     ],
-    "height": "6'4\""
+    "height": "6'3\""
   },
   {
     "name": "Jordan Miller",
@@ -13562,8 +13732,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Denver-Nuggets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Julian-Strawther-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "SG"
     ],
     "height": "6'6\""
   },
@@ -13639,8 +13809,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Los-Angeles-Clippers-Primary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Kris-Dunn-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "PG"
+      "PG",
+      "SG"
     ],
     "height": "6'3\""
   },
@@ -13778,7 +13948,7 @@
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Nique-Clifford-2K-Photo-1280x720.jpg",
     "positions": [
       "SF",
-      "PF"
+      "SG"
     ],
     "height": "6'5\""
   },
@@ -13793,7 +13963,7 @@
       "PF",
       "C"
     ],
-    "height": "6'9\""
+    "height": "6'10\""
   },
   {
     "name": "Nolan Traore",
@@ -13806,7 +13976,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'4\""
+    "height": "6'3\""
   },
   {
     "name": "Oso Ighodaro",
@@ -13829,8 +13999,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Milwaukee-Bucks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Ousmane-Dieng-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "C"
+      "SF",
+      "PF"
     ],
     "height": "6'9\""
   },
@@ -13916,6 +14086,19 @@
     "teamType": "curr",
     "overall": 77,
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Phoenix-Suns-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Royce-ONeale-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PF",
+      "SF"
+    ],
+    "height": "6'6\""
+  },
+  {
+    "name": "Royce O’Neale",
+    "team": "Charlotte Hornets",
+    "teamType": "curr",
+    "overall": 77,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Charlotte-Hornets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Royce-ONeale-2K-Photo-1280x720.jpg",
     "positions": [
       "PF",
@@ -14035,7 +14218,7 @@
       "C",
       "PF"
     ],
-    "height": "6'10\""
+    "height": "7'3\""
   },
   {
     "name": "Vlade Divac",
@@ -14061,7 +14244,7 @@
       "SF",
       "SG"
     ],
-    "height": "6'10\""
+    "height": "6'8\""
   },
   {
     "name": "Zach Collins",
@@ -14073,7 +14256,7 @@
     "positions": [
       "C"
     ],
-    "height": "6'11\""
+    "height": "6'9\""
   },
   {
     "name": "A.C. Green",
@@ -14109,8 +14292,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Milwaukee-Bucks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/AJ-Green-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "PF"
+      "SG",
+      "SF"
     ],
     "height": "6'4\""
   },
@@ -14163,6 +14346,19 @@
       "SF"
     ],
     "height": "6'6\""
+  },
+  {
+    "name": "Bones Hyland",
+    "team": "Minnesota Timberwolves",
+    "teamType": "curr",
+    "overall": 76,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Minnesota-Timberwolves-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Bones-Hyland-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "height": "6'2\""
   },
   {
     "name": "Bones Hyland",
@@ -14312,10 +14508,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Utah-Jazz-2K-Roster-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Cody-Williams-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "SG"
+      "PF",
+      "SF"
     ],
-    "height": "6'7\""
+    "height": "6'8\""
   },
   {
     "name": "Corey Brewer",
@@ -14351,8 +14547,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Atlanta-Hawks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Corey-Kispert-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "PF"
+      "SG",
+      "SF"
     ],
     "height": "6'6\""
   },
@@ -14505,7 +14701,7 @@
       "SF",
       "SG"
     ],
-    "height": "6'6\""
+    "height": "6'7\""
   },
   {
     "name": "Grant Williams",
@@ -14518,7 +14714,7 @@
       "PF",
       "C"
     ],
-    "height": "6'6\""
+    "height": "6'7\""
   },
   {
     "name": "Guerschon Yabusele",
@@ -14528,10 +14724,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Chicago-Bulls-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Guerschon-Yabusele-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "C"
+      "C",
+      "PF"
     ],
-    "height": "6'8\""
+    "height": "6'7\""
   },
   {
     "name": "Hedo Turkoglu",
@@ -14606,10 +14802,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Washington-Wizards-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Jamir-Watkins-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "PF"
     ],
-    "height": "6'7\""
+    "height": "6'6\""
   },
   {
     "name": "Jamison Battle",
@@ -14747,8 +14943,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Washington-Wizards-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Julian-Reese-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "C"
+      "C",
+      "PF"
     ],
     "height": "6'9\""
   },
@@ -14784,6 +14980,19 @@
     "teamType": "curr",
     "overall": 76,
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Miami-Heat-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Kasparas-Jakucionis-2K-Photo-1280x720.jpg",
+    "positions": [
+      "PG",
+      "SG"
+    ],
+    "height": "6'6\""
+  },
+  {
+    "name": "Kasparas Jakucionis",
+    "team": "Milwaukee Bucks",
+    "teamType": "curr",
+    "overall": 76,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Milwaukee-Bucks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Kasparas-Jakucionis-2K-Photo-1280x720.jpg",
     "positions": [
       "PG",
@@ -14850,8 +15059,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Dallas-Mavericks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Khris-Middleton-2K-Photo-1-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "PF"
     ],
     "height": "6'7\""
   },
@@ -14876,8 +15085,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Los-Angeles-Clippers-Primary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Kobe-Sanders-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "PG"
+      "PG",
+      "SF"
     ],
     "height": "6'8\""
   },
@@ -15082,7 +15291,7 @@
       "SG",
       "PG"
     ],
-    "height": "6'5\""
+    "height": "6'4\""
   },
   {
     "name": "Quinten Post",
@@ -15224,7 +15433,7 @@
       "SG",
       "SF"
     ],
-    "height": "6'5\""
+    "height": "6'6\""
   },
   {
     "name": "Thabo Sefolosha",
@@ -15397,7 +15606,7 @@
       "PF",
       "C"
     ],
-    "height": "6'11\""
+    "height": "6'10\""
   },
   {
     "name": "Ben Saraf",
@@ -15410,7 +15619,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'5\""
+    "height": "6'6\""
   },
   {
     "name": "Ben Sheppard",
@@ -15472,8 +15681,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Denver-Nuggets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Bruce-Brown-2K-Photo-1280x720.jpg",
     "positions": [
-      "PG",
-      "SG"
+      "SF",
+      "PG"
     ],
     "height": "6'4\""
   },
@@ -15485,8 +15694,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/New-Orleans-Pelicans-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Bryce-McGowens-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "PG"
+      "SF",
+      "SG"
     ],
     "height": "6'6\""
   },
@@ -15538,7 +15747,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'4\""
+    "height": "6'3\""
   },
   {
     "name": "Caleb Martin",
@@ -15548,8 +15757,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Dallas-Mavericks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Caleb-Martin-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "PF"
+      "PF",
+      "SF"
     ],
     "height": "6'5\""
   },
@@ -15564,7 +15773,7 @@
       "SF",
       "PF"
     ],
-    "height": "6'7\""
+    "height": "6'6\""
   },
   {
     "name": "Chucky Atkins",
@@ -15932,7 +16141,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'1\""
+    "height": "6'4\""
   },
   {
     "name": "John Konchar",
@@ -15985,6 +16194,19 @@
       "SG"
     ],
     "height": "6'5\""
+  },
+  {
+    "name": "Josh Green",
+    "team": "Minnesota Timberwolves",
+    "teamType": "curr",
+    "overall": 75,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Minnesota-Timberwolves-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Josh-Green-2K-Photo-1280x720.jpg",
+    "positions": [
+      "SF",
+      "SG"
+    ],
+    "height": "6'6\""
   },
   {
     "name": "Josh Okogie",
@@ -16073,7 +16295,7 @@
     "positions": [
       "C"
     ],
-    "height": "7'2\""
+    "height": "7'1\""
   },
   {
     "name": "Kurt Rambis",
@@ -16283,10 +16505,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Miami-Heat-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Myron-Gardner-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "SG"
     ],
-    "height": "6'6\""
+    "height": "6'5\""
   },
   {
     "name": "Nick Collison",
@@ -16310,7 +16532,7 @@
     "positions": [
       "C"
     ],
-    "height": "7'2\""
+    "height": "6'11\""
   },
   {
     "name": "Noah Penda",
@@ -16323,7 +16545,7 @@
       "PF",
       "SF"
     ],
-    "height": "6'8\""
+    "height": "6'7\""
   },
   {
     "name": "Norman Powell",
@@ -16346,8 +16568,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Brooklyn-Nets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Ochai-Agbaji-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "PF"
     ],
     "height": "6'5\""
   },
@@ -16374,7 +16596,7 @@
       "PF",
       "SF"
     ],
-    "height": "6'7\""
+    "height": "6'6\""
   },
   {
     "name": "Patty Mills",
@@ -16514,7 +16736,7 @@
       "PF",
       "SF"
     ],
-    "height": "6'8\""
+    "height": "6'7\""
   },
   {
     "name": "Ryan Hollins",
@@ -16538,7 +16760,7 @@
     "positions": [
       "PG"
     ],
-    "height": "6'2\""
+    "height": "5'11\""
   },
   {
     "name": "Sam Cassell",
@@ -16602,7 +16824,7 @@
       "SG",
       "SF"
     ],
-    "height": "6'6\""
+    "height": "6'5\""
   },
   {
     "name": "Steve Kerr",
@@ -16666,7 +16888,7 @@
       "PF",
       "SF"
     ],
-    "height": "6'8\""
+    "height": "6'10\""
   },
   {
     "name": "Timofey Mozgov",
@@ -16742,7 +16964,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'2\""
+    "height": "6'4\""
   },
   {
     "name": "Will Richard",
@@ -16752,10 +16974,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Golden-State-Warriors-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Will-Richard-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "SG"
+      "SG",
+      "SF"
     ],
-    "height": "6'5\""
+    "height": "6'3\""
   },
   {
     "name": "Winston Bennett",
@@ -16867,10 +17089,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Washington-Wizards-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Anthony-Gill-2K-Photo-1280x720.jpg",
     "positions": [
-      "C",
-      "PF"
+      "PF",
+      "C"
     ],
-    "height": "6'8\""
+    "height": "6'7\""
   },
   {
     "name": "B.J. Armstrong",
@@ -17274,7 +17496,7 @@
       "SF",
       "PF"
     ],
-    "height": "6'6\""
+    "height": "6'7\""
   },
   {
     "name": "Jamaree Bouyea",
@@ -17363,7 +17585,7 @@
       "SG",
       "SF"
     ],
-    "height": "6'6\""
+    "height": "6'8\""
   },
   {
     "name": "Joel Anthony",
@@ -17400,7 +17622,7 @@
       "SF",
       "SG"
     ],
-    "height": "6'9\""
+    "height": "6'8\""
   },
   {
     "name": "Jon McGlocklin",
@@ -17423,8 +17645,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Toronto-Raptors-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Jonathan-Mogbo-2K-Photo-1280x720.jpg",
     "positions": [
-      "C",
-      "PF"
+      "PF",
+      "C"
     ],
     "height": "6'9\""
   },
@@ -17434,6 +17656,19 @@
     "teamType": "curr",
     "overall": 74,
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Indiana-Pacers-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Kam-Jones-2K-Photo-1280x720.jpg",
+    "positions": [
+      "SG",
+      "PG"
+    ],
+    "height": "6'4\""
+  },
+  {
+    "name": "Kam Jones",
+    "team": "Chicago Bulls",
+    "teamType": "curr",
+    "overall": 74,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Chicago-Bulls-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Kam-Jones-2K-Photo-1280x720.jpg",
     "positions": [
       "SG",
@@ -17487,8 +17722,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Portland-Trail-Blazers-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Kris-Murray-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "PF"
+      "PF",
+      "SF"
     ],
     "height": "6'8\""
   },
@@ -17528,7 +17763,7 @@
     "positions": [
       "PG"
     ],
-    "height": "6'5\""
+    "height": "6'1\""
   },
   {
     "name": "Luis Scola",
@@ -17629,7 +17864,7 @@
       "PF",
       "C"
     ],
-    "height": "6'10\""
+    "height": "6'11\""
   },
   {
     "name": "Nae’Qwan Tomlin",
@@ -17652,8 +17887,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Golden-State-Warriors-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Nate-Williams-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "SG"
     ],
     "height": "6'5\""
   },
@@ -17665,8 +17900,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Los-Angeles-Clippers-Primary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Nicolas-Batum-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "PF"
+      "PF",
+      "SF"
     ],
     "height": "6'8\""
   },
@@ -17678,8 +17913,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Miami-Heat-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Nikola-Jovic-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "C"
+      "C",
+      "PF"
     ],
     "height": "6'10\""
   },
@@ -17694,7 +17929,7 @@
       "PF",
       "C"
     ],
-    "height": "6'10\""
+    "height": "6'9\""
   },
   {
     "name": "Phil Jackson",
@@ -17754,8 +17989,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Memphis-Grizzlies-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Rayan-Rupert-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "SG"
     ],
     "height": "6'6\""
   },
@@ -17871,7 +18106,7 @@
     "positions": [
       "PG"
     ],
-    "height": "6'1\""
+    "height": "6'5\""
   },
   {
     "name": "Shaun Livingston",
@@ -17945,10 +18180,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Charlotte-Hornets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Tre-Mann-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "PG"
+      "PG",
+      "SG"
     ],
-    "height": "6'3\""
+    "height": "6'4\""
   },
   {
     "name": "Tyler Kolek",
@@ -18084,8 +18319,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Utah-Jazz-2K-Roster-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Blake-Hinson-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "PF"
+      "PF",
+      "SF"
     ],
     "height": "6'8\""
   },
@@ -18100,7 +18335,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'3\""
+    "height": "6'4\""
   },
   {
     "name": "Branden Carlson",
@@ -18201,7 +18436,7 @@
     "positions": [
       "C"
     ],
-    "height": "7'5\""
+    "height": "6'11\""
   },
   {
     "name": "Craig Hodges",
@@ -18239,7 +18474,7 @@
       "SF",
       "SG"
     ],
-    "height": "6'6\""
+    "height": "6'4\""
   },
   {
     "name": "Dalano Banton",
@@ -18252,7 +18487,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'7\""
+    "height": "6'8\""
   },
   {
     "name": "Dalen Terry",
@@ -18328,9 +18563,9 @@
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Drake-Powell-2K-Photo-1280x720.jpg",
     "positions": [
       "SG",
-      "SF"
+      "PG"
     ],
-    "height": "6'6\""
+    "height": "6'5\""
   },
   {
     "name": "Eduardo Najera",
@@ -18403,8 +18638,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Milwaukee-Bucks-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Gary-Harris-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "SG"
+      "SG",
+      "SF"
     ],
     "height": "6'4\""
   },
@@ -18546,7 +18781,7 @@
       "SG",
       "PG"
     ],
-    "height": "6'3\""
+    "height": "6'1\""
   },
   {
     "name": "Jaylen Clark",
@@ -18721,7 +18956,7 @@
     "positions": [
       "PG"
     ],
-    "height": "6'5\""
+    "height": "6'2\""
   },
   {
     "name": "Kyle Lowry",
@@ -18757,8 +18992,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Washington-Wizards-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Leaky-Black-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "SG"
     ],
     "height": "6'6\""
   },
@@ -18785,7 +19020,7 @@
       "SG",
       "SF"
     ],
-    "height": "6'6\""
+    "height": "6'5\""
   },
   {
     "name": "Luther Head",
@@ -18958,8 +19193,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Charlotte-Hornets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Pat-Connaughton-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "SG"
+      "SG",
+      "SF"
     ],
     "height": "6'5\""
   },
@@ -19000,7 +19235,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'3\""
+    "height": "6'2\""
   },
   {
     "name": "Ron Harper Jr.",
@@ -19013,7 +19248,7 @@
       "SF",
       "SG"
     ],
-    "height": "6'4\""
+    "height": "6'5\""
   },
   {
     "name": "Sam Vincent",
@@ -19061,8 +19296,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Denver-Nuggets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Spencer-Jones-2K-Photo-1280x720.jpg",
     "positions": [
-      "SF",
-      "PF"
+      "PF",
+      "SF"
     ],
     "height": "6'7\""
   },
@@ -19140,7 +19375,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'4\""
+    "height": "6'3\""
   },
   {
     "name": "Tariq Abdul-Wahad",
@@ -19389,7 +19624,7 @@
     "playerImage": "https://www.2kratings.com/wp-content/uploads/AJ-Johnson-2K-Photo-1-1280x720.jpg",
     "positions": [
       "SG",
-      "SF"
+      "PG"
     ],
     "height": "6'5\""
   },
@@ -19773,8 +20008,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Utah-Jazz-2K-Roster-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Elijah-Harkless-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "PG",
+      "SG"
     ],
     "height": "6'3\""
   },
@@ -20003,7 +20238,7 @@
       "PF",
       "SF"
     ],
-    "height": "6'7\""
+    "height": "6'6\""
   },
   {
     "name": "Keyon Dooling",
@@ -20204,7 +20439,7 @@
       "PF",
       "SF"
     ],
-    "height": "6'9\""
+    "height": "6'8\""
   },
   {
     "name": "Orlando Robinson",
@@ -20242,7 +20477,7 @@
       "C",
       "PF"
     ],
-    "height": "6'10\""
+    "height": "6'8\""
   },
   {
     "name": "Rayan Rupert",
@@ -20343,7 +20578,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'2\""
+    "height": "6'4\""
   },
   {
     "name": "Wayne Simien",
@@ -20371,6 +20606,19 @@
     "height": "7'0\""
   },
   {
+    "name": "Xavier Tillman",
+    "team": "Charlotte Hornets",
+    "teamType": "curr",
+    "overall": 72,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Charlotte-Hornets-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Xavier-Tillman-Sr-2K-Photo-1280x720.jpg",
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "height": "6'8\""
+  },
+  {
     "name": "Xavier Tillman Sr.",
     "team": "Boston Celtics",
     "teamType": "curr",
@@ -20383,20 +20631,7 @@
     "height": "6'7\""
   },
   {
-    "name": "Xavier Tillman Sr.",
-    "team": "Charlotte Hornets",
-    "teamType": "curr",
-    "overall": 72,
-    "teamImg": "https://www.2kratings.com/wp-content/uploads/Charlotte-Hornets-Secondary-Logo.svg",
-    "playerImage": "https://www.2kratings.com/wp-content/uploads/Xavier-Tillman-Sr-2K-Photo-1280x720.jpg",
-    "positions": [
-      "C",
-      "PF"
-    ],
-    "height": "6'7\""
-  },
-  {
-    "name": "Yuki  Kawamura",
+    "name": "Yuki Kawamura",
     "team": "Chicago Bulls",
     "teamType": "curr",
     "overall": 72,
@@ -20508,7 +20743,7 @@
     "height": "6'10\""
   },
   {
-    "name": "Bronny James Jr.",
+    "name": "Bronny James",
     "team": "Los Angeles Lakers",
     "teamType": "curr",
     "overall": 71,
@@ -20597,7 +20832,7 @@
     "height": "6'9\""
   },
   {
-    "name": "David Jones-Garcia",
+    "name": "David Jones Garcia",
     "team": "San Antonio Spurs",
     "teamType": "curr",
     "overall": 71,
@@ -20684,7 +20919,7 @@
       "SF",
       "PF"
     ],
-    "height": "6'6\""
+    "height": "6'7\""
   },
   {
     "name": "Elden Campbell",
@@ -20747,7 +20982,7 @@
       "PF",
       "C"
     ],
-    "height": "6'9\""
+    "height": "6'8\""
   },
   {
     "name": "Isaiah Livers",
@@ -20984,8 +21219,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Chicago-Bulls-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Mac-McClung-2K-Photo-1280x720.jpg",
     "positions": [
-      "PG",
-      "SG"
+      "SG",
+      "PG"
     ],
     "height": "6'2\""
   },
@@ -21099,7 +21334,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'2\""
+    "height": "6'1\""
   },
   {
     "name": "Rick Brunson",
@@ -21170,9 +21405,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Oklahoma-City-Thunder-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Thomas-Sorber-2K-Photo-1280x720.jpg",
     "positions": [
-      "C"
+      "C",
+      "PF"
     ],
-    "height": "6'10\""
+    "height": "6'9\""
   },
   {
     "name": "Todd MacCulloch",
@@ -21257,10 +21493,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Los-Angeles-Lakers-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Adou-Thiero-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "PF"
     ],
-    "height": "6'8\""
+    "height": "6'7\""
   },
   {
     "name": "Anthony Bonner",
@@ -21422,6 +21658,7 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Orlando-Magic-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Colin-Castleton-2K-Photo-1280x720.jpg",
     "positions": [
+      "PF",
       "C"
     ],
     "height": "6'10\""
@@ -21709,10 +21946,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Chicago-Bulls-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Lachlan-Olbrich-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "C"
+      "C",
+      "PF"
     ],
-    "height": "6'10\""
+    "height": "6'8\""
   },
   {
     "name": "Leonard Miller",
@@ -21962,10 +22199,10 @@
       "SF",
       "PF"
     ],
-    "height": "6'7\""
+    "height": "6'8\""
   },
   {
-    "name": "TyTy Washington",
+    "name": "TyTy Washington Jr.",
     "team": "Los Angeles Clippers",
     "teamType": "curr",
     "overall": 70,
@@ -21985,8 +22222,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Detroit-Pistons-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Wendell-Moore-Jr-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "SG"
     ],
     "height": "6'5\""
   },
@@ -22025,7 +22262,7 @@
     "positions": [
       "C"
     ],
-    "height": "7'2\""
+    "height": "7'1\""
   },
   {
     "name": "Amari Williams",
@@ -22035,10 +22272,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Boston-Celtics-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Amari-Williams-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "C"
+      "C",
+      "PF"
     ],
-    "height": "6'10\""
+    "height": "6'11\""
   },
   {
     "name": "Antoine Carr",
@@ -22087,10 +22324,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Oklahoma-City-Thunder-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Brooks-Barnhizer-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "SF"
+      "SF",
+      "SG"
     ],
-    "height": "6'6\""
+    "height": "6'5\""
   },
   {
     "name": "Charlie Ward",
@@ -22243,7 +22480,7 @@
       "PF",
       "C"
     ],
-    "height": "6'7\""
+    "height": "6'9\""
   },
   {
     "name": "Eric Maynor",
@@ -22317,8 +22554,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/San-Antonio-Spurs-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Harrison-Ingram-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF",
-      "SF"
+      "SF",
+      "SG"
     ],
     "height": "6'5\""
   },
@@ -22419,7 +22656,7 @@
       "SF",
       "SG"
     ],
-    "height": "6'5\""
+    "height": "6'4\""
   },
   {
     "name": "Jon Barry",
@@ -22522,7 +22759,7 @@
       "SF",
       "PF"
     ],
-    "height": "6'8\""
+    "height": "6'9\""
   },
   {
     "name": "Patrick O’Bryant",
@@ -22670,8 +22907,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Memphis-Grizzlies-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Adama-Bal-2K-Photo-1280x720.jpg",
     "positions": [
-      "PG",
-      "SG"
+      "SG",
+      "PG"
     ],
     "height": "6'7\""
   },
@@ -22737,7 +22974,7 @@
       "SG",
       "SF"
     ],
-    "height": "6'5\""
+    "height": "6'4\""
   },
   {
     "name": "Chris Youngblood",
@@ -22775,7 +23012,7 @@
     "positions": [
       "PG"
     ],
-    "height": "6'2\""
+    "height": "6'6\""
   },
   {
     "name": "CJ Huntley",
@@ -22785,9 +23022,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Phoenix-Suns-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/CJ-Huntley-2K-Photo-1280x720.jpg",
     "positions": [
-      "PF"
+      "PF",
+      "C"
     ],
-    "height": "6'10\""
+    "height": "6'9\""
   },
   {
     "name": "Curtis Jones",
@@ -22800,7 +23038,7 @@
       "SG",
       "PG"
     ],
-    "height": "6'4\""
+    "height": "6'3\""
   },
   {
     "name": "David Wingate",
@@ -22976,7 +23214,7 @@
       "PG",
       "SG"
     ],
-    "height": "6'4\""
+    "height": "5'11\""
   },
   {
     "name": "Jackson Rowe",
@@ -23025,7 +23263,7 @@
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Jayson-Kent-2K-Photo-1280x720.jpg",
     "positions": [
       "SF",
-      "PF"
+      "SG"
     ],
     "height": "6'8\""
   },
@@ -23105,7 +23343,7 @@
       "SG",
       "SF"
     ],
-    "height": "6'7\""
+    "height": "6'5\""
   },
   {
     "name": "Mark Sears",
@@ -23268,7 +23506,7 @@
     "positions": [
       "C"
     ],
-    "height": "7'4\""
+    "height": "7'3\""
   },
   {
     "name": "Scott Hastings",
@@ -23391,10 +23629,10 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/New-Orleans-Pelicans-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Trey-Alexander-2K-Photo-1280x720.jpg",
     "positions": [
-      "SG",
-      "PG"
+      "PG",
+      "SG"
     ],
-    "height": "6'4\""
+    "height": "6'5\""
   },
   {
     "name": "Tristan Enaruna",
@@ -23417,8 +23655,8 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Houston-Rockets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Tristen-Newton-2K-Photo-1280x720.jpg",
     "positions": [
-      "PG",
-      "SG"
+      "SG",
+      "PG"
     ],
     "height": "6'5\""
   },
@@ -23545,7 +23783,7 @@
     "positions": [
       "PG"
     ],
-    "height": "6'1\""
+    "height": "6'2\""
   },
   {
     "name": "Jim King",
@@ -23611,6 +23849,19 @@
     "height": "6'9\""
   },
   {
+    "name": "Mouhamadou Gueye",
+    "team": "Minnesota Timberwolves",
+    "teamType": "curr",
+    "overall": 67,
+    "teamImg": "https://www.2kratings.com/wp-content/uploads/Minnesota-Timberwolves-Secondary-Logo.svg",
+    "playerImage": "https://www.2kratings.com/wp-content/uploads/Mouhamadou-Gueye-2K-Photo-1280x720.jpg",
+    "positions": [
+      "C",
+      "PF"
+    ],
+    "height": "6'9\""
+  },
+  {
     "name": "Riley Minix",
     "team": "San Antonio Spurs",
     "teamType": "curr",
@@ -23669,6 +23920,7 @@
     "teamImg": "https://www.2kratings.com/wp-content/uploads/Brooklyn-Nets-Secondary-Logo.svg",
     "playerImage": "https://www.2kratings.com/wp-content/uploads/Trevon-Scott-2K-Photo-1280x720.jpg",
     "positions": [
+      "PF",
       "SF"
     ],
     "height": "6'8\""
