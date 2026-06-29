@@ -5,6 +5,11 @@ import App from "./App";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/react";
 import { ConvexProvider, ConvexReactClient } from "convex/react";
+import { installGlobalErrorLogging } from "./lib/errorLogger";
+
+// Capture uncaught errors / unhandled rejections (incl. async paths the
+// React ErrorBoundary can't see) so device-specific crashes are diagnosable.
+installGlobalErrorLogging();
 
 // Read the Convex URL from either VITE_CONVEX_URL (post-Vite-migration) or
 // REACT_APP_CONVEX_URL (legacy CRA name). Vite only inlines env vars matching

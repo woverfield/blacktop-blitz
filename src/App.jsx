@@ -6,6 +6,7 @@ import TeamSelection from "./components/TeamSelection";
 import About from "./pages/About";
 import Feedback from "./pages/Feedback";
 import PageviewTracker from "./components/PageviewTracker";
+import ErrorBoundary from "./components/ErrorBoundary";
 import { preloadPlayers } from "./lib/nba2kapi";
 
 function App() {
@@ -20,14 +21,16 @@ function App() {
       <div className="App background flex flex-col overflow-auto h-screen">
         <Navigation />
         <PageviewTracker />
-        <Routes>
-          <>
-            <Route exact path="/" element={<MainMenu />} />
-            <Route path="/qplay" element={<TeamSelection />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/feedback" element={<Feedback />} />
-          </>
-        </Routes>
+        <ErrorBoundary>
+          <Routes>
+            <>
+              <Route exact path="/" element={<MainMenu />} />
+              <Route path="/qplay" element={<TeamSelection />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/feedback" element={<Feedback />} />
+            </>
+          </Routes>
+        </ErrorBoundary>
       </div>
     </Router>
   );
