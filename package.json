@@ -39,5 +39,8 @@
     "postcss": "^8.5.15",
     "tailwindcss": "^3.4.4",
     "vite": "^8.0.14"
+  },
+  "overrides": {
+    "postcss-selector-parser": "^7.1.6"
   }
 }
